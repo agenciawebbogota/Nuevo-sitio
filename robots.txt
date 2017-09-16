@@ -1,9 +1,0 @@
-User-agent: *
-Disallow: /includes
-Disallow: /documentos
-Disallow: /anuncios
-Disallow: /archivos
-Disallow: /politicas-de-privacidad.html
-Disallow: /neuromarketing.php
-
-
