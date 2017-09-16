@@ -113,8 +113,7 @@
     <div class="container">
         <ul>
             <li class="home"><a href="index.php"><i class="fa fa-home"></i></a></li>
-            <li><a href="index.html">Inicio</a></li>
-                        <li class="current"><a href="services.php">Diseño Web Emprendedores</a></li>
+            <li><a href="index.html">Inicio</a></li>                        
         </ul>
     </div>
 </nav>

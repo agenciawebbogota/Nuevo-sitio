@@ -543,7 +543,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #111111;
   background-color: #111111;
-  font-size: 1rem;
+  font-size: 16px;
 }
 
 .container {
@@ -633,7 +633,7 @@ hr:last-child {
 p,
 ul,
 ol {
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .site-overlay {
