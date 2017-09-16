@@ -842,7 +842,7 @@ Visibility
 
 .invisible, body .cp-nav-container .logo, body .cp-nav-container > ul, body .cp-nav-container > ul > li > ul, body .cp-nav-container .main-search, body .cp-nav-container .copyright {
   opacity: 0 !important;
-  visibility: hidden !important;
+  
 }
 
 .visible, body .cp-nav-container > ul li:hover > ul, body.cp-active .cp-nav-container .logo,
