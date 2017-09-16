@@ -1,0 +1,15 @@
+[16-Jul-2017 01:28:24 UTC] PHP Warning:  require_once(Cache-Control: max-age=84600): failed to open stream: No such file or directory in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:28:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'Cache-Control: max-age=84600' (include_path='.;/path/to/php/pear') in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:28:32 UTC] PHP Warning:  require_once(Cache-Control: max-age=84600): failed to open stream: No such file or directory in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:28:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'Cache-Control: max-age=84600' (include_path='.;/path/to/php/pear') in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:28:46 UTC] PHP Warning:  require_once(Cache-Control: max-age=84600): failed to open stream: No such file or directory in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:28:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'Cache-Control: max-age=84600' (include_path='.;/path/to/php/pear') in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:28:46 UTC] PHP Warning:  require_once(Cache-Control: max-age=84600): failed to open stream: No such file or directory in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:28:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'Cache-Control: max-age=84600' (include_path='.;/path/to/php/pear') in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:29:00 UTC] PHP Warning:  require_once(Cache-Control: max-age=84600): failed to open stream: No such file or directory in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:29:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'Cache-Control: max-age=84600' (include_path='.;/path/to/php/pear') in /home/agenciaw/public_html/index.php on line 4
+[16-Jul-2017 01:29:20 UTC] PHP Warning:  require_once(Cache-Control: max-age=84600): failed to open stream: No such file or directory in /home/agenciaw/public_html/index.php on line 2
+[16-Jul-2017 01:29:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'Cache-Control: max-age=84600' (include_path='.;/path/to/php/pear') in /home/agenciaw/public_html/index.php on line 2
+[16-Jul-2017 01:29:44 UTC] PHP Warning:  require_once(Cache-Control: max-age=34600): failed to open stream: No such file or directory in /home/agenciaw/public_html/index.php on line 2
+[16-Jul-2017 01:29:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'Cache-Control: max-age=34600' (include_path='.;/path/to/php/pear') in /home/agenciaw/public_html/index.php on line 2
+[18-Jul-2017 22:32:50 UTC] PHP Parse error:  syntax error, unexpected 'ini_set' (T_STRING) in /home/agenciaw/public_html/index.php on line 2

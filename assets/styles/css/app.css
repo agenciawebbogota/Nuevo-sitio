@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+@import url(https://www.agenciawebbogota.com/assets/styles/css/google.css);
 
-@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,800);
+/*@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,800);*/
 
-@import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+@import url(https://www.agenciawebbogota.com/assets/styles/css/font-awesome.min.css);
 
 /******************************************************************
 
@@ -447,9 +447,9 @@ body {
 }
 
 .row {
-  letter-spacing: -0.31em;
+  letter-spacing: -0.41em;
   *letter-spacing: normal;
-  *word-spacing: -0.43em;
+  *word-spacing: -0.53em;
   text-rendering: optimizespeed;
 }
 
@@ -530,7 +530,7 @@ hr:last-child {
 p,
 ul,
 ol {
-  font-weight: 100;
+  font-weight: 200;
 }
 
 .site-overlay {
@@ -1940,7 +1940,7 @@ h3,
 h4,
 h5,
 h6 {
-  line-height: 0.8;
+  line-height: 115%;
   font-family: "Raleway", sans-serif;
 }
 
@@ -2060,16 +2060,6 @@ h4.dotted a,
 h5.dotted a,
 h6.dotted a {
   color: inherit;
-}
-
-
-.livicon {
-  font-style: normal;
-}
-
-.livicon path {
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
 }
 
 
@@ -5845,13 +5835,14 @@ body.fh-visible .main-search [type="submit"] {
 
 
 .scroll-top {  
-  opacity: 0;  
+    opacity: 0;  
   position: fixed;
   bottom: 3rem;
   right: 3rem;
-  color: rgba(0, 0, 0, 0.6);
-  border-color: rgba(0, 0, 0, 0.6) !important;
+  color: white;
+  border-color: gray;
   z-index: 9;
+  background-color:#1795c5 !important;
 }
 
 .scroll-top.visible,
@@ -6594,14 +6585,15 @@ body.search-active .main-search {
 }
 
 .hero .hero-title {
-  font-size: 1.8rem;  
+  font-size: 1.2rem;  
   margin-bottom: 1.5rem;
+  line-height: 150%;
 }
 
 .hero .hero-title h2,
 .hero .hero-title h1 h3 {
   margin: 0.25em 0;
-  line-height: 130%;
+  line-height: 150%;
 }
 
 .hero .hero-title h2:first-child,
@@ -6616,7 +6608,7 @@ body.search-active .main-search {
 
 .hero .hero-title h2 {
   font-size: 1.2em;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .hero .hero-title h3 {
@@ -6627,8 +6619,8 @@ body.search-active .main-search {
 }
 
 .hero .blurb h1 {
-  font-weight: 300;
-  line-height: 120%;
+  font-weight: 100;
+  line-height: 150%;
   color: white;
   border-bottom: 1px dotted;
 }
@@ -6889,18 +6881,17 @@ body.search-active .main-search {
 
 
 .section.more-info {
-  
   background: #f7f7f7 !important;
   color: #111111 !important;
-  
 }
+
 
 .section.more-info:after {
   background-image: url("../../images/section-bg-1.jpg") !important;
   -webkit-background-size: 120% 220% !important;
   background-size: 120% 220% !important;
   background-position: 25% -37% !important;
-  opacity: 0.1;
+  opacity: 0;
 }
 
 .section.more-info .container {
@@ -7091,6 +7082,14 @@ body.search-active .main-search {
   margin: 0.25em 0;
 }
 
+@media (min-width:0px) and (max-width:769px){
+    .section .section-title h2,
+    .section .section-title h3,
+    .section .section-title h4 {
+        text-align:center;
+    }
+}
+
 .section .section-title h2:first-child,
 .section .section-title h3:first-child {
   margin-top: 0;
@@ -7221,13 +7220,13 @@ body.search-active .main-search {
 .section.primary {
   
   background: #f7f7f7;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   
 }
 
 .section.primary .latest-works .container{
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 .section.primary:not(.welcome) header {
@@ -7299,6 +7298,11 @@ body.search-active .main-search {
   position: relative;
 }
 
+.section.primary .section-title h5 {
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
 .section.primary .nav-carousel [class*="nav-"] {
   border-color: #c1c1c1;
   color: #c1c1c1;
@@ -7316,6 +7320,11 @@ body.search-active .main-search {
   }
 }
 
+@media (min-width: 320px) and (max-width: 769px) {
+  .section.primary .section-title p{
+    text-align:center;
+  }
+}
 
 
 .section.secondary {
@@ -7440,9 +7449,16 @@ body.search-active .main-search {
 
 
 .section.skills {
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 50px;
   
+}
+
+@media (min-width:0px) and (max-width:769px){
+    .mision {
+        font-size: 18px !important;
+        text-align:center;
+    }
 }
 
 .section.skills h5 {
@@ -7912,6 +7928,7 @@ body.search-active .main-search {
 .section.why-choose-us .wcu-content {
   position: relative;
   min-height: 450px;
+  margin-bottom: 5px;
 }
 
 .section.why-choose-us .wcu-graphic {
@@ -8307,3 +8324,45 @@ body.single-project .section.testimonials .nav-carousel {
     font-size: 1.4rem;
   }
 }
+
+#overbox3 {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	z-index: 999999;
+	display: block;
+}
+#infobox3 {
+    margin: auto;
+    position: relative;
+    top: 0px;
+    height: 58px;
+    width: 100%;
+    text-align:center;
+    background-color: #001826;
+}
+#infobox3 p {
+    font-family: "Raleway", sans-serif;
+    padding-top:15px;
+    color:#fff ;
+    line-height:15px;
+    font-size:15px;
+    text-align:center;
+}
+#infobox3 p a {
+    margin-right:5px;
+    text-decoration: underline;
+}
+@media all and (max-width: 600px){
+    #infobox3 {
+        width:100%;
+        height:auto;
+    }
+    #infobox3 p{
+        line-height:15px;
+        font-size:12px;
+        margin: 5px 5px 0px 5px;
+        } 
+}    
+

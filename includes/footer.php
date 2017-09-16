@@ -4,7 +4,7 @@
             <div class="span-3 footer-col">
                 <!-- Logo -->
                <div id="" class="vcard">
-                  <img style="float:left; margin-right:4px" src="http://agenciawebbogota.com/assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" class="photo"/>
+                  <img style="float:left; margin-right:4px" src="https://agenciawebbogota.com/assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" class="photo"/>
                  <span class="fn n">
                     <span class="given-name"></span>
                   <span class="additional-name"></span>
@@ -89,9 +89,37 @@
                 </div>                        
             </div>
             <div class="span-3 footer-col">
-                <h3>Nuestro Blog</h3>
-                <h4>Artículos y material de interés</h4>
+                <h3>Visita Nuestro Blog</h3>
+                <h4>Escribimos para tu empresa</h4>
                 <div class="owl-carousel footer-testimonials">
+                    <div class="testimonial">
+                        
+                        <div class="cf">
+                            <span class="profile">
+                                <a class="modal-image thumb"> 
+                                    <img src="assets/images/errores-marketing.jpg" alt="errores al contratar marketing digital" />
+                                </a>
+                            </span>
+                            <cite>
+                                <a href="https://agenciawebbogota.com/blog/7-errores-comunes-con-marketing-digital/" target="_blank"><strong>7 errores comunes que debes evitar si estás iniciando con marketing digital en tu empresa</strong></a>
+                                <i>No malgastes tus recursos en campañas de marketing sin resultados</i>
+                            </cite>
+                        </div>
+                    </div>
+                    <div class="testimonial">
+                        
+                        <div class="cf">
+                            <span class="profile">
+                                <a class="modal-image thumb"> 
+                                    <img src="assets/images/local.jpg" alt="Posicionamiento de negocio local" />
+                                </a>
+                            </span>
+                            <cite>
+                                <a href="https://agenciawebbogota.com/blog/como-posicionar-tu-negocio-local/" target="_blank"><strong>¿Sabías que tu negocio local puede aparecer de primero en Google sin necesidad de tener una página web?</strong></a>
+                                <i>Nosotros estamos obteniendo resultados fantásticos con esto</i>
+                            </cite>
+                        </div>
+                    </div>
                     <div class="testimonial">
                         
                         <div class="cf">
@@ -101,7 +129,7 @@
                                 </a>
                             </span>
                             <cite>
-                                <a href="https://agenciawebbogota.com/blog/neuromarketing-que-es-como-funciona/"><strong>Neuromarketing ¿Qué es?¿Como funciona?</strong></a>
+                                <a href="https://agenciawebbogota.com/blog/neuromarketing-que-es-como-funciona/" target="_blank"><strong>Neuromarketing ¿Qué es?¿Como funciona?</strong></a>
                                 <i>Conceptos básicos, sencillos y fáciles de entender acerca de la tendencia que está transformando el mundo del marketing digital</i>
                             </cite>
                         </div>
@@ -110,27 +138,13 @@
                         
                         <div class="cf">
                             <span class="profile">
-                                <a href="https://agenciawebbogota.com/blog" class="modal-image thumb"> 
-                                    <img src="assets/images/Sin-título-1.png" alt="" />
+                                <a class="modal-image thumb"> 
+                                    <img src="assets/images/sobrecarga.jpg" alt="Sobrecarga de información" tiitle="¿Cómo superar la sobrecarga de información?" />
                                 </a>
                             </span>
                             <cite>
-                                <strong>Blog 2</strong>
-                                <i>Marketing</i>
-                            </cite>
-                        </div>
-                    </div>
-                    <div class="testimonial">
-                        
-                        <div class="cf">
-                            <span class="profile">
-                                <a href="https://agenciawebbogota.com/blog" class="modal-image thumb"> 
-                                    <img src="assets/images/Sin-título-1.png" alt="" />
-                                </a>
-                            </span>
-                            <cite>
-                                <strong>Blog 3</strong>
-                                <i>Tecnología</i>
+                                <a href="https://agenciawebbogota.com/blog/superar-la-sobrecarga-de-informacion/" target="_blank"><strong>5 Tips para superar la sobrecarga de información</strong></a>
+                                <i>Descarga el ebook completamente gratis</i>
                             </cite>
                         </div>
                     </div>
