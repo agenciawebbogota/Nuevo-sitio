@@ -37,7 +37,7 @@
         <link rel="icon" href="assets/images/favicon.png">
         <!-- Stylesheet -->
         <link rel="stylesheet" href="assets/styles/css/app.css">
-        <link rel=”stylesheet” href=”assets/icons/font-awesome/css/font-awesome.min.css“>
+        <link rel=”stylesheet” href="archivos/icons/font-awesome/css/font-awesome.min.css">
         <?php 
             require_once 'includes/analitics.php';
          ?>
@@ -63,8 +63,7 @@
         currency: 'USD'
         });
     </script>
-
-    
+        
 
     <body class="index index-single parallax-title">
         <!-- SITE CONTENT -->
@@ -83,15 +82,50 @@
                         </div>
                         <!-- Main-Nav -->
                         <nav class="main-nav">
+                    <ul>
+                        <li class="active"><a href="services.html">Inicio</a></li>
+                        <!-- Dropdown Nav -->
+                        <li>
+                            <a href="index.html">Emprendedores</a>
                             <ul>
-                                <li class="active"><a href="index.php">Inicio</a></li>
-                                <li><a href="#s-disenoweb">Diseño Web</a></li>
-                                <li><a href="#s-servicios">Servicios Digitales</a></li>
-                                <li><a href="#s-nosotros">Nuestra Agencia</a></li>
-                                <li style="cursor:pointer;"><a onclick='location.href ="https://agenciawebbogota.com/blog/"'>Blog</a></li>
-                                <li><a href="#s-contacto">Contacto</a></li>
-                            </ul>                    
-                        </nav>
+                                <li>
+                                    <a href="index-single.html">Diseño Web</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Marketing Digital</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="about.html">Empresas</a>
+                            <ul>
+                                <li>
+                                    <a href="index-single.html">Diseño Web</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Marketing Digital</a>
+                                </li>
+                                <li>
+                                    <a href="index-single.html">Aplicativos Web</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Google App</a>
+                                </li>
+                                <li>
+                                    <a href="index-single.html">Hosting</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Posicionamiento</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="contact.html">Contacto</a></li>
+                    </ul>
+                    <!-- <div class="icon-round-lrg-plain search-toggle">
+                        <i class="fa fa-search"></i>
+                    </div> -->
+                </nav>
                     </div>
                 </div>
             </header>
