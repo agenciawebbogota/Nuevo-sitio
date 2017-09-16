@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+@import url(fonts/MontserratAlternates-Regular.otf);
 @import url(http://fonts.googleapis.com/css?family=Raleway:100,300,800);
 @import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 /******************************************************************
@@ -540,7 +540,7 @@ html {
 
 body {
   line-height: 1.4;
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #111111;
   background-color: #111111;
   font-size: 1rem;
@@ -842,7 +842,7 @@ Visibility
 
 .invisible, body .cp-nav-container .logo, body .cp-nav-container > ul, body .cp-nav-container > ul > li > ul, body .cp-nav-container .main-search, body .cp-nav-container .copyright {
   opacity: 0 !important;
-  
+  visibility: hidden !important;
 }
 
 .visible, body .cp-nav-container > ul li:hover > ul, body.cp-active .cp-nav-container .logo,
@@ -1255,7 +1255,7 @@ Elements
   text-decoration: none;
   line-height: 2.4;
   border: 2px solid transparent;
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   transition: 0.4s;
   /******************************************************************
   Size Variants
@@ -1592,7 +1592,7 @@ Start building for smaller resolutions
 Font 1
 ******************************************************************/
 .font-1 {
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /******************************************************************
@@ -1798,7 +1798,7 @@ form,
 input,
 textarea,
 label {
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 ::placeholder {
@@ -2757,7 +2757,7 @@ img.mfp-img {
   margin-top: 0;
   margin-bottom: 1.25em;
   font-weight: 100;
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.2rem;
 }
 .price-chart .price {
@@ -3299,7 +3299,7 @@ Modules
 }
 .blog-items .blog-item h4 {
   font-size: 1.4rem;
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   margin-bottom: 0.25em;
 }
@@ -4062,7 +4062,7 @@ body.cp-active .cp-nav-container .main-search {
   margin: 0;
 }
 .app-footer .footer-content h4 {
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.2rem;
   margin-top: 0.25rem;
   font-weight: 100;
@@ -4258,7 +4258,7 @@ body.cp-active .cp-nav-container .main-search {
   }
   .app-header .logo, .app-header .main-nav {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: left;
   }
 }
 
@@ -4389,12 +4389,13 @@ body.fh-visible .main-search [type="submit"] {
 
 .logo img {
   display: block;
-  max-height: 36px;
+  max-height: 60px;
   padding-bottom: 1px;
+  padding-top: 15px;
 }
 @media (min-width: 720px) {
   .logo {
-    padding: 1em 0;
+    padding: 5em 0;
   }
 }
 
@@ -5147,7 +5148,8 @@ body.search-active .main-search {
   top: 57%;
 }
 .hero.sub-header .container h1 {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
+  line-height: 1.2em;
 }
 .hero.sub-header .sh-title-wrapper {
   position: relative;
@@ -5158,11 +5160,12 @@ body.search-active .main-search {
 @media (max-width: 940px) {
   .hero.sub-header {
     text-align: center;
+    line-height: 1em;
   }
 }
 @media (min-width: 720px) {
   .hero.sub-header .container h1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
   }
   .hero.sub-header .cta {
     font-size: 1.2rem;
@@ -5343,8 +5346,6 @@ body.search-active .main-search {
     display: none;
   }
 }
-
-
 
 /* Color Options
 ================================================================ */
@@ -6327,7 +6328,7 @@ Sections
   padding: 0 0.125em;
 }
 .section.primary .section-title h2 span {
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   color: #1795c5;
 }
@@ -6479,7 +6480,7 @@ Sections
   ******************************************************************/
 }
 .section.skills h5 {
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   margin-bottom: 0.5em;
   top: 0;
@@ -6581,7 +6582,7 @@ Sections
   transition-delay: 0.8s;
 }
 .team h4 {
-  font-family: "Lato", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.4rem;
   font-weight: 900;
   margin-bottom: 0.25em;

@@ -23,7 +23,6 @@
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="archivos/styles/css/app.css">
-    <link rel="stylesheet" class="color-switcher" href="archivos/styles/css/app.css">
 
     <!-- Modernizr -->
     <script src="archivos/js/modernizr.min.js"></script>
@@ -42,10 +41,11 @@
             <!-- Logo -->
             <div class="logo" id="logo">
                 <!-- image logo -->
-                <a href="index.php" class="image-logo">
-                    <img src="archivos/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
-                </a>
-
+                <!-- <a href="index-single.html" class="image-logo html-logo">
+                    <img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" />
+                </a> -->
+                <!-- HTML logo -->
+                <a href="index-single.html" class="html-logo"><img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" /></a>
             </div>
             <!-- Main-Nav -->
                             <nav class="main-nav">
@@ -102,9 +102,8 @@
         <section class="hero sub-header">
     <div class="container inactive">
         <div class="sh-title-wrapper">
-            <h1>Services</h1>
-            <p>Aenean lobortis ante nunc. Integer ac justo ex. Curabitur at enim ac nisi lacinia.</p>
-            <a class="button border round cta" href="#">Purchase Theme</a>
+            <h1>Diseño Web para Emprendedores</h1>
+            <p>Nuestra misión es ayudarte a crear y consolidar tu proyecto empresarial</p>
         </div>
     </div>
 </section>
@@ -113,9 +112,9 @@
         <nav class="breadcrumb">
     <div class="container">
         <ul>
-            <li class="home"><a href="index.html"><i class="fa fa-home"></i></a></li>
-            <li><a href="index.html">Nexus</a></li>
-                        <li class="current"><a href="services.html">Services</a></li>
+            <li class="home"><a href="index.php"><i class="fa fa-home"></i></a></li>
+            <li><a href="index.html">Inicio</a></li>
+                        <li class="current"><a href="services.php">Diseño Web Emprendedores</a></li>
         </ul>
     </div>
 </nav>
@@ -413,7 +412,6 @@
         </div>
     </div>
 </section>
-
 <?php
     require_once 'includes/footer.php';
 
