@@ -7,7 +7,7 @@
 Site Name: Nexus HTML Template
 Author: http://edmundreed.co.uk
 
-One Nexus Framework by Edmund Reed 
+One Nexus Framework by Edmund Reed
 http://onenexusproject.com
 
 ******************************************************************/
@@ -842,7 +842,7 @@ Visibility
 
 .invisible, body .cp-nav-container .logo, body .cp-nav-container > ul, body .cp-nav-container > ul > li > ul, body .cp-nav-container .main-search, body .cp-nav-container .copyright {
   opacity: 0 !important;
-  visibility: hidden !important;
+  
 }
 
 .visible, body .cp-nav-container > ul li:hover > ul, body.cp-active .cp-nav-container .logo,
@@ -4386,48 +4386,7 @@ body.fh-visible .main-search [type="submit"] {
 }
 /* Logo
 ================================================================ */
-.logo {
-  font-size: 1.65rem;
-  padding: 1.2em 0;
-  font-weight: 400;
-}
-.logo a {
-  display: inline-block;
-  vertical-align: top;
-  color: white;
-  border-bottom: 0;
-  white-space: nowrap;
-  line-height: 1.3;
-}
-.logo a:hover .fa {
-  transform: none;
-  transition: 0.4s;
-}
-.logo a:hover .fa:before {
-  content: "\f015";
-}
-.logo .fa {
-  background: #1795c5;
-  position: relative;
-  height: 1.6em;
-  width: 1.6em;
-  border-radius: 0.25em;
-  font-size: 0.8em;
-  transition: 0.5s;
-  vertical-align: top;
-  text-align: center;
-  border: 2px solid transparent;
-  backface-visibility: hidden;
-  transform: rotate(180deg);
-}
-.logo .fa:before {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  left: 0;
-  right: 0;
-  margin: auto;
-}
+
 .logo img {
   display: block;
   max-height: 36px;
@@ -5385,9 +5344,7 @@ body.search-active .main-search {
   }
 }
 
-.logo .image-logo {
-  display: none;
-}
+
 
 /* Color Options
 ================================================================ */
