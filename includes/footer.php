@@ -254,6 +254,7 @@
 <script src="assets/js/app.js"></script>
 <script type="text/javascript" src="assets/js/form-registro.js"></script>
 <script src="assets/js/homepage.js"></script>
+<script type="text/javascript" src="assets/js/theme-options.js"></script>
 <!--<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script> -->
 <script src="assets/js/cookies.js" type="text/javascript"></script>
 <script type='application/ld+json'>

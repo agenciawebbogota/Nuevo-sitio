@@ -37,7 +37,7 @@
         <link rel="icon" href="assets/images/favicon.png">
         <!-- Stylesheet -->
         <link rel="stylesheet" href="assets/styles/css/app.css">
-        <link rel=”stylesheet” href="archivos/icons/font-awesome/css/font-awesome.min.css">
+        <link rel=”stylesheet” href="assets/icons/font-awesome/css/font-awesome.min.css">
         <?php 
             require_once 'includes/analitics.php';
          ?>

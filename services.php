@@ -1,14 +1,10 @@
 
 <!DOCTYPE html>
-<!--[if IE 8]>     <html class="no-js ie ie8 lte9 lte8"> <![endif]-->
-<!--[if IE 9]>     <html class="no-js ie ie9 lte9"> <![endif]-->
-<!--[if gt IE 9]>  <html class="no-js"> <![endif]-->
-<!--[if !IE]><!--> <html class="no-js"> <!--<![endif]-->
-
+<html class="no-js" lang="es">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Nexus - A clean & Modern HTML Template</title>
+    <title>Servicios para Emprendedores</title>
     <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
@@ -22,10 +18,10 @@
     <![endif]-->
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="archivos/styles/css/app.css">
+    <link rel="stylesheet" href="assets/styles/css/app.css">
 
     <!-- Modernizr -->
-    <script src="archivos/js/modernizr.min.js"></script>
+    <script src="assets/js/modernizr.min.js"></script>
 </head>
 <body class="further services">
 
@@ -41,58 +37,56 @@
             <!-- Logo -->
             <div class="logo" id="logo">
                 <!-- image logo -->
-                <!-- <a href="index-single.html" class="image-logo html-logo">
-                    <img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" />
-                </a> -->
-                <!-- HTML logo -->
-                <a href="index-single.html" class="html-logo"><img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" /></a>
+                <a href="index.php" class="image-logo">
+                    <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
+                </a>
             </div>
             <!-- Main-Nav -->
-                            <nav class="main-nav">
+                <nav class="main-nav">
                     <ul>
+                        <li><a href="services.html">Inicio</a></li>
                         <!-- Dropdown Nav -->
-                        <li>
-                            <a href="index.html">Home</a>
+                        <li class="active">
+                            <a>Emprendedores</a>
                             <ul>
-                                <li>
-                                    <a href="index-single.html">Parallax Title</a>
-                                    <ul>
-                                        <li><a href="index-single.html">One-Page</a></li>
-                                        <li><a href="index.html">Multi-Page</a></li>
-                                    </ul>
+                                <li class="active">
+                                    <a  href="#">Diseño Web</a>
                                 </li>
-                                <li>
-                                    <a href="index-single-2.html">Parallax Background</a>
-                                    <ul>
-                                        <li><a href="index-single-2.html">One-Page</a></li>
-                                        <li><a href="index-2.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="index-single-3.html">Fixed Background</a>
-                                    <ul>
-                                        <li><a href="index-single-3.html">One-Page</a></li>
-                                        <li><a href="index-3.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="index-single-4.html">Video Background</a>
-                                    <ul>
-                                        <li><a href="index-single-4.html">One-Page</a></li>
-                                        <li><a href="index-4.html">Multi-Page</a></li>
-                                    </ul>
+                                <li> 
+                                    <a href="index-single.html">Marketing Digital</a>
                                 </li>
                             </ul>
                         </li>
-                        <li><a href="about.html">About</a></li>
-                        <li class="active"><a href="services.html">Services</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li>
+                            <a>Empresas</a>
+                            <ul>
+                                <li>
+                                    <a href="index-single.html">Diseño Web</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Marketing Digital</a>
+                                </li>
+                                <li>
+                                    <a href="index-single.html">Aplicativos Web</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Google App</a>
+                                </li>
+                                <li>
+                                    <a href="index-single.html">Hosting</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Posicionamiento</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Cursos</a></li>
                         <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.html">Contacto</a></li>
                     </ul>
-                    <div class="icon-round-lrg-plain search-toggle">
+                    <!-- <div class="icon-round-lrg-plain search-toggle">
                         <i class="fa fa-search"></i>
-                    </div>
+                    </div> -->
                 </nav>
                     </div>
     </div>
