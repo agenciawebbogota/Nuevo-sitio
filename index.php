@@ -36,7 +36,7 @@
         <link rel="apple-touch-icon" href="assets/images/apple-icon-touch.png">
         <link rel="icon" href="assets/images/favicon.png">
         <!-- Stylesheet -->
-        <link rel="stylesheet" href="assets/styles/css/app.css">
+        <link rel="stylesheet" href="assets/styles/css/index.css">
         <link rel=”stylesheet” href="assets/icons/font-awesome/css/font-awesome.min.css">
         <?php 
             require_once 'includes/analitics.php';
@@ -81,7 +81,7 @@
                             </a>
                         </div>
                         <!-- Main-Nav -->
-                        <nav class="main-nav">
+                <nav class="main-nav">
                     <ul>
                         <li class="active"><a href="services.html">Inicio</a></li>
                         <!-- Dropdown Nav -->

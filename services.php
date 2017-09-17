@@ -3,12 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Nexus - A clean & Modern HTML Template</title>
+    <title>Diseño Web Emprendedores</title>
     <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
@@ -16,7 +15,7 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <!-- Modernizr -->
-    <!-- <script src="archivos/js/modernizr.min.js"></script> -->
+    <script src="assets/js/modernizr.min.js"></script>
 </head>
 <body class="further services">
     <!-- SITE CONTENT -->
@@ -28,60 +27,55 @@
             <!-- Logo -->
             <div class="logo" id="logo">
                 <!-- image logo -->
-                <!-- <a href="index-single.html" class="image-logo html-logo">
-                    <img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" />
-                </a> -->
-                <!-- HTML logo -->
-                <a href="index-single.html" class="html-logo"><img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" /></a>
+                <a href="index.php" class="image-logo">
+                    <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
+                </a>
             </div>
             <!-- Main-Nav -->
-                            <nav class="main-nav">
-                    <ul>
-                        <li class="active"><a href="services.html">Inicio</a></li>
-                        <!-- Dropdown Nav -->
-                        <li>
-                            <a href="index.html">Emprendedores</a>
-                            <ul>
-                                <li>
-                                    <a href="index-single.html">Diseño Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Marketing Digital</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="about.html">Empresas</a>
-                            <ul>
-                                <li>
-                                    <a href="index-single.html">Diseño Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Marketing Digital</a>
-                                </li>
-                                <li>
-                                    <a href="index-single.html">Aplicativos Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Google App</a>
-                                </li>
-                                <li>
-                                    <a href="index-single.html">Hosting</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Posicionamiento</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Cursos</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contacto</a></li>
-                    </ul>
-                    <!-- <div class="icon-round-lrg-plain search-toggle">
-                        <i class="fa fa-search"></i>
-                    </div> -->
-                </nav>
-            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li class="active"><a href="services.html">Inicio</a></li>
+                    <!-- Dropdown Nav -->
+                    <li>
+                        <a href="index.html">Emprendedores</a>
+                        <ul>
+                            <li class="active">
+                                <a href="index-single.html">Diseño Web</a>
+                            </li>
+                            <li> 
+                                <a href="index-single.html">Marketing Digital</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="about.html">Empresas</a>
+                        <ul>
+                            <li>
+                                <a href="index-single.html">Diseño Web</a>
+                            </li>
+                            <li> 
+                                <a href="index-single.html">Marketing Digital</a>
+                            </li>
+                            <li>
+                                <a href="index-single.html">Aplicativos Web</a>
+                            </li>
+                            <li> 
+                                <a href="index-single.html">Google App</a>
+                            </li>
+                            <li>
+                                <a href="index-single.html">Hosting</a>
+                            </li>
+                            <li> 
+                                <a href="index-single.html">Posicionamiento</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Cursos</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
     </div>
 </header>
         <!-- Sub-Header -->
