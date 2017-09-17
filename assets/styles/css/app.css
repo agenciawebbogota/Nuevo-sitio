@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-
+@import url(fonts/MontserratAlternates-Regular.otf);
 /*@import url(https://www.agenciawebbogota.com/assets/styles/css/google.css); Poner esta opción cuando se suba al servidor*/
 @import url(google.css);
 
@@ -14,12 +14,9 @@
 /******************************************************************
 
 Site Name: Agencia Web Bogota
-Author: http://www.agenciawebbogota.com
+Author: https://www.agenciawebbogota.com
 
 ******************************************************************/
-
-
-
 article,
 aside,
 details,
