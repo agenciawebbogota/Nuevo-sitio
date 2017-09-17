@@ -31,6 +31,7 @@
                 <!-- image logo -->
                 <!-- <a href="index-single.html" class="image-logo html-logo">
                     <img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" />
+                    
                 </a> -->
                 <!-- HTML logo -->
                 <a href="index-single.html" class="html-logo"><img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" /></a>
