@@ -6299,6 +6299,7 @@ Sections
 /* Primary Section
 ================================================================ */
 .section.primary {
+  padding-top: 30px;
   /******************************************************************
   Start building the basic layout
   ******************************************************************/
@@ -6318,7 +6319,8 @@ Sections
   padding-top: 0;
 }
 .section.primary .section-title h2 {
-  font-weight: 100;
+  font-weight: 400;
+  line-height: 1.2;
 }
 .section.primary .section-title h2 b {
   display: inline-block;
@@ -6469,15 +6471,21 @@ Sections
 /* Skills
 ================================================================ */
 .section.skills {
-  /******************************************************************
-  Start building the basic layout
-  ******************************************************************/
-  /******************************************************************
-  Start building for smaller resolutions
-  ******************************************************************/
-  /******************************************************************
-  Start building for larger resolutions
-  ******************************************************************/
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+@media (min-width:0px) and (max-width:769px){
+    .mision {
+        font-size: 18px !important;
+        text-align:center;
+        padding-bottom: 20px;
+    }
+}
+@media (min-width:0px) and (max-width:769px){
+    .mision2 {
+        font-size: 16px !important;
+        text-align:center;
+    }
 }
 .section.skills h5 {
   font-family: 'Montserrat', sans-serif;

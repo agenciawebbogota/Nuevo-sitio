@@ -113,7 +113,7 @@
     <div class="container">
         <ul>
             <li class="home"><a href="index.php"><i class="fa fa-home"></i></a></li>
-            <li><a href="index.html">Inicio</a></li>                        
+            <li><a href="index.php">Inicio</a></li>
         </ul>
     </div>
 </nav>
@@ -123,9 +123,10 @@
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h2>Our <i>Services</i> Are <strong>World Class <i class="fa fa-trophy"></i></strong></h2>
+                <h2><i>La mejor opción</i> para tu <strong>Emprendimiento</strong></h2>
             </div>
-            <p class="sub-text">Suspendisse tempus sodales neque, eget eleifend <a href="#">turpis tristique</a> eu. Nullam a nisl maximus, ultrices est ut blandit nislr, elit in lobortis mattis.</p>
+            <p class="sub-text">En Agencia Web Bogotá conocemos y entendemos las necesidades de los emprendedores. Por eso hemos ideado
+            un paquete de diseño web que va más allá de la simple construcción de una página web.</p>
         </header>
         <div class="row inactive">
             <div class="span-4 widget service">
@@ -133,11 +134,12 @@
                     <header>
                         <i class="livicon" data-n="desktop" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Web Design</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Diseño Profesional</h4>
+                            <h5>Optimizado con Neuromarketing</h5>
                         </div>
                     </header>
-                    <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus. Integer libero justo.</p>
+                    <p>Aplicamos conceptos probados de neuromarketing a todos nuestros diseños, lo que te garantiza un impacto positivo entre tus
+                    visitantes y una mayor recordación de tu marca.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -145,11 +147,12 @@
                     <header>
                         <i class="livicon" data-n="tablet" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Mobile App Design</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Sitios Multiplataforma</h4>
+                            <h5>No todos son iguales</h5>
                         </div>
                     </header>
-                    <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus. Integer libero justo.</p>
+                    <p>No construímos todos los sitios web con la misma técnica, conocemos los sistemas y como se ajustan a cada necesidad. Trabajamos con
+                      WordPress, Joomla, Prestashop, HTML5 + CSS3 + JavaScript</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -157,11 +160,12 @@
                     <header>
                         <i class="livicon" data-n="image" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Graphic Design</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Imágenes Unicas</h4>
+                            <h5>Solo las verás en tu página</h5>
                         </div>
                     </header>
-                    <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus. Integer libero justo.</p>
+                    <p>Contamos con suscripciones Premium a bancos de imágenes y material gráfico exclusivo que usaremos solo una vez. Así garantizamos que el contenido visual
+                    de tu sitio web sea único e irrepetible.</p>
                 </div>
             </div>
         </div>
@@ -171,11 +175,12 @@
                     <header>
                         <i class="livicon" data-n="doc-portrait" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Posters & Flyers</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Optimización SEO</h4>
+                            <h5>Posicionamiento en buscadores</h5>
                         </div>
                     </header>
-                    <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus. Integer libero justo.</p>
+                    <p>Creamos tu sitio web lo mejor optimizado posible para que logre la mejor posición natural. Así cuando reducirás costos considerablemente si decides contratar
+                    un servicio profesional de posicionamiento.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -183,11 +188,12 @@
                     <header>
                         <i class="livicon" data-n="connect" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Social Media</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Hosting y Dominio</h4>
+                            <h5>Alojamiento web</h5>
                         </div>
                     </header>
-                    <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus. Integer libero justo.</p>
+                    <p>Te incluímos el servicio de alojamiento web + dominio durante el primer año, en servidores seguros, rápidos y confiables. Tendrás además cuentas mail
+                    corporativas ilimitadas con el nombre de tu dominio.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -195,13 +201,99 @@
                     <header>
                         <i class="livicon" data-n="servers" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Web Hosting</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Versión Móviles</h4>
+                            <h5>Diseño Web Responsive</h5>
                         </div>
                     </header>
-                    <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus. Integer libero justo.</p>
+                    <p>Todos nuestros diseños se adaptan perfectamente a cualquier dispositivo móvil, sin pérdida de contenido ni calidad en los gráficos e imágenes. Si requieres
+                    además te incluímos la versión AMP a muy bajo costo.</p>
                 </div>
             </div>
+        </div>
+    </div>
+</section>
+<section class="section primary latest-works" id="portfolio">
+<div class="container">
+<header class="sep active">
+    <div class="section-title">
+        <h3>Algunos de nuestros más recientes trabajos</h3>
+    </div>
+    <p>Ya son más de 10 proyectos de emprendimiento que hemos ayudado a forjar</p>
+</header>
+<div class="portfolio-items">
+    <div class="portfolio-item">
+        <div class="controls">
+            <a href="single-project.html" class="icon-round-border">
+                <i class="fa fa-link"></i>
+            </a>
+            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                <i class="fa fa-search"></i>
+            </a>
+        </div>
+        <h4><a href="single-project.html">Lorem Ipsum</a></h4>
+        <p>Cras dictum erat id tortor ornare.</p>
+        <img src="http://placehold.it/800x543" alt="" />
+    </div>
+    <div class="portfolio-item">
+        <div class="controls">
+            <a href="single-project.html" class="icon-round-border">
+                <i class="fa fa-link"></i>
+            </a>
+            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                <i class="fa fa-search"></i>
+            </a>
+        </div>
+        <h4><a href="single-project.html">Cras Facilisis</a></h4>
+        <p>Cras dictum erat id tortor ornare.</p>
+        <img src="http://placehold.it/800x543" alt="" />
+    </div>
+    <div class="portfolio-item">
+        <div class="controls">
+            <a href="single-project.html" class="icon-round-border">
+                <i class="fa fa-link"></i>
+            </a>
+            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                <i class="fa fa-search"></i>
+            </a>
+        </div>
+        <h4><a href="single-project.html">Turpis Tristique</a></h4>
+        <p>Cras dictum erat id tortor ornare.</p>
+        <img src="http://placehold.it/800x543" alt="" />
+    </div>
+    <div class="portfolio-item max-bp2">
+        <div class="controls">
+            <a href="single-project.html" class="icon-round-border">
+                <i class="fa fa-link"></i>
+            </a>
+            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                <i class="fa fa-search"></i>
+            </a>
+        </div>
+        <h4><a href="single-project.html">Lorem Ipsum</a></h4>
+        <p>Cras dictum erat id tortor ornare.</p>
+        <img src="http://placehold.it/800x543" alt="" />
+    </div>
+</div>
+</div>
+</section>
+<section class="section secondary skills inactive">
+        <div class="container">
+        <div class="row block-columns">
+            <div class="span-5 skills-meta">
+                <div class="section-title">
+                    <h3 style="line-height:110%">Nosotros también somos emprendedores</h3>
+                </div>
+                <p class="mision" style="font-size:25px">Conocemos y entendemos tus necesidades</p>
+                <p class="mision2">Sabemos que en ocasiones es algo difícil crear empresa y contar con el apoyo necesario para iniciar el camino<br/>
+                  hacia tu sueño empresarial. Por eso nosotros
+                nos convertiremos en tus principales aliados en busca de lograr consolidar tu proyecto en Internet.
+                Tenemos amplia experiencia en Diseño Web Emprendedores, respaldada por conocimientos en creación de empresas y marketing digital
+            especializado en pymes.</p>
+            <p class="mision" style="font-size:20px">¡Deja tu proyecto en las mejores manos!</p>
+            </div>
+            <div class="team-pic">
+                    <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+                </div>
         </div>
     </div>
 </section>
@@ -287,118 +379,8 @@
         </div>
     </div>
 </section>
-        <section class="section secondary testimonials">
-    <div class="container">
-        <div class="testimonials-slider owl-carousel">
-            <div class="testimonial">
-                <div class="profile">
-                    <a class="modal-image" href="http://placehold.it/800x543">
-                        <img width="150" src="http://placehold.it/800x543" alt="" />
-                    </a>
-                </div>
-                <blockquote>
-                    <p>Suspendisse tempus sodales neque, eget eleifend <b>turpis tristique</b> eu. Nullam a nisl maximus, <b><span>ultrices est</span></b> ut blandit nislr, elit in lobortis mattis.</p>
-                    <h5><cite>John Doe - Theme Forest</cite></h5>
-                </blockquote>
-            </div>
-            <div class="testimonial">
-                <div class="profile">
-                    <a class="modal-image" href="http://placehold.it/800x543">
-                        <img width="150" src="http://placehold.it/800x543" alt="" />
-                    </a>
-                </div>
-                <blockquote>
-                    <p>Suspendisse tempus sodales neque, eget eleifend <b>turpis tristique</b> eu. Nullam a nisl maximus, <b><span>ultrices est</span></b> ut blandit nislr, elit in lobortis mattis.</p>
-                    <h5><cite>John Doe - Theme Forest</cite></h5>
-                </blockquote>
-            </div>
-            <div class="testimonial">
-                <div class="profile">
-                    <a class="modal-image" href="http://placehold.it/800x543">
-                        <img width="150" src="http://placehold.it/800x543" alt="" />
-                    </a>
-                </div>
-                <blockquote>
-                    <p>Suspendisse tempus sodales neque, eget eleifend <b>turpis tristique</b> eu. Nullam a nisl maximus, <b><span>ultrices est</span></b> ut blandit nislr, elit in lobortis mattis.</p>
-                    <h5><cite>John Doe - Theme Forest</cite></h5>
-                </blockquote>
-            </div>
-        </div>
-        <div class="nav-carousel">
-            <div class="icon-round-border-lrg nav-prev">
-                <i class="fa fa-angle-left"></i>
-            </div>
-            <div class="icon-round-border-lrg nav-next">
-                <i class="fa fa-angle-right"></i>
-            </div>
-        </div>
-    </div>
-</section>
-        <section class="section primary latest-works" id="portfolio">
-    <div class="container">
-        <header class="sep active">
-            <div class="section-title">
-                <h2>Our <a href="portfolio.html">Portfolio</a></h2>
-                <h3>Some of Our Recent Works</h3>
-            </div>
-            <p>Suspendisse tempus sodales neque, eget eleifend <a href="#">turpis tristique</a> eu. Nullam a nisl maximus, ultrices est ut blandit nislr, elit in lobortis mattis.</p>
-        </header>
-        <div class="portfolio-items">
-            <div class="portfolio-item">
-                <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                        <i class="fa fa-search"></i>
-                    </a>
-                </div>
-                <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
-            </div>
-            <div class="portfolio-item">
-                <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                        <i class="fa fa-search"></i>
-                    </a>
-                </div>
-                <h4><a href="single-project.html">Cras Facilisis</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
-            </div>
-            <div class="portfolio-item">
-                <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                        <i class="fa fa-search"></i>
-                    </a>
-                </div>
-                <h4><a href="single-project.html">Turpis Tristique</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
-            </div>
-            <div class="portfolio-item max-bp2">
-                <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                        <i class="fa fa-search"></i>
-                    </a>
-                </div>
-                <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
-            </div>
-        </div>
-    </div>
-</section>
+
+
         <section class="section banner alt">
     <div class="container">
         <div class="content">
