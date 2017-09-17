@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
@@ -38,49 +37,49 @@
             <!-- Main-Nav -->
                             <nav class="main-nav">
                     <ul>
+                        <li class="active"><a href="services.html">Inicio</a></li>
                         <!-- Dropdown Nav -->
                         <li>
-                            <a href="index.html">Home</a>
+                            <a href="index.html">Emprendedores</a>
                             <ul>
                                 <li>
-                                    <a href="index-single.html">Parallax Title</a>
-                                    <ul>
-                                        <li><a href="index-single.html">One-Page</a></li>
-                                        <li><a href="index.html">Multi-Page</a></li>
-                                    </ul>
+                                    <a href="index-single.html">Diseño Web</a>
                                 </li>
-                                <li>
-                                    <a href="index-single-2.html">Parallax Background</a>
-                                    <ul>
-                                        <li><a href="index-single-2.html">One-Page</a></li>
-                                        <li><a href="index-2.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="index-single-3.html">Fixed Background</a>
-                                    <ul>
-                                        <li><a href="index-single-3.html">One-Page</a></li>
-                                        <li><a href="index-3.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="index-single-4.html">Video Background</a>
-                                    <ul>
-                                        <li><a href="index-single-4.html">One-Page</a></li>
-                                        <li><a href="index-4.html">Multi-Page</a></li>
-                                    </ul>
+                                <li> 
+                                    <a href="index-single.html">Marketing Digital</a>
                                 </li>
                             </ul>
                         </li>
-                        <li><a href="about.html">About</a></li>
-                        <li class="active"><a href="services.html">Services</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li>
+                            <a href="about.html">Empresas</a>
+                            <ul>
+                                <li>
+                                    <a href="index-single.html">Diseño Web</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Marketing Digital</a>
+                                </li>
+                                <li>
+                                    <a href="index-single.html">Aplicativos Web</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Google App</a>
+                                </li>
+                                <li>
+                                    <a href="index-single.html">Hosting</a>
+                                </li>
+                                <li> 
+                                    <a href="index-single.html">Posicionamiento</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Cursos</a></li>
                         <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.html">Contacto</a></li>
                     </ul>
-                    <div class="icon-round-lrg-plain search-toggle">
+                    <!-- <div class="icon-round-lrg-plain search-toggle">
                         <i class="fa fa-search"></i>
-                    </div>
+                    </div> -->
                 </nav>
                     </div>
     </div>
