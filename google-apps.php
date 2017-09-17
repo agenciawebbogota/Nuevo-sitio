@@ -1,23 +1,21 @@
-
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Nexus - A clean & Modern HTML Template</title>
+    <title>Goolge Apps (G Suite) para Empresas</title>
     <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
     <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="archivos/styles/css/app.css">
+    <link rel="stylesheet" href="assets/styles/css/app.css">
     <!-- Modernizr -->
-    <!-- <script src="archivos/js/modernizr.min.js"></script> -->
+    <script src="assets/js/modernizr.min.js"></script>
 </head>
 <body class="further services">
     <!-- SITE CONTENT -->
@@ -29,70 +27,84 @@
             <!-- Logo -->
             <div class="logo" id="logo">
                 <!-- image logo -->
-                <!-- <a href="index-single.html" class="image-logo html-logo">
-                    <img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" />
-                    
-                </a> -->
-                <!-- HTML logo -->
-                <a href="index-single.html" class="html-logo"><img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" /></a>
+                <a href="index.php" class="image-logo">
+                    <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
+                </a>
             </div>
             <!-- Main-Nav -->
-                            <nav class="main-nav">
-                    <ul>
-                        <!-- Dropdown Nav -->
-                        <li>
-                            <a href="index.html">Home</a>
-                            <ul>
-                                <li>
-                                    <a href="index-single.html">Parallax Title</a>
-                                    <ul>
-                                        <li><a href="index-single.html">One-Page</a></li>
-                                        <li><a href="index.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="index-single-2.html">Parallax Background</a>
-                                    <ul>
-                                        <li><a href="index-single-2.html">One-Page</a></li>
-                                        <li><a href="index-2.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="index-single-3.html">Fixed Background</a>
-                                    <ul>
-                                        <li><a href="index-single-3.html">One-Page</a></li>
-                                        <li><a href="index-3.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="index-single-4.html">Video Background</a>
-                                    <ul>
-                                        <li><a href="index-single-4.html">One-Page</a></li>
-                                        <li><a href="index-4.html">Multi-Page</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="about.html">About</a></li>
-                        <li class="active"><a href="services.html">Services</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                    <div class="icon-round-lrg-plain search-toggle">
-                        <i class="fa fa-search"></i>
-                    </div>
-                </nav>
-                    </div>
+            <nav class="main-nav">
+                <ul>
+                    <li class="active"><a href="services.html">Inicio</a></li>
+                    <!-- Dropdown Nav -->
+                    <li>
+                        <a href="index.html">Emprendedores</a>
+                        <ul>
+                            <li class="active">
+                                <a href="diseno.php">Diseño Web</a>
+                            </li>
+                            <li> 
+                                <a href="#">Marketing Digital</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="about.html">Empresas</a>
+                        <ul>
+                            <li>
+                                <a href="#">Diseño Web</a>
+                            </li>
+                            <li> 
+                                <a href="#">Marketing Digital</a>
+                            </li>
+                            <li>
+                                <a href="#">Aplicativos Web</a>
+                            </li>
+                            <li> 
+                                <a href="google-apps.php">Google App</a>
+                            </li>
+                            <li>
+                                <a href="#">Hosting</a>
+                            </li>
+                            <li> 
+                                <a href="#">Posicionamiento</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Cursos</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
     </div>
 </header>
-        <!-- Sub-Header -->
+<!-- Colores de Google
+        Google Green
+        Hex: #3cba54
+        RGB: 60, 186, 84
 
-        <section class="hero sub-header">
+            Google Yellow
+        Hex: #f4c20d
+        RGB: 244, 194, 13
+
+            Google Red
+        Hex: #db3236
+        RGB: 219, 50, 54
+
+            Google Blue
+        Hex: #4885ed
+        RGB: 72, 133, 237
+
+ -->
+        <!-- Sub-Header -->
+        <br>
+<section class="hero sub-header">
     <div class="container inactive">
         <div class="sh-title-wrapper">
-            <h1>Diseño Web para Emprendedores</h1>
-            <p>Nuestra misión es ayudarte a crear y consolidar tu proyecto empresarial</p>
+            <h1>Google Apps (G Suite) para empresas</h1>
+            <p>Quieres que tu equipo de trabajo conozca el maravilloso mundo de las Google Apps.</p>
+            <p>Puedes elevar la efectividad de tus trabajadores utilizando este servicio que además es gratuito.</p>
+            <p style="margin-top: 10px;">Ya no es Excel, Word y Power Point, ahora son las <span style="color:#0da95f;">Hojas de Cálculo de Google</span>, <span style="color:#4386fc;">Documentos de Google</span> y <span style="color:#f4b400;">Presentaciones de Google</span>. sumerjete en el presente y futuro ! con las Google Apps desde Agencia Web Bogotá</p>
         </div>
     </div>
 </section>
