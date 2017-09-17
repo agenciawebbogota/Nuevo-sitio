@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Diseño Web Emprendedores</title>
+    <title>Goolge Apps</title>
     <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
@@ -40,10 +40,10 @@
                         <a href="index.html">Emprendedores</a>
                         <ul>
                             <li class="active">
-                                <a href="index-single.html">Diseño Web</a>
+                                <a href="diseno.php">Diseño Web</a>
                             </li>
                             <li> 
-                                <a href="index-single.html">Marketing Digital</a>
+                                <a href="#">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
@@ -51,22 +51,22 @@
                         <a href="about.html">Empresas</a>
                         <ul>
                             <li>
-                                <a href="index-single.html">Diseño Web</a>
+                                <a href="#">Diseño Web</a>
                             </li>
                             <li> 
-                                <a href="index-single.html">Marketing Digital</a>
+                                <a href="#">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Aplicativos Web</a>
+                                <a href="#">Aplicativos Web</a>
                             </li>
                             <li> 
                                 <a href="google-apps.php">Google App</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Hosting</a>
+                                <a href="#">Hosting</a>
                             </li>
                             <li> 
-                                <a href="index-single.html">Posicionamiento</a>
+                                <a href="#">Posicionamiento</a>
                             </li>
                         </ul>
                     </li>
@@ -83,8 +83,10 @@
         <section class="hero sub-header">
     <div class="container inactive">
         <div class="sh-title-wrapper">
-            <h1>Diseño Web para Emprendedores</h1>
-            <p>Nuestra misión es ayudarte a crear y consolidar tu proyecto empresarial</p>
+            <h1>Google Apps para empresas</h1>
+            <p>Quieres que tu equipo de trabajo conozca el maravilloso mundo de las Google Apps.</p>
+            <p>Puedes elevar la efectividad de tus trabajadores utilizando este servicio que además es gratuito.</p>
+            <p style="margin-top: 10px;">Ya no es Excel, Word y Power Point, ahora son las <span style="color:;">Hojas de Cálculo de Google</span>, Documentos de Google y Presentaciones de Google. sumerjete en el presente y futuro ! con las Google Apps</p>
         </div>
     </div>
 </section>

@@ -65,9 +65,9 @@
     </script>
         
 
-    <body class="index index-single parallax-title">
+<body class="index index-single parallax-title">
         <!-- SITE CONTENT -->
-        <div itemscope itemtype="http://schema.org/LocalBusiness" id="site-content">
+    <div itemscope itemtype="http://schema.org/LocalBusiness" id="site-content">
         <div id="site-content">
             <!-- Header -->
             <header class="app-header" id="app-header">
@@ -81,52 +81,49 @@
                             </a>
                         </div>
                         <!-- Main-Nav -->
-                <nav class="main-nav">
-                    <ul>
-                        <li class="active"><a href="services.html">Inicio</a></li>
-                        <!-- Dropdown Nav -->
-                        <li>
-                            <a href="index.html">Emprendedores</a>
+                        <nav class="main-nav">
                             <ul>
+                                <li class="active"><a href="services.html">Inicio</a></li>
+                                <!-- Dropdown Nav -->
                                 <li>
-                                    <a href="index-single.html">Diseño Web</a>
+                                    <a href="index.html">Emprendedores</a>
+                                    <ul>
+                                        <li>
+                                            <a href="index-single.html">Diseño Web</a>
+                                        </li>
+                                        <li> 
+                                            <a href="index-single.html">Marketing Digital</a>
+                                        </li>
+                                    </ul>
                                 </li>
-                                <li> 
-                                    <a href="index-single.html">Marketing Digital</a>
+                                <li>
+                                    <a href="about.html">Empresas</a>
+                                    <ul>
+                                        <li>
+                                            <a href="index-single.html">Diseño Web</a>
+                                        </li>
+                                        <li> 
+                                            <a href="index-single.html">Marketing Digital</a>
+                                        </li>
+                                        <li>
+                                            <a href="index-single.html">Aplicativos Web</a>
+                                        </li>
+                                        <li> 
+                                            <a href="index-single.html">Google App</a>
+                                        </li>
+                                        <li>
+                                            <a href="index-single.html">Hosting</a>
+                                        </li>
+                                        <li> 
+                                            <a href="index-single.html">Posicionamiento</a>
+                                        </li>
+                                    </ul>
                                 </li>
+                                <li><a href="#">Cursos</a></li>
+                                <li><a href="blog.html">Blog</a></li>
+                                <li><a href="contact.html">Contacto</a></li>
                             </ul>
-                        </li>
-                        <li>
-                            <a href="about.html">Empresas</a>
-                            <ul>
-                                <li>
-                                    <a href="index-single.html">Diseño Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Marketing Digital</a>
-                                </li>
-                                <li>
-                                    <a href="index-single.html">Aplicativos Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Google App</a>
-                                </li>
-                                <li>
-                                    <a href="index-single.html">Hosting</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Posicionamiento</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Cursos</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contacto</a></li>
-                    </ul>
-                    <!-- <div class="icon-round-lrg-plain search-toggle">
-                        <i class="fa fa-search"></i>
-                    </div> -->
-                </nav>
+                        </nav>
                     </div>
                 </div>
             </header>
