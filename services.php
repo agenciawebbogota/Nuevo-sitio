@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Servicios para Emprendedores</title>
+    <title>Nexus - A clean & Modern HTML Template</title>
     <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
@@ -13,80 +13,74 @@
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
-    <!--[if IE]>
-        <link rel="shortcut icon" href="assets/images/favicon.ico">
-    <![endif]-->
-
+    <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/styles/css/app.css">
-
+    <link rel="stylesheet" href="archivos/styles/css/app.css">
     <!-- Modernizr -->
-    <script src="assets/js/modernizr.min.js"></script>
+    <!-- <script src="archivos/js/modernizr.min.js"></script> -->
 </head>
 <body class="further services">
-
     <!-- SITE CONTENT -->
-
     <div id="site-content">
-
         <!-- Header -->
-
-        <header class="app-header" id="app-header">
+<header class="app-header" id="app-header">
     <div class="container">
         <div class="header-wrapper">
             <!-- Logo -->
             <div class="logo" id="logo">
                 <!-- image logo -->
-                <a href="index.php" class="image-logo">
-                    <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
-                </a>
+                <!-- <a href="index-single.html" class="image-logo html-logo">
+                    <img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" />
+                </a> -->
+                <!-- HTML logo -->
+                <a href="index-single.html" class="html-logo"><img src="archivos/images/logo-agencia-web-bogota.svg" alt="One Nexus" /></a>
             </div>
             <!-- Main-Nav -->
-                <nav class="main-nav">
+                            <nav class="main-nav">
                     <ul>
-                        <li><a href="services.html">Inicio</a></li>
                         <!-- Dropdown Nav -->
-                        <li class="active">
-                            <a>Emprendedores</a>
-                            <ul>
-                                <li class="active">
-                                    <a  href="#">Diseño Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Marketing Digital</a>
-                                </li>
-                            </ul>
-                        </li>
                         <li>
-                            <a>Empresas</a>
+                            <a href="index.html">Home</a>
                             <ul>
                                 <li>
-                                    <a href="index-single.html">Diseño Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Marketing Digital</a>
-                                </li>
-                                <li>
-                                    <a href="index-single.html">Aplicativos Web</a>
-                                </li>
-                                <li> 
-                                    <a href="index-single.html">Google App</a>
+                                    <a href="index-single.html">Parallax Title</a>
+                                    <ul>
+                                        <li><a href="index-single.html">One-Page</a></li>
+                                        <li><a href="index.html">Multi-Page</a></li>
+                                    </ul>
                                 </li>
                                 <li>
-                                    <a href="index-single.html">Hosting</a>
+                                    <a href="index-single-2.html">Parallax Background</a>
+                                    <ul>
+                                        <li><a href="index-single-2.html">One-Page</a></li>
+                                        <li><a href="index-2.html">Multi-Page</a></li>
+                                    </ul>
                                 </li>
-                                <li> 
-                                    <a href="index-single.html">Posicionamiento</a>
+                                <li>
+                                    <a href="index-single-3.html">Fixed Background</a>
+                                    <ul>
+                                        <li><a href="index-single-3.html">One-Page</a></li>
+                                        <li><a href="index-3.html">Multi-Page</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="index-single-4.html">Video Background</a>
+                                    <ul>
+                                        <li><a href="index-single-4.html">One-Page</a></li>
+                                        <li><a href="index-4.html">Multi-Page</a></li>
+                                    </ul>
                                 </li>
                             </ul>
                         </li>
-                        <li><a href="#">Cursos</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li class="active"><a href="services.html">Services</a></li>
+                        <li><a href="portfolio.html">Portfolio</a></li>
                         <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contacto</a></li>
+                        <li><a href="contact.html">Contact</a></li>
                     </ul>
-                    <!-- <div class="icon-round-lrg-plain search-toggle">
+                    <div class="icon-round-lrg-plain search-toggle">
                         <i class="fa fa-search"></i>
-                    </div> -->
+                    </div>
                 </nav>
                     </div>
     </div>
