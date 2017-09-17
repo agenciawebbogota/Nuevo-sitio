@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Goolge Apps</title>
+    <title>Goolge Apps (G Suite) para Empresas</title>
     <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
@@ -78,15 +78,33 @@
         </div>
     </div>
 </header>
-        <!-- Sub-Header -->
+<!-- Colores de Google
+        Google Green
+        Hex: #3cba54
+        RGB: 60, 186, 84
 
-        <section class="hero sub-header">
+            Google Yellow
+        Hex: #f4c20d
+        RGB: 244, 194, 13
+
+            Google Red
+        Hex: #db3236
+        RGB: 219, 50, 54
+
+            Google Blue
+        Hex: #4885ed
+        RGB: 72, 133, 237
+
+ -->
+        <!-- Sub-Header -->
+        <br>
+<section class="hero sub-header">
     <div class="container inactive">
         <div class="sh-title-wrapper">
-            <h1>Google Apps para empresas</h1>
+            <h1>Google Apps (G Suite) para empresas</h1>
             <p>Quieres que tu equipo de trabajo conozca el maravilloso mundo de las Google Apps.</p>
             <p>Puedes elevar la efectividad de tus trabajadores utilizando este servicio que además es gratuito.</p>
-            <p style="margin-top: 10px;">Ya no es Excel, Word y Power Point, ahora son las <span style="color:;">Hojas de Cálculo de Google</span>, Documentos de Google y Presentaciones de Google. sumerjete en el presente y futuro ! con las Google Apps</p>
+            <p style="margin-top: 10px;">Ya no es Excel, Word y Power Point, ahora son las <span style="color:#0da95f;">Hojas de Cálculo de Google</span>, <span style="color:#4386fc;">Documentos de Google</span> y <span style="color:#f4b400;">Presentaciones de Google</span>. sumerjete en el presente y futuro ! con las Google Apps desde Agencia Web Bogotá</p>
         </div>
     </div>
 </section>
