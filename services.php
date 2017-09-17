@@ -14,7 +14,7 @@
     <link rel="icon" href="archivos/images/favicon.png">
     <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="archivos/styles/css/app.css">
+    <link rel="stylesheet" href="assets/styles/css/app.css">
     <!-- Modernizr -->
     <!-- <script src="archivos/js/modernizr.min.js"></script> -->
 </head>
@@ -81,7 +81,7 @@
                         <i class="fa fa-search"></i>
                     </div> -->
                 </nav>
-                    </div>
+            </div>
     </div>
 </header>
         <!-- Sub-Header -->
