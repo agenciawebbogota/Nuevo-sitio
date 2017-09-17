@@ -119,6 +119,7 @@
                                 </li>
                             </ul>
                         </li>
+                        <li><a href="#">Cursos</a></li>
                         <li><a href="blog.html">Blog</a></li>
                         <li><a href="contact.html">Contacto</a></li>
                     </ul>
