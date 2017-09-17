@@ -1,11 +1,15 @@
 @charset "UTF-8";
 
 
-@import url(https://www.agenciawebbogota.com/assets/styles/css/google.css);
+/*@import url(https://www.agenciawebbogota.com/assets/styles/css/google.css); Poner esta opción cuando se suba al servidor*/
+@import url(google.css);
 
-/*@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,800);*/
+/*@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,800); Poner esta opción cuando se suba al servidor*/
+@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,800);
 
-@import url(https://www.agenciawebbogota.com/assets/styles/css/font-awesome.min.css);
+/*@import url(https://www.agenciawebbogota.com/assets/styles/css/font-awesome.min.css); Poner esta opción cuando se suba al servidor*/
+
+@import url(font-awesome.min.css);
 
 /******************************************************************
 

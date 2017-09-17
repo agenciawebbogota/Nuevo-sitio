@@ -1,10 +1,6 @@
 
 <!DOCTYPE html>
-<!--[if IE 8]>     <html class="no-js ie ie8 lte9 lte8"> <![endif]-->
-<!--[if IE 9]>     <html class="no-js ie ie9 lte9"> <![endif]-->
-<!--[if gt IE 9]>  <html class="no-js"> <![endif]-->
-<!--[if !IE]><!--> <html class="no-js"> <!--<![endif]-->
-
+<html class="no-js" lang="es">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,25 +13,17 @@
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
-    <!--[if IE]>
-        <link rel="shortcut icon" href="assets/images/favicon.ico">
-    <![endif]-->
-
+    <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="archivos/styles/css/app.css">
-
     <!-- Modernizr -->
-    <script src="archivos/js/modernizr.min.js"></script>
+    <!-- <script src="archivos/js/modernizr.min.js"></script> -->
 </head>
 <body class="further services">
-
     <!-- SITE CONTENT -->
-
     <div id="site-content">
-
         <!-- Header -->
-
-        <header class="app-header" id="app-header">
+<header class="app-header" id="app-header">
     <div class="container">
         <div class="header-wrapper">
             <!-- Logo -->
