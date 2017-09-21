@@ -34,15 +34,15 @@
             <!-- Main-Nav -->
             <nav class="main-nav">
                 <ul>
-                    <li class="active"><a href="services.html">Inicio</a></li>
+                    <li><a href="index.php">Inicio</a></li>
                     <!-- Dropdown Nav -->
-                    <li>
-                        <a href="index.html">Emprendedores</a>
+                    <li class="active">
+                        <a>Emprendedores</a>
                         <ul>
-                            <li class="active">
-                                <a href="index-single.html">Diseño Web</a>
+                            <li>
+                                <a href="diseno-web-emprendedores.php">Diseño Web</a>
                             </li>
-                            <li> 
+                            <li>
                                 <a href="index-single.html">Marketing Digital</a>
                             </li>
                         </ul>
@@ -53,24 +53,24 @@
                             <li>
                                 <a href="index-single.html">Diseño Web</a>
                             </li>
-                            <li> 
+                            <li>
                                 <a href="index-single.html">Marketing Digital</a>
                             </li>
                             <li>
                                 <a href="index-single.html">Aplicativos Web</a>
                             </li>
-                            <li> 
+                            <li>
                                 <a href="google-apps.php">Google App</a>
                             </li>
                             <li>
                                 <a href="index-single.html">Hosting</a>
                             </li>
-                            <li> 
+                            <li>
                                 <a href="index-single.html">Posicionamiento</a>
                             </li>
                         </ul>
                     </li>
-                    <li><a href="#">Cursos</a></li>
+                    <li><a href="index-single.html">Cursos</a></li>
                     <li><a href="blog.html">Blog</a></li>
                     <li><a href="contact.html">Contacto</a></li>
                 </ul>
@@ -107,7 +107,7 @@
                 <h2><i>La mejor opción</i> para tu <strong>Emprendimiento</strong></h2>
             </div>
             <p class="sub-text">En Agencia Web Bogotá conocemos y entendemos las necesidades de los emprendedores. Por eso hemos ideado
-            un paquete de diseño web que va más allá de la simple construcción de una página web.</p>
+            un paquete de diseño que va más allá de la simple construcción de una página web.</p>
         </header>
         <div class="row inactive">
             <div class="span-4 widget service">
@@ -199,7 +199,8 @@
     <div class="section-title">
         <h3>Algunos de nuestros más recientes trabajos</h3>
     </div>
-    <p>Ya son más de 10 proyectos de emprendimiento que hemos ayudado a forjar</p>
+    <p>Somos especialistas en Diseño Web Emprendedores, cada semana ayudamos a forjar nuevos proyectos de emprendimiento empresarial con excelentes resultados.<br/>
+    Nuestro principal valor, el sentido de pertenencia por las nacientes empresas</p>
 </header>
 <div class="portfolio-items">
     <div class="portfolio-item">
@@ -211,8 +212,8 @@
                 <i class="fa fa-search"></i>
             </a>
         </div>
-        <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
+        <h4><a href="single-project.html">Viaggi Group</a></h4>
+        <p>programas educativos en el exterior</p>
         <img src="http://placehold.it/800x543" alt="" />
     </div>
     <div class="portfolio-item">
@@ -224,8 +225,8 @@
                 <i class="fa fa-search"></i>
             </a>
         </div>
-        <h4><a href="single-project.html">Cras Facilisis</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
+        <h4><a href="single-project.html">Servinproh</a></h4>
+        <p>Administración de propiedad horizontal</p>
         <img src="http://placehold.it/800x543" alt="" />
     </div>
     <div class="portfolio-item">
@@ -237,8 +238,8 @@
                 <i class="fa fa-search"></i>
             </a>
         </div>
-        <h4><a href="single-project.html">Turpis Tristique</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
+        <h4><a href="single-project.html">Quiroz Encuadernación</a></h4>
+        <p>Empaste de libros contables</p>
         <img src="http://placehold.it/800x543" alt="" />
     </div>
     <div class="portfolio-item max-bp2">
@@ -250,8 +251,8 @@
                 <i class="fa fa-search"></i>
             </a>
         </div>
-        <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
+        <h4><a href="single-project.html">Medefiende</a></h4>
+        <p>Abogados especializados en defensa médica</p>
         <img src="http://placehold.it/800x543" alt="" />
     </div>
 </div>
@@ -278,82 +279,72 @@
         </div>
     </div>
 </section>
-        <section class="section quote">
-    <div class="container">
-        <blockquote class="active">
-            <h4>We can take your awesome ideas and turn them into an <b>exciting reality</b>...</h4>
-        </blockquote>
-    </div>
-</section>
-        <section class="section primary pricing inactive" id="s-pricing">
+<section class="section primary pricing inactive" id="s-pricing">
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h2>Our <i>Pricing</i></h2>
-                <h3>Take a Look at Our Offers</h3>
+                <h2>Nuestros <i>Planes</i></h2>
+                <h3>Diseño Web a tu medida</h3>
             </div>
-            <p>Suspendisse tempus sodales neque, eget eleifend <a href="#">turpis tristique</a> eu. Nullam a nisl maximus, ultrices est ut blandit nislr, elit in lobortis mattis.</p>
+            <p>En Agencia Web Bogotá te ofrecemos precios especiales y facilidades de pago para el desarrollo de tu proyecto de emprendimiento empresarial</p>
         </header>
         <div class="row price-charts">
+          <div class="span-4 price-chart-container">
+              <div class="price-chart">
+                  <div class="ribbon ribbon-large">
+                      <div class="banner">
+                          <div class="text">Mejor Oferta</div>
+                      </div>
+                  </div>
+                  <h4>Sitio Basico</h4>
+                  <h5>El ideal para comenzar</h5>
+                  <div class="price">
+                      <span>$79</span>.000 + IVA/mes
+                  </div>
+                  <ul>
+                      <li><span><i class="fa fa-desktop"></i> Diseño Personalizado</span></li>
+                      <li><span><i class="fa fa-search"></i> Posicionamiento SEO</span></li>
+                      <li><span><i class="fa fa-mobile"></i> Versión Móviles</span></li>
+                      <li><span><i class="fa fa-support"></i> Hosting y Dominio Incluído</span></li>
+                  </ul>
+                  <div class="buy-now">
+                      <a href="#" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
+                  </div>
+              </div>
+          </div>
             <div class="span-4 price-chart-container">
-                <div class="price-chart free">
-                    <h4>Free</h4>
-                    <h5>Our free package</h5>
+                <div class="price-chart">
+                    <h4>Sitio Corporativo</h4>
+                    <h5>Ideal para PYMES</h5>
                     <div class="price">
-                        <small>$</small><span>0</span>/mo
+                        <small>Desde </small><span>$650</span>.000+IVA
                     </div>
                     <ul>
-                        <li><span><i class="fa fa-database"></i> Diskspace</span><strong>1GB</strong></li>
-                        <li><span><i class="fa fa-group"></i> Bandwidth</span><strong>10GB</strong></li>
-                        <li><span><i class="fa fa-desktop"></i> Sub-domains</span><strong>1</strong></li>
-                        <li><span><i class="fa fa-envelope"></i> Emails</span><strong>5</strong></li>
-                        <li><span><i class="fa fa-support"></i> Support</span><strong>None</strong></li>
+                        <li><span><i class="fa fa-html5"></i> WordPress o HTML5</span></li>
+                        <li><span><i class="fa fa-envelope"></i> Correos Corporativos</span></li>
+                        <li><span><i class="fa fa-database"></i> Bases de datos</span></li>
+                        <li><span><i class="fa fa-code"></i> Contenido Administrable</span></li>
                     </ul>
                     <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i> Get For Free</a>
+                        <a href="#" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
                     </div>
                 </div>
             </div>
             <div class="span-4 price-chart-container">
                 <div class="price-chart">
-                    <div class="ribbon ribbon-large">
-                        <div class="banner">
-                            <div class="text">Great Value</div>
-                        </div>
-                    </div>
-                    <h4>Basic</h4>
-                    <h5>Our basic package</h5>
+                    <h4>Tienda Online</h4>
+                    <h5>E - Commerce</h5>
                     <div class="price">
-                        <small>$</small><span>5</span>/mo
+                        <small>Desde </small><span>$900</span>.000+IVA
                     </div>
                     <ul>
-                        <li><span><i class="fa fa-database"></i> Diskspace</span><strong>5GB</strong></li>
-                        <li><span><i class="fa fa-group"></i> Bandwidth</span><strong>50GB</strong></li>
-                        <li><span><i class="fa fa-desktop"></i> Sub-domains</span><strong>10</strong></li>
-                        <li><span><i class="fa fa-envelope"></i> Emails</span><strong>50</strong></li>
-                        <li><span><i class="fa fa-support"></i> Support</span><strong>Yes</strong></li>
+                        <li><span><i class="fa fa-wordpress"></i> Woocomerce o Prestashop</span></li>
+                        <li><span><i class="fa fa-shopping-cart"></i> Carrito de Compra</span></li>
+                        <li><span><i class="fa fa-credit-card"></i> Pasarela de Pagos Online</span></li>
+                        <li><span><i class="fa fa-lock"></i> Seguridad SSL</span></li>
                     </ul>
                     <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i> Buy Now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="span-4 price-chart-container">
-                <div class="price-chart">
-                    <h4>Pro <i class="fa fa-trophy"></i></h4>
-                    <h5>Our pro package</h5>
-                    <div class="price">
-                        <small>$</small><span>45</span>/mo
-                    </div>
-                    <ul>
-                        <li><span><i class="fa fa-database"></i> Diskspace</span><strong>500GB</strong></li>
-                        <li><span><i class="fa fa-group"></i> Bandwidth</span><strong>Unlimited</strong></li>
-                        <li><span><i class="fa fa-desktop"></i> Sub-domains</span><strong>500</strong></li>
-                        <li><span><i class="fa fa-envelope"></i> Emails</span><strong>Unlimited</strong></li>
-                        <li><span><i class="fa fa-support"></i> Support</span><strong>Yes</strong></li>
-                    </ul>
-                    <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i> Buy Now</a>
+                        <a href="#" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
                     </div>
                 </div>
             </div>
@@ -362,15 +353,11 @@
 </section>
 
 
-        <section class="section banner alt">
+<section class="section banner2 alt">
     <div class="container">
         <div class="content">
-            <h4>Start your <b>new project</b> with a <i>fresh</i> approach...</h4>
-            <p>leave your visitors with an experience to remember and <a href="#">Purchase Nexus</a> now.</p>
-        </div>
-        <div class="meta">
-            <a href="#" class="button brand-1 round">Purchase Theme</a>
-            or <a href="#about">Learn More</a>
+            <h4>Además <i>Agencia Web Bogotá</i> te cobrará la primer mensualidad cuando tu Sitio Web esté <b>100% Terminado y Online</b> no te exigimos <i>anticipos</i></h4>
+            <p>Contáctanos para más información <a href="#s-contacto">sobre nuestros planes y servicios</a></p>
         </div>
     </div>
 </section>
