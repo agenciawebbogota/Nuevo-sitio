@@ -434,7 +434,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #353535;
   background-color: #353535;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .container {
@@ -1373,7 +1373,7 @@ blockquote {
   margin: 0;
   border: 0;
   position: relative;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 
 }
 
@@ -6987,7 +6987,7 @@ body.search-active .main-search {
   margin: auto;
   color: white;
   font-weight: lighter;
-  line-height: 1;
+  line-height: 2;
   -webkit-transition: 0.4s;
   transition: 0.4s;
   -webkit-transform: scale(1) rotate(0deg);
@@ -7000,7 +7000,7 @@ body.search-active .main-search {
 }
 
 .section.quote blockquote b {
-  font-weight: 900;
+  font-weight: 400;
 }
 
 .section.quote blockquote.inactive {

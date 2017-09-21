@@ -84,27 +84,24 @@
     <div class="container inactive">
         <div class="sh-title-wrapper">
             <h1>Marketing Digital para Emprendedores</h1>
-            <p>Los buenos resultados se obtienen con buenas estrategias</p>
+            <p>El marketing digital es una combinación de arte, teconología, causa, efecto, magia y lógica</p>
         </div>
     </div>
-</section>        
-        <!-- Main Content -->
-        <section class="section quote">
-    <div class="container">
-        <blockquote class="active">
-            <h4>We can take your awesome ideas and turn them into an <b>exciting reality</b>...</h4>
-        </blockquote>
-    </div>
 </section>
+        <!-- Main Content -->
 
         <section class="section primary why-choose-us section-map inactive" id="s-why-choose-us">
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h2>¿Por qué <i>Choose Us</i></h2>
-                <h3>El Marketing Digital no es solo para las grandes empresas</h3>
+                <h3>¡Obtén Máxima Exposición Para Tus Productos y Servicios A Través de los Beneficios<br/> de la Publicidad Online!</h3>
             </div>
-            <p>¿Sabias que el Marketing Digital hay empresas ganando <a>mucho dinero</a> eu. Nullam a nisl maximus, ultrices est ut blandit nislr, elit in lobortis mattis.</p>
+            <p>Tú puedes tener el mejor producto del mundo, <a>pero si no lo publicitas en Internet, nadie será capaz de encontrarlo</a>. Es así de sencillo.
+              El Marketing Digital sirve dos propósitos. Primero, le dice al mundo que <b>TIENES</b> un producto y de qué se trata, y luego le dice al mundo cómo
+              <b>ENCONTRARTE</b> a ti, a tu página web y a tu producto o servicio.</p>
+              <div class="section-title">
+                  <h2>¿Que te Ofrece <i>Agencia Web Bogotá?</i></h2>
+              </div>
         </header>
         <div class="wcu-content">
             <div class="wcu-graphic">
@@ -113,42 +110,40 @@
             <div class="wcu-features">
                 <div class="widget wcu-feature wcu-left">
                     <div class="widget-content">
-                        <i class="livicon" data-n="desktop" data-op="1" data-c="#C1C1C1" data-s="55" data-hc="false"></i>
                         <div class="title">
-                            <h4>100% Responsive</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Marketing de Contenidos</h4>
+                            <h5>Las manera más efectiva de vender</h5>
                         </div>
-                        <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus.</p>
+                        <p>El contenido es realmente el rey en Internet, por ello contamos con un equipo experto en neuro-redacción</p>
                     </div>
                 </div>
                 <div class="widget wcu-feature wcu-left">
                     <div class="widget-content">
-                        <i class="livicon" data-n="responsive" data-op="1" data-c="#C1C1C1" data-s="55" data-hc="false"></i>
                         <div class="title">
-                            <h4>Mobile Optimized</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Optimización SEO</h4>
+                            <h5>Posicionamiento en buscadores</h5>
                         </div>
-                        <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus.</p>
+                        <p>Usamos métodos comprobados para la optimización de todos tus contenidos en motores de busqueda</p>
                     </div>
                 </div>
                 <div class="widget wcu-feature wcu-right">
                     <div class="widget-content">
                         <i class="livicon" data-n="image" data-op="1" data-c="#C1C1C1" data-s="55" data-hc="false"></i>
                         <div class="title">
-                            <h4>Pixel Perfect Design</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Campañas de Pago por Click</h4>
+                            <h5>Google y Redes Sociales</h5>
                         </div>
-                        <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus.</p>
+                        <p>Si tu presupuesto para publicidad es limitado, te ayudaremos a aprovechar cada centavo que inviertas</p>
                     </div>
                 </div>
                 <div class="widget wcu-feature wcu-right">
                     <div class="widget-content">
                         <i class="livicon" data-n="code" data-op="1" data-c="#C1C1C1" data-s="55" data-hc="false"></i>
                         <div class="title">
-                            <h4>100% Valid Code</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Estrategias efectivas</h4>
+                            <h5>Marketing Digital 3.0</h5>
                         </div>
-                        <p>Cum socis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus fringilla purus.</p>
+                        <p>Contamos con todas las herramientas para aplicar en tu negocio estrategias de marketing altamente efectivas</p>
                     </div>
                 </div>
             </div>
