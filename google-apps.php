@@ -10,7 +10,7 @@
     <meta name="MobileOptimized" content="320">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
-    <link rel="icon" href="archivos/images/favicon.png">
+    <link rel="icon" href="assets/images/favicon.png">
     <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
@@ -34,20 +34,20 @@
             <!-- Main-Nav -->
             <nav class="main-nav">
                 <ul>
-                    <li class="active"><a href="services.html">Inicio</a></li>
+                    <li><a href="index.php">Inicio</a></li>
                     <!-- Dropdown Nav -->
                     <li>
                         <a href="index.html">Emprendedores</a>
                         <ul>
                             <li class="active">
-                                <a href="diseno.php">Diseño Web</a>
+                                <a href="diseno-web-emprendedores.php">Diseño Web</a>
                             </li>
                             <li> 
                                 <a href="#">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
-                    <li>
+                    <li class="active">
                         <a href="about.html">Empresas</a>
                         <ul>
                             <li>
@@ -112,12 +112,15 @@
         <nav class="breadcrumb">
     <div class="container">
         <ul>
-            <li class="home"><a href="index.php"><i class="fa fa-home"></i></a></li>
+            <li class="home"><a href="index.php">
+                <i class="fa fa-home">
+                    
+                </i></a></li>
             <li><a href="index.php">Inicio</a></li>
         </ul>
     </div>
 </nav>
-        <!-- Main Content -->
+        <!-- Contenido de la web -->
 
         <section class="section services primary section-map" id="services">
     <div class="container">
@@ -134,11 +137,11 @@
                         <i class="livicon" data-n="desktop" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#0da95f;">Hojas de Cálculo de Google</h4>
-                            <h5>Optimizado con Neuromarketing</h5>
+                            <h5>No te preocupes por guardar tus archivos </h5>
                         </div>
                     </header>
-                    <p>Aplicamos conceptos probados de neuromarketing a todos nuestros diseños, lo que te garantiza un impacto positivo entre tus
-                    visitantes y una mayor recordación de tu marca.</p>
+                    <p>Todos tus cambios se van guardando automáticamente mientras escribes. Incluso puedes usar el historial de revisiones para ver las versiones anteriores de una misma hoja de cálculo, ordenadas por fecha y por el autor del cambio.
+</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -174,7 +177,7 @@
                     <header>
                         <i class="livicon" data-n="doc-portrait" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Optimización SEO</h4>
+                            <h4>Calendarios de Google</h4>
                             <h5>Posicionamiento en buscadores</h5>
                         </div>
                     </header>
@@ -187,7 +190,7 @@
                     <header>
                         <i class="livicon" data-n="connect" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Hosting y Dominio</h4>
+                            <h4>Formularios de Google</h4>
                             <h5>Alojamiento web</h5>
                         </div>
                     </header>
@@ -200,7 +203,7 @@
                     <header>
                         <i class="livicon" data-n="servers" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Versión Móviles</h4>
+                            <h4 style="color: red;">Gmail</h4>
                             <h5>Diseño Web Responsive</h5>
                         </div>
                     </header>
