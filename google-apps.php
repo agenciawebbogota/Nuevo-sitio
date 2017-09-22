@@ -103,8 +103,7 @@
         <div class="sh-title-wrapper">
             <h1>Google Apps (G Suite) para empresas</h1>
             <p>Quieres que tu equipo de trabajo conozca el maravilloso mundo de las Google Apps.</p>
-            <p>Puedes elevar la efectividad de tus trabajadores utilizando este servicio que además es gratuito.</p>
-            <p style="margin-top: 10px;">Ya no es Excel, Word y Power Point, ahora son las <span style="color:#0da95f;">Hojas de Cálculo de Google</span>, <span style="color:#4386fc;">Documentos de Google</span> y <span style="color:#f4b400;">Presentaciones de Google</span>. sumerjete en el presente y futuro ! con las Google Apps desde Agencia Web Bogotá</p>
+            <p>Puedes elevar la efectividad de tus trabajadores utilizando este servicio que además es gratuito, norotros te los enseñamos!</p>
         </div>
     </div>
 </section>
@@ -124,10 +123,9 @@
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h2><i>La mejor opción</i> para tu <strong>Emprendimiento</strong></h2>
+                <h2><i>Google Apps (G Suite) La mejor opción</i> para tu <strong>Empresa</strong></h2>
             </div>
-            <p class="sub-text">En Agencia Web Bogotá conocemos y entendemos las necesidades de los emprendedores. Por eso hemos ideado
-            un paquete de diseño web que va más allá de la simple construcción de una página web.</p>
+            <p class="sub-text">Ya no es Excel, Word y Power Point, ahora son las <span >Hojas de Cálculo de Google</span>, <span>Documentos de Google</span> y <span>Presentaciones de Google</span>. sumerjete en el presente y futuro ! con las Google Apps desde Agencia Web Bogotá</p>
         </header>
         <div class="row inactive">
             <div class="span-4 widget service">
@@ -135,7 +133,7 @@
                     <header>
                         <i class="livicon" data-n="desktop" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Diseño Profesional</h4>
+                            <h4 style="color:#0da95f;">Hojas de Cálculo de Google</h4>
                             <h5>Optimizado con Neuromarketing</h5>
                         </div>
                     </header>
@@ -148,7 +146,7 @@
                     <header>
                         <i class="livicon" data-n="tablet" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Sitios Multiplataforma</h4>
+                            <h4 style="color:#4386fc;">Documentos de Google</h4>
                             <h5>No todos son iguales</h5>
                         </div>
                     </header>
@@ -161,7 +159,7 @@
                     <header>
                         <i class="livicon" data-n="image" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Imágenes Unicas</h4>
+                            <h4 style="color:#f4b400;">Presentaciones de Google</h4>
                             <h5>Solo las verás en tu página</h5>
                         </div>
                     </header>
