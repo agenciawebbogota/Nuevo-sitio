@@ -100,7 +100,7 @@
               El Marketing Digital sirve dos propósitos. Primero, le dice al mundo que <b>TIENES</b> un producto y de qué se trata, y luego le dice al mundo cómo
               <b>ENCONTRARTE</b> a ti, a tu página web y a tu producto o servicio.</p>
               <div class="section-title">
-                  <h2>¿Que te Ofrece <i>Agencia Web Bogotá?</i></h2>
+                  <h2>¿Por qué <i>Agencia Web Bogotá?</i></h2>
               </div>
         </header>
         <div class="wcu-content">
@@ -149,6 +149,55 @@
             </div>
         </div>
     </div>
+</section>
+<section class="section primary what-we-offer inactive" id="s-what-we-offer">
+<div class="container">
+<header class="sep active">
+    <div class="section-title">
+        <h2>¿Que te <i>Ofrecemos?</i></h2>
+        <h3>Esto no termina aquí...</h3>
+    </div>
+    <p>Nuestros planes de <a>Marketing Digital para emprendedores</a> van más allá de estrategias integrales sin rumbo. Agencia Web Bogotá diseñará
+    un plan de mercadeo basado en tus objetivos y recursos. Además te asesoraremos <a>sin costo y sin compromiso alguno</a> acerca de las estrategias
+  de publicidad digital que mejores resultados pueden dar en tu negocio.</p>
+</header>
+<div class="row feature-blocks inactive">
+    <div class="span-3 feature-block-wrapper">
+        <div class="feature-block">
+            <i class="fa fa-magic fa-2x" style="color:#fff"></i>
+            <h4>Community Manager</h4>
+            <h5>Redes Sociales</h5>
+            <p>Despreocupate de posicionar tu marca y difundir tus contenidos en redes sociales. Nosotros nos encargaremos de tus anuncios y publicaciones.
+              Todo de manera profesional, acertada y efectiva.</p>
+        </div>
+    </div>
+    <div class="span-3 feature-block-wrapper">
+        <div class="feature-block">
+            <i class="fa fa-magic fa-2x" style="color:#fff"></i>
+            <h4>Email Marketing</h4>
+            <h5>Envío de correos masivos</h5>
+            <p>Aunque este es un canal relativamente antiguo comparado con las nuevas estrategias de Marketing Digital, podemos asegurarte que sacaremos
+            el mejor provecho de tus listas de correo.</p>
+        </div>
+    </div>
+    <div class="span-3 feature-block-wrapper">
+        <div class="feature-block">
+            <i class="fa fa-magic fa-2x" style="color:#fff"></i>
+            <h4>Valid HTML5</h4>
+            <h5>Donec finibus fringer</h5>
+            <p>Suspendisse tempus a nisl maximus, ultrices est ut blandit nislr, elit in lobortis mattis.</p>
+        </div>
+    </div>
+    <div class="span-3 feature-block-wrapper">
+        <div class="feature-block">
+            <i class="fa fa-magic fa-2x" style="color:#fff"></i>
+            <h4>Free Support</h4>
+            <h5>Donec finibus fringer</h5>
+            <p>Suspendisse tempus a nisl maximus, ultrices est ut blandit nislr, elit in lobortis mattis.</p>
+        </div>
+    </div>
+</div>
+</div>
 </section>
 
 <section class="section secondary skills inactive">
