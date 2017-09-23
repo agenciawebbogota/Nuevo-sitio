@@ -97,7 +97,7 @@
 
  -->
         <!-- Sub-Header -->
-        <br>
+        <!-- <br> -->
 <section class="hero sub-header">
     <div class="container inactive">
         <div class="sh-title-wrapper">
@@ -107,28 +107,14 @@
         </div>
     </div>
 </section>
-        <!-- Breadcrumb -->
-
-        <nav class="breadcrumb">
-    <div class="container">
-        <ul>
-            <li class="home"><a href="index.php">
-                <i class="fa fa-home">
-                    
-                </i></a></li>
-            <li><a href="index.php">Inicio</a></li>
-        </ul>
-    </div>
-</nav>
         <!-- Contenido de la web -->
-
-        <section class="section services primary section-map" id="services">
+<section class="section services primary section-map" id="services">
     <div class="container">
         <header class="sep active">
             <div class="section-title">
                 <h2><i>Google Apps (G Suite) La mejor opción</i> para tu <strong>Empresa</strong></h2>
             </div>
-            <p class="sub-text">Ya no es Excel, Word y Power Point, ahora son las <span >Hojas de Cálculo de Google</span>, <span>Documentos de Google</span> y <span>Presentaciones de Google</span>. sumerjete en el presente y futuro ! con las Google Apps desde Agencia Web Bogotá</p>
+            <p class="sub-text">Ya no es Excel, Word y Power Point, ahora son las <span >Hojas de Cálculo de Google</span>, <span>Documentos de Google</span> y <span>Presentaciones de Google</span>. Agencia Web Bogotá te ayudará a sumerjete en el presente y futuro con las Google Apps !!</p>
         </header>
         <div class="row inactive">
             <div class="span-4 widget service">
@@ -140,8 +126,7 @@
                             <h5>No te preocupes por guardar tus archivos </h5>
                         </div>
                     </header>
-                    <p>Todos tus cambios se van guardando automáticamente mientras escribes. Incluso puedes usar el historial de revisiones para ver las versiones anteriores de una misma hoja de cálculo, ordenadas por fecha y por el autor del cambio.
-</p>
+                    <p>Todos tus cambios se van guardando automáticamente mientras escribes. Incluso puedes usar el historial de revisiones para ver las versiones anteriores de una misma hoja de cálculo, ordenadas por fecha y por el autor del cambio.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -150,13 +135,13 @@
                         <i class="livicon" data-n="tablet" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#4386fc;">Documentos de Google</h4>
-                            <h5>No todos son iguales</h5>
+                            <h5>Mucho más que meras letras y palabras</h5>
                         </div>
                     </header>
-                    <p>No construímos todos los sitios web con la misma técnica, conocemos los sistemas y como se ajustan a cada necesidad. Trabajamos con
-                      WordPress, Joomla, Prestashop, HTML5 + CSS3 + JavaScript</p>
+                    <p>Crea documentos, ábrelos y modifícalos estés donde estés con tu teléfono, tablet u ordenador. Incluso si no estás conectado a Internet.</p>
                 </div>
             </div>
+
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
@@ -177,7 +162,7 @@
                     <header>
                         <i class="livicon" data-n="doc-portrait" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Calendarios de Google</h4>
+                            <h4 style="color:#4386fc;">Calendarios de Google</h4>
                             <h5>Posicionamiento en buscadores</h5>
                         </div>
                     </header>
@@ -190,12 +175,11 @@
                     <header>
                         <i class="livicon" data-n="connect" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4>Formularios de Google</h4>
-                            <h5>Alojamiento web</h5>
+                            <h4 style="color: #63c;">Formularios de Google</h4>
+                            <h5>Recibe las respuestas en seguida</h5>
                         </div>
                     </header>
-                    <p>Te incluímos el servicio de alojamiento web + dominio durante el primer año, en servidores seguros, rápidos y confiables. Tendrás además cuentas mail
-                    corporativas ilimitadas con el nombre de tu dominio.</p>
+                    <p>No sólo te ayudamos a implementar los formularios en tu empresa, sino que también te ayudamos programando respuestas que se le envíen de manera automática a cada pesona quien diligencie cada encuesta.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -203,8 +187,8 @@
                     <header>
                         <i class="livicon" data-n="servers" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4 style="color: red;">Gmail</h4>
-                            <h5>Diseño Web Responsive</h5>
+                            <h4 style="color:#4386fc;">Google Apps Script</h4>
+                            <h5>Extendemos la funcionalidad de las Google Apps</h5>
                         </div>
                     </header>
                     <p>Todos nuestros diseños se adaptan perfectamente a cualquier dispositivo móvil, sin pérdida de contenido ni calidad en los gráficos e imágenes. Si requieres
@@ -212,71 +196,78 @@
                 </div>
             </div>
         </div>
+    <div class="sep active">
+        <div class="section-title">
+            <br><br>
+            <h2 style="text-align:center;"><i>Ahora que ya sabes todo esto, </i><strong>animate !!!</strong></h2>
+        </div>
+        <p class="sub-text">Ahora que ya sabes todo esto, animate a contratar nuestro sevicios y te garantizamos que tu equipo quedará entrenado para tomar mejores decisiones y hacer más rápida y efectiva cada tarea designada, tenemos todo nuestro equipo preparado para brindarte <-- tu equipo de trabajo lo mejor de estas herramientas. --></p>
+    </div>
     </div>
 </section>
 <section class="section primary latest-works" id="portfolio">
-<div class="container">
-<header class="sep active">
-    <div class="section-title">
-        <h3>Algunos de nuestros más recientes trabajos</h3>
-    </div>
-    <p>Ya son más de 10 proyectos de emprendimiento que hemos ayudado a forjar</p>
-</header>
-<div class="portfolio-items">
-    <div class="portfolio-item">
-        <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
-                <i class="fa fa-link"></i>
-            </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
+    <div class="container">
+        <header class="sep active">
+            <div class="section-title">
+                <h3>Algunos de nuestros más recientes trabajos</h3>
+            </div>
+            <p>Ya son más de 10 proyectos de emprendimiento que hemos ayudado a forjar</p>
+        </header>
+        <div class="portfolio-items">
+            <div class="portfolio-item">
+                <div class="controls">
+                    <a href="single-project.html" class="icon-round-border">
+                        <i class="fa fa-link"></i>
+                    </a>
+                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                        <i class="fa fa-search"></i>
+                    </a>
+                </div>
+                <h4><a href="single-project.html">Lorem Ipsum</a></h4>
+                <p>Cras dictum erat id tortor ornare.</p>
+                <img src="http://placehold.it/800x543" alt="" />
+            </div>
+            <div class="portfolio-item">
+                <div class="controls">
+                    <a href="single-project.html" class="icon-round-border">
+                        <i class="fa fa-link"></i>
+                    </a>
+                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                        <i class="fa fa-search"></i>
+                    </a>
+                </div>
+                <h4><a href="single-project.html">Cras Facilisis</a></h4>
+                <p>Cras dictum erat id tortor ornare.</p>
+                <img src="http://placehold.it/800x543" alt="" />
+            </div>
+            <div class="portfolio-item">
+                <div class="controls">
+                    <a href="single-project.html" class="icon-round-border">
+                        <i class="fa fa-link"></i>
+                    </a>
+                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                        <i class="fa fa-search"></i>
+                    </a>
+                </div>
+                <h4><a href="single-project.html">Turpis Tristique</a></h4>
+                <p>Cras dictum erat id tortor ornare.</p>
+                <img src="http://placehold.it/800x543" alt="" />
+            </div>
+            <div class="portfolio-item max-bp2">
+                <div class="controls">
+                    <a href="single-project.html" class="icon-round-border">
+                        <i class="fa fa-link"></i>
+                    </a>
+                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                        <i class="fa fa-search"></i>
+                    </a>
+                </div>
+                <h4><a href="single-project.html">Lorem Ipsum</a></h4>
+                <p>Cras dictum erat id tortor ornare.</p>
+                <img src="http://placehold.it/800x543" alt="" />
+            </div>
         </div>
-        <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
-        <img src="http://placehold.it/800x543" alt="" />
     </div>
-    <div class="portfolio-item">
-        <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
-                <i class="fa fa-link"></i>
-            </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
-        </div>
-        <h4><a href="single-project.html">Cras Facilisis</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
-        <img src="http://placehold.it/800x543" alt="" />
-    </div>
-    <div class="portfolio-item">
-        <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
-                <i class="fa fa-link"></i>
-            </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
-        </div>
-        <h4><a href="single-project.html">Turpis Tristique</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
-        <img src="http://placehold.it/800x543" alt="" />
-    </div>
-    <div class="portfolio-item max-bp2">
-        <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
-                <i class="fa fa-link"></i>
-            </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
-        </div>
-        <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-        <p>Cras dictum erat id tortor ornare.</p>
-        <img src="http://placehold.it/800x543" alt="" />
-    </div>
-</div>
-</div>
 </section>
 <section class="section secondary skills inactive">
         <div class="container">
