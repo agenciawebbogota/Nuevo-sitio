@@ -94,7 +94,8 @@
             Google Blue
         Hex: #4885ed
         RGB: 72, 133, 237
-
+Iconos 
+http://fontawesome.io/icons/
  -->
         <!-- Sub-Header -->
         <!-- <br> -->
@@ -122,7 +123,7 @@
                     <header>
                         <i class="livicon" data-n="desktop" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4 style="color:#0da95f;">Hojas de Cálculo de Google</h4>
+                            <h4 style="color:#0da95f;display: inline;"><i style="color:#0da95f" class="fa fa-table" aria-hidden="true"></i>  Hojas de Cálculo de Google</h4>
                             <h5>No te preocupes por guardar tus archivos </h5>
                         </div>
                     </header>
@@ -134,7 +135,7 @@
                     <header>
                         <i class="livicon" data-n="tablet" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4 style="color:#4386fc;">Documentos de Google</h4>
+                            <h4 style="color:#4386fc;display: inline;"><i style="color:#4386fc" class="fa fa-file-text-o" aria-hidden="true"></i>  Documentos de Google</h4>
                             <h5>Mucho más que meras letras y palabras</h5>
                         </div>
                     </header>
@@ -162,7 +163,7 @@
                     <header>
                         <i class="livicon" data-n="doc-portrait" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4 style="color:#4386fc;">Calendarios de Google</h4>
+                            <h4 style="color:#4386fc;display: inline;"><i class="fa fa-calendar" aria-hidden="true"></i>  Calendarios de Google</h4>
                             <h5>Posicionamiento en buscadores</h5>
                         </div>
                     </header>
@@ -175,7 +176,7 @@
                     <header>
                         <i class="livicon" data-n="connect" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4 style="color: #63c;">Formularios de Google</h4>
+                            <h4 style="color:#63c;display: inline;"><i style="color:#63c;" class="fa fa-plus-square-o" aria-hidden="true"></i>  Formularios de Google</h4>
                             <h5>Recibe las respuestas en seguida</h5>
                         </div>
                     </header>
@@ -187,7 +188,7 @@
                     <header>
                         <i class="livicon" data-n="servers" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4 style="color:#4386fc;">Google Apps Script</h4>
+                            <h4 style="color:#4386fc;display: inline;"><i class="fa fa-code"></i>  Google Apps Script</h4>
                             <h5>Extendemos la funcionalidad de las Google Apps</h5>
                         </div>
                     </header>
