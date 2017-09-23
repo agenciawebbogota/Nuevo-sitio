@@ -130,6 +130,7 @@ http://fontawesome.io/icons/
                     <p>Todos tus cambios se van guardando automáticamente mientras escribes. Incluso puedes usar el historial de revisiones para ver las versiones anteriores de una misma hoja de cálculo, ordenadas por fecha y por el autor del cambio.</p>
                 </div>
             </div>
+            
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
