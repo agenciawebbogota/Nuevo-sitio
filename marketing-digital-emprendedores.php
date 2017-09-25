@@ -48,13 +48,13 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="about.html">Empresas</a>
+                        <a>Empresas</a>
                         <ul>
                             <li>
-                                <a href="index-single.html">Diseño Web</a>
+                                <a href="diseno-web-empresas.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Marketing Digital</a>
+                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
                                 <a href="index-single.html">Aplicativos Web</a>
@@ -63,10 +63,7 @@
                                 <a href="google-apps.php">Google App</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Hosting</a>
-                            </li>
-                            <li>
-                                <a href="index-single.html">Posicionamiento</a>
+                                <a href="posicionamiento-web.php">Posicionamiento</a>
                             </li>
                         </ul>
                     </li>
@@ -88,6 +85,14 @@
         </div>
     </div>
 </section>
+<nav class="breadcrumb">
+<div class="container">
+<ul>
+    <li class="home"><a href="index.php"><i class="fa fa-home"></i></a></li>
+    <li><a href="index.php">Inicio</a></li>
+</ul>
+</div>
+</nav>
         <!-- Main Content -->
 
         <section class="section primary why-choose-us section-map inactive" id="s-why-choose-us">

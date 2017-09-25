@@ -63,10 +63,7 @@
                                 <a href="google-apps.php">Google App</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Hosting</a>
-                            </li>
-                            <li>
-                                <a href="index-single.html">Posicionamiento</a>
+                                <a href="posicionamiento-web.php">Posicionamiento</a>
                             </li>
                         </ul>
                     </li>
@@ -119,16 +116,16 @@
 <div class="row feature-blocks inactive">
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-comments fa-2x" style="color:#fff"></i>
+            <i class="fa fa-rss fa-3x" style="color:#fff"></i>
             <h4>Inbound Marketing</h4>
             <h5>Marketing de Contenidos</h5>
-            <p>Creamos contenidos de calidad para su blog o página web, que le permitirán posicionar su marca, crear una
-            gran lista de prospectos, fidelizar a sus clientes y convertir a su empresa en una autoridad en su nicho</p>
+            <p>Creamos contenidos de alta calidad para su blog o página web, que le permitirán posicionar su marca, crear una
+            gran lista de prospectos, fidelizar a sus clientes y convertir a su empresa en una autoridad en su nicho de mercado</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-at  fa-2x" style="color:#fff"></i>
+            <i class="fa fa-facebook fa-3x" style="color:#fff"></i>
             <h4>Community Manager</h4>
             <h5>Redes Sociales</h5>
             <p>Gestionamos eficazmente todas sus redes sociales por medio de la herramienta <b>HOOTSUITE</b>. Esto permite automatizar
@@ -137,7 +134,7 @@
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-desktop fa-2x" style="color:#fff"></i>
+            <i class="fa fa-share-square-o fa-3x" style="color:#fff"></i>
             <h4>SEM Y SOCIAL MEDIA</h4>
             <h5>Campañas de pago</h5>
             <p>Diseñamos sus campañas publicitarias de pago en Google Adwords, Facebook Ads, Twitter Ads y demás redes sociales. Contamos con un
@@ -146,7 +143,7 @@
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-line-chart fa-2x" style="color:#fff"></i>
+            <i class="fa fa-envelope-o fa-3x" style="color:#fff"></i>
             <h4>Email Marketing</h4>
             <h5>Envío de Correos masivos</h5>
             <p>Aprovechamos al máximo su lista de correos electrónicos para el envío de información relacionada con su empresa. Usamos el

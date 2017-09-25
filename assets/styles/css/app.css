@@ -4874,6 +4874,11 @@ body.cp-active .cp-nav-container .main-search {
   padding-top: 0;
 }
 
+/* */
+
+
+
+/* */
 .fixed-header-container .logo {
   padding: 0.625em 0;
 }
@@ -7201,7 +7206,7 @@ body.search-active .main-search {
   }
 
   .section.section-map {
-    padding-bottom: 11em !important;
+    padding-bottom: 6em !important;
   }
 
   .section.section-map:after {
