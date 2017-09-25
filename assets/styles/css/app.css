@@ -6884,6 +6884,7 @@ body.search-active .main-search {
 .section.more-info {
   background: #f7f7f7 !important;
   color: #353535 !important;
+  padding-top: 10px;
 }
 
 
