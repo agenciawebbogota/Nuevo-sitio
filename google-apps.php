@@ -14,12 +14,22 @@
     <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
+    <style type="text/css">
+        .hero {
+          background-image: url("assets/images/stock5.jpg");
+        }
+        .price-chart {
+            /*position: relative;*/
+            /*background: #3cba54;*/
+        }
+
+    </style>
     <!-- Modernizr -->
-    <script src="assets/js/modernizr.min.js"></script>
+    <!-- <script src="assets/js/modernizr.min.js"></script> -->
 </head>
 <body class="further services">
     <!-- SITE CONTENT -->
-    <div id="site-content">
+<div id="site-content">
         <!-- Header -->
 <header class="app-header" id="app-header">
     <div class="container">
@@ -37,24 +47,24 @@
                     <li><a href="index.php">Inicio</a></li>
                     <!-- Dropdown Nav -->
                     <li>
-                        <a href="index.html">Emprendedores</a>
+                        <a>Emprendedores</a>
                         <ul>
-                            <li class="active">
+                            <li>
                                 <a href="diseno-web-emprendedores.php">Diseño Web</a>
                             </li>
                             <li> 
-                                <a href="#">Marketing Digital</a>
+                                <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
                     <li class="active">
-                        <a href="about.html">Empresas</a>
+                        <a>Empresas</a>
                         <ul>
                             <li>
-                                <a href="#">Diseño Web</a>
+                                <a href="diseno-web-empresas.php">Diseño Web</a>
                             </li>
-                            <li> 
-                                <a href="#">Marketing Digital</a>
+                            <li>
+                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
                                 <a href="#">Aplicativos Web</a>
@@ -66,7 +76,7 @@
                                 <a href="#">Hosting</a>
                             </li>
                             <li> 
-                                <a href="#">Posicionamiento</a>
+                                <!-- <a href="posicionamiento-web.php">Posicionamiento</a> -->
                             </li>
                         </ul>
                     </li>
@@ -165,11 +175,10 @@ http://fontawesome.io/icons/
                         <i class="livicon" data-n="doc-portrait" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#4386fc;display: inline;"><i class="fa fa-calendar" aria-hidden="true"></i>  Calendarios de Google</h4>
-                            <h5>Posicionamiento en buscadores</h5>
+                            <h5>Ejecuta tareas basadas en el tiempo.</h5>
                         </div>
                     </header>
-                    <p>Creamos tu sitio web lo mejor optimizado posible para que logre la mejor posición natural. Así cuando reducirás costos considerablemente si decides contratar
-                    un servicio profesional de posicionamiento.</p>
+                    <p>Te podemos ayudar a ejecutar tareas de forma automatizada sin pensar en sentarte en un computador todo eltiempo, deja el trabajo en nuestro s expertos de agencia web bogotá y verás los resultados, sólo necesitamos saber tu necesidad y seguro encontraremos la mejor solución !!</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -292,7 +301,7 @@ http://fontawesome.io/icons/
         </div>
     </div>
 </section>
-        <section class="section quote">
+<section class="section quote">
     <div class="container">
         <blockquote class="active">
             <h4>We can take your awesome ideas and turn them into an <b>exciting reality</b>...</h4>
@@ -303,80 +312,37 @@ http://fontawesome.io/icons/
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h2>Our <i>Pricing</i></h2>
-                <h3>Take a Look at Our Offers</h3>
+                <h2>Nuestros <i>Precios</i></h2>
+                <h3>Te sorprenderás</h3>
             </div>
-            <p>Suspendisse tempus sodales neque, eget eleifend <a href="#">turpis tristique</a> eu. Nullam a nisl maximus, ultrices est ut blandit nislr, elit in lobortis mattis.</p>
+            <p>Esta es la mejor parte y lo mas importante para nosotros y cada cliente, sólo llamanos y determinamos el precio que mejor se ajuste tus necesidades y requerimientos.</p>
         </header>
+
+        <!-- Precios de nuestros servicios -->
         <div class="row price-charts">
             <div class="span-4 price-chart-container">
-                <div class="price-chart free">
-                    <h4>Free</h4>
-                    <h5>Our free package</h5>
-                    <div class="price">
-                        <small>$</small><span>0</span>/mo
-                    </div>
-                    <ul>
-                        <li><span><i class="fa fa-database"></i> Diskspace</span><strong>1GB</strong></li>
-                        <li><span><i class="fa fa-group"></i> Bandwidth</span><strong>10GB</strong></li>
-                        <li><span><i class="fa fa-desktop"></i> Sub-domains</span><strong>1</strong></li>
-                        <li><span><i class="fa fa-envelope"></i> Emails</span><strong>5</strong></li>
-                        <li><span><i class="fa fa-support"></i> Support</span><strong>None</strong></li>
-                    </ul>
-                    <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i> Get For Free</a>
-                    </div>
-                </div>
-            </div>
-            <div class="span-4 price-chart-container">
                 <div class="price-chart">
-                    <div class="ribbon ribbon-large">
-                        <div class="banner">
-                            <div class="text">Great Value</div>
-                        </div>
-                    </div>
-                    <h4>Basic</h4>
-                    <h5>Our basic package</h5>
+                    <h4><i class="fa fa-trophy"></i></h4>
+                    <h5>El precio lo determinamos contigo !!</h5>
                     <div class="price">
-                        <small>$</small><span>5</span>/mo
+                        <small>Todo a tu medida y necesidad</small><span>...</span>
                     </div>
                     <ul>
-                        <li><span><i class="fa fa-database"></i> Diskspace</span><strong>5GB</strong></li>
-                        <li><span><i class="fa fa-group"></i> Bandwidth</span><strong>50GB</strong></li>
-                        <li><span><i class="fa fa-desktop"></i> Sub-domains</span><strong>10</strong></li>
-                        <li><span><i class="fa fa-envelope"></i> Emails</span><strong>50</strong></li>
-                        <li><span><i class="fa fa-support"></i> Support</span><strong>Yes</strong></li>
+                        <li><span><i class="fa fa-lightbulb-o"></i> Consultas</span><strong></strong></li>
+                        <li><span><i class="fa fa-laptop" aria-hidden="true"></i> Asesorias</span><strong></strong></li>
+                        <li><span><i class="fa fa-group"></i> Capacitaciones</span><strong></strong></li>
+                        <li><span><i class="fa fa-code"></i> Programación de tareas</span><strong></strong></li>
+                        <li><span><i class="fa fa-support"></i> Soporte por el tiempo que requieras</span><strong></strong></li>
                     </ul>
                     <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i> Buy Now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="span-4 price-chart-container">
-                <div class="price-chart">
-                    <h4>Pro <i class="fa fa-trophy"></i></h4>
-                    <h5>Our pro package</h5>
-                    <div class="price">
-                        <small>$</small><span>45</span>/mo
-                    </div>
-                    <ul>
-                        <li><span><i class="fa fa-database"></i> Diskspace</span><strong>500GB</strong></li>
-                        <li><span><i class="fa fa-group"></i> Bandwidth</span><strong>Unlimited</strong></li>
-                        <li><span><i class="fa fa-desktop"></i> Sub-domains</span><strong>500</strong></li>
-                        <li><span><i class="fa fa-envelope"></i> Emails</span><strong>Unlimited</strong></li>
-                        <li><span><i class="fa fa-support"></i> Support</span><strong>Yes</strong></li>
-                    </ul>
-                    <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i> Buy Now</a>
+                        <a href="contacto.php" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i>LLamanos o dejanos tus datos.</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-
-        <section class="section banner alt">
+<section class="section banner alt">
     <div class="container">
         <div class="content">
             <h4>Start your <b>new project</b> with a <i>fresh</i> approach...</h4>

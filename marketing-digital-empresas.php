@@ -14,6 +14,11 @@
     <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
+    <style type="text/css">
+        .hero {
+            background-image: url("assets/images/stock5.jpg");
+        }
+    </style>
     <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>
 </head>
