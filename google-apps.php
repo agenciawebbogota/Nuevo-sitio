@@ -134,7 +134,7 @@ http://fontawesome.io/icons/
                         <i class="livicon" data-n="desktop" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#0da95f;display: inline;"><i style="color:#0da95f" class="fa fa-table" aria-hidden="true"></i>  Hojas de Cálculo de Google</h4>
-                            <h5>No te preocupes por guardar tus archivos </h5>
+                            <h5>Ya no es excel ¡¡ </h5>
                         </div>
                     </header>
                     <p>Todos tus cambios se van guardando automáticamente mientras escribes. Incluso puedes usar el historial de revisiones para ver las versiones anteriores de una misma hoja de cálculo, ordenadas por fecha y por el autor del cambio.</p>
@@ -147,7 +147,7 @@ http://fontawesome.io/icons/
                         <i class="livicon" data-n="tablet" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#4386fc;display: inline;"><i style="color:#4386fc" class="fa fa-file-text-o" aria-hidden="true"></i>  Documentos de Google</h4>
-                            <h5>Mucho más que meras letras y palabras</h5>
+                            <h5>Mucho más que meras letras y palabras.</h5>
                         </div>
                     </header>
                     <p>Crea documentos, ábrelos y modifícalos estés donde estés con tu teléfono, tablet u ordenador. Incluso si no estás conectado a Internet.</p>
@@ -160,11 +160,10 @@ http://fontawesome.io/icons/
                         <i class="livicon" data-n="image" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#f4b400;">Presentaciones de Google</h4>
-                            <h5>Solo las verás en tu página</h5>
+                            <h5>No necesitas saber mucho.</h5>
                         </div>
                     </header>
-                    <p>Contamos con suscripciones Premium a bancos de imágenes y material gráfico exclusivo que usaremos solo una vez. Así garantizamos que el contenido visual
-                    de tu sitio web sea único e irrepetible.</p>
+                    <p>Son fáciles de implemetar, lo mas importante es que simpre van a estar contigo, animate te explicamos cómo.</p>
                 </div>
             </div>
         </div>
@@ -178,7 +177,7 @@ http://fontawesome.io/icons/
                             <h5>Ejecuta tareas basadas en el tiempo.</h5>
                         </div>
                     </header>
-                    <p>Te podemos ayudar a ejecutar tareas de forma automatizada sin pensar en sentarte en un computador todo eltiempo, deja el trabajo en nuestro s expertos de agencia web bogotá y verás los resultados, sólo necesitamos saber tu necesidad y seguro encontraremos la mejor solución !!</p>
+                    <p>Te ayudamos a ejecutar tareas basadas en el tiempo, sólo plateanos tu dificultad y buscaremos lamejor solución para ti y para tu equipo de trabajo.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -187,7 +186,7 @@ http://fontawesome.io/icons/
                         <i class="livicon" data-n="connect" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#63c;display: inline;"><i style="color:#63c;" class="fa fa-plus-square-o" aria-hidden="true"></i>  Formularios de Google</h4>
-                            <h5>Recibe las respuestas en seguida</h5>
+                            <h5>Recibe las respuestas en seguida.</h5>
                         </div>
                     </header>
                     <p>No sólo te ayudamos a implementar los formularios en tu empresa, sino que también te ayudamos programando respuestas que se le envíen de manera automática a cada pesona quien diligencie cada encuesta.</p>
@@ -199,11 +198,10 @@ http://fontawesome.io/icons/
                         <i class="livicon" data-n="servers" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
                             <h4 style="color:#4386fc;display: inline;"><i class="fa fa-code"></i>  Google Apps Script</h4>
-                            <h5>Extendemos la funcionalidad de las Google Apps</h5>
+                            <h5>Extendemos toda la funcionalidad.</h5>
                         </div>
                     </header>
-                    <p>Todos nuestros diseños se adaptan perfectamente a cualquier dispositivo móvil, sin pérdida de contenido ni calidad en los gráficos e imágenes. Si requieres
-                    además te incluímos la versión AMP a muy bajo costo.</p>
+                    <p>Basados en la programación y utilizando el lengueje JavaScript podemos hacer cosas mas allá de lo que puedas imaginar.</p>
                 </div>
             </div>
         </div>
@@ -212,7 +210,7 @@ http://fontawesome.io/icons/
             <br><br>
             <h2 style="text-align:center;"><i>Ahora que ya sabes todo esto, </i><strong>animate !!!</strong></h2>
         </div>
-        <p class="sub-text">Ahora que ya sabes todo esto, animate a contratar nuestro sevicios y te garantizamos que tu equipo quedará entrenado para tomar mejores decisiones y hacer más rápida y efectiva cada tarea designada, tenemos todo nuestro equipo preparado para brindarte <-- tu equipo de trabajo lo mejor de estas herramientas. --></p>
+        <p class="sub-text">Ahora que ya sabes todo esto, animate a contratar nuestro sevicios y te garantizamos que tu equipo quedará entrenado para tomar mejores decisiones y hacer más rápida y efectiva cada tarea designada, tenemos todo nuestro equipo preparado para brindarte la mejor experiencia en el manejo de estas herramientas.</p>
     </div>
     </div>
 </section>
@@ -222,7 +220,7 @@ http://fontawesome.io/icons/
             <div class="section-title">
                 <h3>Algunos de nuestros más recientes trabajos</h3>
             </div>
-            <p>Ya son más de 10 proyectos de emprendimiento que hemos ayudado a forjar</p>
+            <p>Lee un poco sobre estos proyectos que hemos ayudado a forjar.</p>
         </header>
         <div class="portfolio-items">
             <div class="portfolio-item">
@@ -234,9 +232,10 @@ http://fontawesome.io/icons/
                         <i class="fa fa-search"></i>
                     </a>
                 </div>
-                <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
+                <!-- <h4><a href="single-project.html">Agrocentro - Argentina</a></h4> -->
+                <p>Agrocentro - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p>
+                <img src="assets/images/logos-clientes/agrocentro.png" alt="Agrocentro" />
+                <!-- <a href="">Conoce lo que ellos opinan de nuestro servicio.</a> -->
             </div>
             <div class="portfolio-item">
                 <div class="controls">
@@ -247,9 +246,9 @@ http://fontawesome.io/icons/
                         <i class="fa fa-search"></i>
                     </a>
                 </div>
-                <h4><a href="single-project.html">Cras Facilisis</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
+                <!-- <h4><a href="single-project.html">Funes SRL - Argentina</a></h4> -->
+                <p>Funes SRL - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p>
+                <img src="assets/images/logos-clientes/funes.png" alt="Funse SRL" />
             </div>
             <div class="portfolio-item">
                 <div class="controls">
@@ -264,7 +263,7 @@ http://fontawesome.io/icons/
                 <p>Cras dictum erat id tortor ornare.</p>
                 <img src="http://placehold.it/800x543" alt="" />
             </div>
-            <div class="portfolio-item max-bp2">
+            <!-- <div class="portfolio-item max-bp2">
                 <div class="controls">
                     <a href="single-project.html" class="icon-round-border">
                         <i class="fa fa-link"></i>
@@ -276,7 +275,7 @@ http://fontawesome.io/icons/
                 <h4><a href="single-project.html">Lorem Ipsum</a></h4>
                 <p>Cras dictum erat id tortor ornare.</p>
                 <img src="http://placehold.it/800x543" alt="" />
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
@@ -304,7 +303,7 @@ http://fontawesome.io/icons/
 <section class="section quote">
     <div class="container">
         <blockquote class="active">
-            <h4>We can take your awesome ideas and turn them into an <b>exciting reality</b>...</h4>
+            <h4>Somos reseller de G Suite, si necesitas un código promocional sólo cominacate con nosotros</b>...</h4>
         </blockquote>
     </div>
 </section>
@@ -321,7 +320,7 @@ http://fontawesome.io/icons/
         <!-- Precios de nuestros servicios -->
         <div class="row price-charts">
             <div class="span-4 price-chart-container">
-                <div class="price-chart">
+                <div class="price-chart centar-chart">
                     <h4><i class="fa fa-trophy"></i></h4>
                     <h5>El precio lo determinamos contigo !!</h5>
                     <div class="price">
@@ -342,19 +341,6 @@ http://fontawesome.io/icons/
         </div>
     </div>
 </section>
-<section class="section banner alt">
-    <div class="container">
-        <div class="content">
-            <h4>Start your <b>new project</b> with a <i>fresh</i> approach...</h4>
-            <p>leave your visitors with an experience to remember and <a href="#">Purchase Nexus</a> now.</p>
-        </div>
-        <div class="meta">
-            <a href="#" class="button brand-1 round">Purchase Theme</a>
-            or <a href="#about">Learn More</a>
-        </div>
-    </div>
-</section>
 <?php
     require_once 'includes/footer.php';
-
  ?>
