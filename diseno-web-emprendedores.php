@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
-            background-image: url("assets/images/stock5.jpg");
+            background-image: url("assets/images/diseno-emprendedores.jpg");
         }
     </style>
     <!-- Modernizr -->
@@ -115,7 +115,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="desktop" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <img src="assets/images/web-design.png" alt="">
                         <div class="title">
                             <h4>Diseño Profesional</h4>
                             <h5>Optimizado con Neuromarketing</h5>
@@ -128,7 +128,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="tablet" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <img src="assets/images/web-design.png" alt="">
                         <div class="title">
                             <h4>Sitios Multiplataforma</h4>
                             <h5>No todos son iguales</h5>
@@ -141,7 +141,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="image" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <img src="assets/images/web-design.png" alt="">
                         <div class="title">
                             <h4>Imágenes Unicas</h4>
                             <h5>Solo las verás en tu página</h5>
@@ -156,7 +156,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="doc-portrait" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <img src="assets/images/web-design.png" alt="">
                         <div class="title">
                             <h4>Optimización SEO</h4>
                             <h5>Posicionamiento en buscadores</h5>
@@ -169,7 +169,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="connect" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <img src="assets/images/web-design.png" alt="">
                         <div class="title">
                             <h4>Hosting y Dominio</h4>
                             <h5>Alojamiento web</h5>
@@ -182,7 +182,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="servers" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <img src="assets/images/web-design.png" alt="">
                         <div class="title">
                             <h4>Versión Móviles</h4>
                             <h5>Diseño Web Responsive</h5>
