@@ -232,9 +232,9 @@ http://fontawesome.io/icons/
                         <i class="fa fa-search"></i>
                     </a>
                 </div>
-                <!-- <h4><a href="single-project.html">Agrocentro - Argentina</a></h4> -->
-                <p>Agrocentro - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p>
-                <img src="assets/images/logos-clientes/agrocentro.png" alt="Agrocentro" />
+                <h4><a href="single-project.html">Agrocentro - Argentina</a></h4>
+                <!-- <p>Agrocentro - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p> -->
+                <img src="assets/images/logos-clientes/agrocentro.png" alt="Agrocentro" width="800px" height="543px" />
                 <!-- <a href="">Conoce lo que ellos opinan de nuestro servicio.</a> -->
             </div>
             <div class="portfolio-item">
@@ -246,9 +246,9 @@ http://fontawesome.io/icons/
                         <i class="fa fa-search"></i>
                     </a>
                 </div>
-                <!-- <h4><a href="single-project.html">Funes SRL - Argentina</a></h4> -->
-                <p>Funes SRL - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p>
-                <img src="assets/images/logos-clientes/funes.png" alt="Funse SRL" />
+                <h4><a href="single-project.html">Funes SRL - Argentina</a></h4>
+                <!-- <p>Funes SRL - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p> -->
+                <img src="assets/images/logos-clientes/funes.png" alt="Funse SRL" width="800px" height="543px" />
             </div>
             <div class="portfolio-item">
                 <div class="controls">
@@ -263,19 +263,6 @@ http://fontawesome.io/icons/
                 <p>Cras dictum erat id tortor ornare.</p>
                 <img src="http://placehold.it/800x543" alt="" />
             </div>
-            <!-- <div class="portfolio-item max-bp2">
-                <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                        <i class="fa fa-search"></i>
-                    </a>
-                </div>
-                <h4><a href="single-project.html">Lorem Ipsum</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
-            </div> -->
         </div>
     </div>
 </section>
@@ -319,7 +306,7 @@ http://fontawesome.io/icons/
 
         <!-- Precios de nuestros servicios -->
         <div class="row price-charts">
-            <div class="span-4 price-chart-container">
+            <div class="span-4 price-chart-container span-6">
                 <div class="price-chart centar-chart">
                     <h4><i class="fa fa-trophy"></i></h4>
                     <h5>El precio lo determinamos contigo !!</h5>

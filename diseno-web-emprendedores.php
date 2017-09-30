@@ -18,6 +18,9 @@
         .hero {
             background-image: url("assets/images/diseno-emprendedores.jpg");
         }
+        .section.secondary {
+          background-image: url("assets/images/polygon-bg-blue.png");
+        }
     </style>
     <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>

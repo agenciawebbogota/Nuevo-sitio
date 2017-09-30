@@ -7339,7 +7339,7 @@ body.search-active .main-search {
   position: relative;
   -webkit-background-size: cover;
   background-size: cover;
-  background-image: url("../../images/polygon-bg-blue.png");
+  /*background-image: url("../../images/polygon-bg-blue.png");*/
   color: white;
 
 }
