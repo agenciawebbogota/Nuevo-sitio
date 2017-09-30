@@ -15,8 +15,13 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
+        .fondo{
+            height: 100%;
+            position: fixed;
+            width: 100%;
+        }
         .hero {
-          background-image: url("assets/images/stock5.jpg");
+          background: url("http://academiawebbogota.com/wp-content/uploads/2017/08/fondo.mp4");
         }
        .section.secondary {
           background-image: url("assets/images/polygon-bg-blue.png");
@@ -109,6 +114,12 @@ http://fontawesome.io/icons/
         <!-- Sub-Header -->
         <!-- <br> -->
 <section class="hero sub-header">
+
+
+    <video class="fondo" src="http://academiawebbogota.com/wp-content/uploads/2017/08/fondo.mp4" autoplay="true">
+        
+
+    </video>
     <div class="container inactive">
         <div class="sh-title-wrapper">
             <h1>Google Apps (G Suite) para empresas</h1>
