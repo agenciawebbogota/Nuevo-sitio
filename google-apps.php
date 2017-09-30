@@ -237,43 +237,6 @@ http://fontawesome.io/icons/
     </div>
     </div>
 </section>
-<!-- <section class="section primary latest-works row" id="portfolio">
-    <div class="container">
-        <header class="sep active">
-            <div class="section-title">
-                <h3>Algunos de nuestros más recientes trabajos</h3>
-            </div>
-            <p>Lee un poco sobre estos proyectos que hemos ayudado a forjar.</p>
-        </header>
-        <div class="portfolio-items">
-            <div class="portfolio-item">
- 
-                <h4><span>Agrocentro - Argentina</span></h4>
-                
-                <img src="assets/images/logos-clientes/agrocentro.png" alt="Agrocentro" width="800px" height="543px" />
-               
-            </div>
-            <div class="portfolio-item">
-                <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a>
-                    
-                </div>
-                <h4><a href="single-project.html">Funes SRL - Argentina</a></h4>
-               
-                <img src="assets/images/logos-clientes/funes.png" alt="Funse SRL" width="800px" height="543px" />
-            </div>
-            <div class="portfolio-item">
-                <div class="controls">
-                </div>
-                <h4><a href="single-project.html">Roldy Five - Colombia</a></h4>
-                
-                <img src="assets/images/logos-clientes/roldy-five.png" alt="Roldy five" width="800px" height="543px" />
-            </div>
-        </div>
-    </div>
-</section> -->
 <section class="section secondary skills inactive">
         <div class="container">
         <div class="row block-columns">
@@ -290,8 +253,8 @@ http://fontawesome.io/icons/
             <p class="mision" style="font-size:20px">¡Deja tu proyecto en las mejores manos!</p>
             </div>
             <div class="team-pic">
-                    <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
-                </div>
+                <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+            </div>
         </div>
     </div>
 </section>
