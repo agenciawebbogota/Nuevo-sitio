@@ -16,8 +16,18 @@
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
-            background-image: url("assets/images/stock5.jpg");
+            background-image: url("assets/images/marketing-digital-emprendedores.jpg");
         }
+        .section.secondary {
+          background-image: url("assets/images/emprendedores-background.jpg");
+        }
+        @media (min-width:320px) and (max-width:768px) {
+          .wcu-graphic{display: none;}
+        }
+        @media (min-width:769px) and (max-width:1920px) {
+          .wcu-graphic-mobile{display: none;}
+        }
+        .wcu-graphic-mobile{padding-bottom: 50px;}
     </style>
     <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>
@@ -104,7 +114,7 @@
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h3>¡Obtén Máxima Exposición Para Tus Productos y Servicios A Través de los Beneficios<br/> de la Publicidad Online!</h3>
+                <h3>¡Obten Maxima Exposicion Para Tus Productos y Servicios A Traves de los Beneficios<br/> de la Publicidad Online!</h3>
             </div>
             <p>Tú puedes tener el mejor producto del mundo, <a>pero si no lo publicitas en Internet, nadie será capaz de encontrarlo</a>. Es así de sencillo.
               El Marketing Digital sirve dos propósitos. Primero, le dice al mundo que <b>TIENES</b> un producto y de qué se trata, y luego le dice al mundo cómo
@@ -115,7 +125,10 @@
         </header>
         <div class="wcu-content">
             <div class="wcu-graphic">
-                <img src="assets/images/desktop.png" alt="" />
+                <img src="assets/images/elementos-de-marketing-digital.png" alt="" />
+            </div>
+            <div class="wcu-graphic-mobile">
+                <img src="assets/images/elementos-seo.png" alt="" />
             </div>
             <div class="wcu-features">
                 <div class="widget wcu-feature wcu-left">
@@ -138,7 +151,6 @@
                 </div>
                 <div class="widget wcu-feature wcu-right">
                     <div class="widget-content">
-                        <i class="livicon" data-n="image" data-op="1" data-c="#C1C1C1" data-s="55" data-hc="false"></i>
                         <div class="title">
                             <h4>Campañas de Pago por Click</h4>
                             <h5>Google y Redes Sociales</h5>
@@ -148,7 +160,6 @@
                 </div>
                 <div class="widget wcu-feature wcu-right">
                     <div class="widget-content">
-                        <i class="livicon" data-n="code" data-op="1" data-c="#C1C1C1" data-s="55" data-hc="false"></i>
                         <div class="title">
                             <h4>Estrategias efectivas</h4>
                             <h5>Marketing Digital 3.0</h5>

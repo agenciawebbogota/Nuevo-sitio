@@ -16,7 +16,10 @@
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
-            background-image: url("assets/images/stock5.jpg");
+            background-image: url("assets/images/diseno-empresas.jpg");
+        }
+        .section.secondary {
+          background-image: url("assets/images/emprendedores-background.jpg");
         }
     </style>
     <!-- Modernizr -->

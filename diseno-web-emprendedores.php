@@ -19,7 +19,7 @@
             background-image: url("assets/images/diseno-emprendedores.jpg");
         }
         .section.secondary {
-          background-image: url("assets/images/polygon-bg-blue.png");
+          background-image: url("assets/images/emprendedores-background.jpg");
         }
     </style>
     <!-- Modernizr -->
@@ -144,7 +144,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/web-design.png" alt="">
+                        <img src="assets/images/imagenes-diseño-web.png" alt="">
                         <div class="title">
                             <h4>Imágenes Unicas</h4>
                             <h5>Solo las verás en tu página</h5>
@@ -159,7 +159,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/web-design.png" alt="">
+                        <img src="assets/images/seo.png" alt="">
                         <div class="title">
                             <h4>Optimización SEO</h4>
                             <h5>Posicionamiento en buscadores</h5>
@@ -172,7 +172,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/web-design.png" alt="">
+                        <img src="assets/images/hosting.png" alt="">
                         <div class="title">
                             <h4>Hosting y Dominio</h4>
                             <h5>Alojamiento web</h5>
@@ -185,7 +185,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/web-design.png" alt="">
+                        <img src="assets/images/moviles.png" alt="">
                         <div class="title">
                             <h4>Versión Móviles</h4>
                             <h5>Diseño Web Responsive</h5>
@@ -210,77 +210,64 @@
 <div class="portfolio-items">
     <div class="portfolio-item">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="https://viaggigroup.co/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Viaggi Group</a></h4>
+        <h4><a href="https://viaggigroup.co/" target="_blank">Viaggi Group</a></h4>
         <p>programas educativos en el exterior</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/viaggi-group-pagina-web.jpg" alt="Viaggi Group" title="Viaggi Group" />
     </div>
     <div class="portfolio-item">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="http://servinproh.com/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Servinproh</a></h4>
+        <h4><a href="http://servinproh.com/" target="_blank">Servinproh</a></h4>
         <p>Administración de propiedad horizontal</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/servinproh-pagina-web.jpg" alt="Servinproh" title="Servinproh" />
     </div>
     <div class="portfolio-item">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="http://quirozencuadernacion.com/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Quiroz Encuadernación</a></h4>
+        <h4><a href="http://quirozencuadernacion.com/" target="_blank">Quiroz Encuadernación</a></h4>
         <p>Empaste de libros contables</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/quiroz-ecuadernacion-pagina.jpg" alt="" />
     </div>
     <div class="portfolio-item max-bp2">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="http://www.medefiende.com/principal/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Medefiende</a></h4>
+        <h4><a href="http://www.medefiende.com/principal/" target="_blank">Medefiende</a></h4>
         <p>Abogados especializados en defensa médica</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/medefiende-pagina-web.jpg" alt="" />
     </div>
 </div>
 </div>
 </section>
-<section class="section secondary skills inactive">
+<section class="section secondary skills inactive" style="height:auto;padding-top:60px;padding-bottom:60px;">
         <div class="container">
         <div class="row block-columns">
-            <div class="span-5 skills-meta">
+            <div class="span-12 skills-meta">
                 <div class="section-title">
-                    <h3 style="line-height:110%">Nosotros también somos emprendedores</h3>
+                    <h3 style="font-weight:300;line-height:110%;text-align:center;">Nosotros tambien somos emprendedores</h3>
                 </div>
-                <p class="mision" style="font-size:25px">Conocemos y entendemos tus necesidades</p>
-                <p class="mision2">Sabemos que en ocasiones es algo difícil crear empresa y contar con el apoyo necesario para iniciar el camino<br/>
-                  hacia tu sueño empresarial. Por eso nosotros
-                nos convertiremos en tus principales aliados en busca de lograr consolidar tu proyecto en Internet.
+                <p class="mision" style="font-size:25px;text-align:center;">Conocemos y entendemos tus necesidades</p>
+                <p class="mision2" align="center">Sabemos que en ocasiones es algo difícil crear empresa y contar con el apoyo necesario para iniciar el camino
+                  hacia tu sueño empresarial. Por eso nosotros nos convertiremos en tus principales aliados en busca de lograr consolidar tu proyecto en Internet.
                 Tenemos amplia experiencia en Diseño Web Emprendedores, respaldada por conocimientos en creación de empresas y marketing digital
             especializado en pymes.</p>
-            <p class="mision" style="font-size:20px">¡Deja tu proyecto en las mejores manos!</p>
+            <p class="mision" style="font-size:20px;text-align:center">¡Deja tu proyecto en las mejores manos!</p>
             </div>
-            <div class="team-pic">
+            <!-- <div class="team-pic">
                     <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
-                </div>
+                </div> -->
         </div>
     </div>
 </section>
@@ -304,7 +291,7 @@
                   <h4>Sitio Basico</h4>
                   <h5>El ideal para comenzar</h5>
                   <div class="price">
-                      <span>$79</span>.000 + IVA/mes
+                      <p><span>$79</span>.000 + IVA/mes</p>
                   </div>
                   <ul>
                       <li><span><i class="fa fa-desktop"></i> Diseño Personalizado</span></li>
@@ -322,7 +309,7 @@
                     <h4>Sitio Corporativo</h4>
                     <h5>Ideal para PYMES</h5>
                     <div class="price">
-                        <small>Desde </small><span>$650</span>.000+IVA
+                        <p><small>Desde </small><span>$650</span>.000+IVA</p>
                     </div>
                     <ul>
                         <li><span><i class="fa fa-html5"></i> WordPress o HTML5</span></li>
@@ -340,7 +327,7 @@
                     <h4>Tienda Online</h4>
                     <h5>E - Commerce</h5>
                     <div class="price">
-                        <small>Desde </small><span>$900</span>.000+IVA
+                        <p><small>Desde </small><span>$900</span>.000+IVA</p>
                     </div>
                     <ul>
                         <li><span><i class="fa fa-wordpress"></i> Woocomerce o Prestashop</span></li>

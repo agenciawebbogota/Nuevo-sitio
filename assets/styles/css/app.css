@@ -3037,10 +3037,26 @@ img.mfp-img {
   font-size: 1.8rem;
 }
 
-.price-chart .price span {
-  font-size: 2.85rem;
+.price-chart .price p {
+  font-size: 1.85rem;
+  font-weight: 400;
+  padding-top: 10px;
 }
 
+.price-chart .price span {
+  font-size: 2.5rem;
+}
+
+@media (min-width:320px) and (max-width:640px){
+  .price-chart .price p{
+    font-size: 1.3rem;
+    padding-top: 12px;
+    font-weight: 400;
+}
+.price-chart .price span {
+  font-size: 1.8rem;
+}
+}
 .price-chart ul {
   background: #f7f7f7;
   color: #4a4a4a;
