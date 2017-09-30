@@ -21,7 +21,10 @@
             width: 100%;
         }
         .hero {
-          background: url("http://academiawebbogota.com/wp-content/uploads/2017/08/fondo.mp4");
+          /*background: url("http://academiawebbogota.com/wp-content/uploads/2017/08/fondo.mp4");*/
+        }
+        .desaparece{
+            display: none;
         }
        .section.secondary {
           background-image: url("assets/images/polygon-bg-blue.png");
@@ -305,3 +308,17 @@ http://fontawesome.io/icons/
 <?php
     require_once 'includes/footer.php';
  ?>
+<script type="text/javascript">
+    $(document).scroll(function(event) {
+
+        let scrollBody = $(window).scrollTop();
+
+
+        if(scrollBody>400){
+            $(".fondo").addClass('desaparece');
+        }else{
+            $(".fondo").removeClass('desaparece');
+        }
+        console.log($(window).scrollTop())
+    });
+</script>
