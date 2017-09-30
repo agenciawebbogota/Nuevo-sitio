@@ -18,11 +18,9 @@
         .hero {
           background-image: url("assets/images/stock5.jpg");
         }
-        .price-chart {
-            /*position: relative;*/
-            /*background: #3cba54;*/
+       .section.secondary {
+          background-image: url("assets/images/polygon-bg-blue.png");
         }
-
     </style>
     <!-- Modernizr -->
     <!-- <script src="assets/js/modernizr.min.js"></script> -->
@@ -214,7 +212,7 @@ http://fontawesome.io/icons/
     </div>
     </div>
 </section>
-<section class="section primary latest-works" id="portfolio">
+<section class="section primary latest-works row" id="portfolio">
     <div class="container">
         <header class="sep active">
             <div class="section-title">
@@ -225,26 +223,26 @@ http://fontawesome.io/icons/
         <div class="portfolio-items">
             <div class="portfolio-item">
                 <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
+                  <!--   <a href="single-project.html" class="icon-round-border">
                         <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                    </a> -->
+                    <!-- <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
                         <i class="fa fa-search"></i>
-                    </a>
+                    </a> -->
                 </div>
-                <h4><a href="single-project.html">Agrocentro - Argentina</a></h4>
+                <h4><span>Agrocentro - Argentina</span></h4>
                 <!-- <p>Agrocentro - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p> -->
                 <img src="assets/images/logos-clientes/agrocentro.png" alt="Agrocentro" width="800px" height="543px" />
                 <!-- <a href="">Conoce lo que ellos opinan de nuestro servicio.</a> -->
             </div>
             <div class="portfolio-item">
                 <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
+                    <!-- <a href="single-project.html" class="icon-round-border">
                         <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                    </a> -->
+                    <!-- <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
                         <i class="fa fa-search"></i>
-                    </a>
+                    </a> -->
                 </div>
                 <h4><a href="single-project.html">Funes SRL - Argentina</a></h4>
                 <!-- <p>Funes SRL - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p> -->
@@ -252,16 +250,16 @@ http://fontawesome.io/icons/
             </div>
             <div class="portfolio-item">
                 <div class="controls">
-                    <a href="single-project.html" class="icon-round-border">
+                   <!--  <a href="single-project.html" class="icon-round-border">
                         <i class="fa fa-link"></i>
-                    </a>
-                    <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
+                    </a> -->
+                   <!--  <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
                         <i class="fa fa-search"></i>
-                    </a>
+                    </a> -->
                 </div>
-                <h4><a href="single-project.html">Turpis Tristique</a></h4>
-                <p>Cras dictum erat id tortor ornare.</p>
-                <img src="http://placehold.it/800x543" alt="" />
+                <h4><a href="single-project.html">Roldy Five - Colombia</a></h4>
+                <!-- <p>Funes SRL - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p> -->
+                <img src="assets/images/logos-clientes/roldy-five.jpg" alt="Roldy five" width="800px" height="543px" />
             </div>
         </div>
     </div>
@@ -294,7 +292,7 @@ http://fontawesome.io/icons/
         </blockquote>
     </div>
 </section>
-        <section class="section primary pricing inactive" id="s-pricing">
+<section class="section primary pricing inactive" id="s-pricing">
     <div class="container">
         <header class="sep active">
             <div class="section-title">
@@ -305,7 +303,7 @@ http://fontawesome.io/icons/
         </header>
 
         <!-- Precios de nuestros servicios -->
-        <div class="row price-charts">
+        <!-- <div class="row price-charts">
             <div class="span-4 price-chart-container span-6">
                 <div class="price-chart centar-chart">
                     <h4><i class="fa fa-trophy"></i></h4>
@@ -325,7 +323,7 @@ http://fontawesome.io/icons/
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 <?php
