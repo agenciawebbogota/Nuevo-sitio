@@ -32,6 +32,10 @@
         .section.quote{
             background-color: #4386fc;
         }
+        .portfolio-items{
+            width: 700px;
+            margin: auto;
+        }
     </style>
 </head>
 <body class="further services">
@@ -150,7 +154,8 @@ http://fontawesome.io/icons/
                             <h5>Ya no es excel ¡¡ </h5>
                         </div>
                     </header>
-                    <p>Todos tus cambios se van guardando automáticamente mientras escribes. Incluso puedes usar el historial de revisiones para ver las versiones anteriores de una misma hoja de cálculo, ordenadas por fecha y por el autor del cambio.</p>
+                    <p>Tus cambios se van guardando automáticamente mientras escribes. Incluso puedes usar el historial de revisiones para ver las versiones anteriores de una misma hoja de cálculo, ordenadas por fecha y por el autor del cambio.
+                    Editar tus hojas de calculo a la par con mas personas.</p>
                 </div>
             </div>
             
@@ -163,7 +168,8 @@ http://fontawesome.io/icons/
                             <h5>Mucho más que meras letras y palabras.</h5>
                         </div>
                     </header>
-                    <p>Crea documentos, ábrelos y modifícalos estés donde estés con tu teléfono, tablet u ordenador. Incluso si no estás conectado a Internet.</p>
+                    <p>Crea documentos, ábrelos y modifícalos estés donde estés con tu teléfono, tablet u ordenador. Incluso si no estás conectado a Internet.
+                    Con Documentos de Google, puedes colaborar con varias personas en documentos, o escribirlos y modificarlos, estés donde estés. Y gratis.</p>
                 </div>
             </div>
 
@@ -176,7 +182,8 @@ http://fontawesome.io/icons/
                             <h5>No necesitas saber mucho.</h5>
                         </div>
                     </header>
-                    <p>Son fáciles de implemetar, lo mas importante es que simpre van a estar contigo, animate te explicamos cómo.</p>
+                    <p>Son fáciles de implemetar, lo mas importante es que simpre van a estar contigo, animate te explicamos cómo.
+                    Con Presentaciones de Google, puedes crear tus presentaciones, modificarlas, colaborar en ellas en equipo y enseñarlas en cualquier parte. Y gratis. </p>
                 </div>
             </div>
         </div>
@@ -190,7 +197,8 @@ http://fontawesome.io/icons/
                             <h5>Ejecuta tareas basadas en el tiempo.</h5>
                         </div>
                     </header>
-                    <p>Te ayudamos a ejecutar tareas basadas en el tiempo, sólo plateanos tu dificultad y buscaremos lamejor solución para ti y para tu equipo de trabajo.</p>
+                    <p>Te ayudamos a ejecutar tareas basadas en el tiempo, sólo plateanos tu dificultad y buscaremos lamejor solución para ti y para tu equipo de trabajo.
+                    Maten tu agenda de tareas al día, programa notificaciones para nunca perderte de lo que desees. y es gratis.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -202,7 +210,8 @@ http://fontawesome.io/icons/
                             <h5>Recibe las respuestas en seguida.</h5>
                         </div>
                     </header>
-                    <p>No sólo te ayudamos a implementar los formularios en tu empresa, sino que también te ayudamos programando respuestas que se le envíen de manera automática a cada pesona quien diligencie cada encuesta.</p>
+                    <p>No sólo te ayudamos a implementar los formularios en tu empresa, sino que también te ayudamos programando respuestas que se le envíen de manera automática a cada pesona quien diligencie cada encuesta.
+                    Recopila y organiza todo tipo de información con Formularios de Google. Y gratis.</p>
                 </div>
             </div>
             <div class="span-4 widget service">
@@ -214,7 +223,8 @@ http://fontawesome.io/icons/
                             <h5>Extendemos toda la funcionalidad.</h5>
                         </div>
                     </header>
-                    <p>Basados en la programación y utilizando el lengueje JavaScript podemos hacer cosas mas allá de lo que puedas imaginar.</p>
+                    <p>Basados en la programación y utilizando el lengueje JavaScript podemos hacer cosas mas allá de lo que puedas imaginar.
+                    Crea desde formulas perzonalizadas para tus Hojas de Cálculo de Google hasta envío de información de forma autómatica.</p>
                 </div>
             </div>
         </div>
@@ -310,15 +320,11 @@ http://fontawesome.io/icons/
  ?>
 <script type="text/javascript">
     $(document).scroll(function(event) {
-
         let scrollBody = $(window).scrollTop();
-
-
         if(scrollBody>400){
             $(".fondo").addClass('desaparece');
         }else{
             $(".fondo").removeClass('desaparece');
         }
-        console.log($(window).scrollTop())
     });
 </script>
