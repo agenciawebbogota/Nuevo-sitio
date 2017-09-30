@@ -613,7 +613,7 @@
         </section>
         
         
-                <section class="section primary contact" id="s-contacto">
+        <section class="section primary contact" id="s-contacto">
             <div class="container">
                 <p style="color:#f7f7f7">Diseño web bogotá, agencia marketing bogotá, diseño páginas web bogotá</p>
                             <header class="sep active">

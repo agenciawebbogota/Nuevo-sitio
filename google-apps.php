@@ -21,9 +21,10 @@
        .section.secondary {
           background-image: url("assets/images/polygon-bg-blue.png");
         }
+        .section.quote{
+            background-color: #4386fc;
+        }
     </style>
-    <!-- Modernizr -->
-    <!-- <script src="assets/js/modernizr.min.js"></script> -->
 </head>
 <body class="further services">
     <!-- SITE CONTENT -->
@@ -80,7 +81,7 @@
                     </li>
                     <li><a href="#">Cursos</a></li>
                     <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html">Contacto</a></li>
+                    <li><a href="contact.php">Contacto</a></li>
                 </ul>
             </nav>
         </div>
@@ -157,7 +158,7 @@ http://fontawesome.io/icons/
                     <header>
                         <i class="livicon" data-n="image" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
                         <div class="title">
-                            <h4 style="color:#f4b400;">Presentaciones de Google</h4>
+                            <h4 style="color:#f4b400;display: inline;"><i style="color:#f4b400" class="fa fa-slideshare" aria-hidden="true"></i> Presentaciones de Google</h4>
                             <h5>No necesitas saber mucho.</h5>
                         </div>
                     </header>
@@ -222,14 +223,7 @@ http://fontawesome.io/icons/
         </header>
         <div class="portfolio-items">
             <div class="portfolio-item">
-                <div class="controls">
-                  <!--   <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a> -->
-                    <!-- <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                        <i class="fa fa-search"></i>
-                    </a> -->
-                </div>
+ 
                 <h4><span>Agrocentro - Argentina</span></h4>
                 <!-- <p>Agrocentro - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p> -->
                 <img src="assets/images/logos-clientes/agrocentro.png" alt="Agrocentro" width="800px" height="543px" />
@@ -250,16 +244,10 @@ http://fontawesome.io/icons/
             </div>
             <div class="portfolio-item">
                 <div class="controls">
-                   <!--  <a href="single-project.html" class="icon-round-border">
-                        <i class="fa fa-link"></i>
-                    </a> -->
-                   <!--  <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                        <i class="fa fa-search"></i>
-                    </a> -->
                 </div>
                 <h4><a href="single-project.html">Roldy Five - Colombia</a></h4>
                 <!-- <p>Funes SRL - Argentina <br> Sistema para la generación de presupuestos y remitos integrando las Google Apps</p> -->
-                <img src="assets/images/logos-clientes/roldy-five.jpg" alt="Roldy five" width="800px" height="543px" />
+                <img src="assets/images/logos-clientes/roldy-five.png" alt="Roldy five" width="800px" height="543px" />
             </div>
         </div>
     </div>
@@ -285,11 +273,11 @@ http://fontawesome.io/icons/
         </div>
     </div>
 </section>
-<section class="section quote">
+<section class="section banner2 alt">
     <div class="container">
-        <blockquote class="active">
-            <h4>Somos reseller de G Suite, si necesitas un código promocional sólo cominacate con nosotros</b>...</h4>
-        </blockquote>
+        <div class="content">
+            <h4>En <i>Agencia Web Bogotá</i> hacemos parte de la red de afiliados de Google Suite, si necesitas un código promocional sólo cominacate con nosotros....</h4>
+        </div>        
     </div>
 </section>
 <section class="section primary pricing inactive" id="s-pricing">
@@ -301,31 +289,8 @@ http://fontawesome.io/icons/
             </div>
             <p>Esta es la mejor parte y lo mas importante para nosotros y cada cliente, sólo llamanos y determinamos el precio que mejor se ajuste tus necesidades y requerimientos.</p>
         </header>
-
-        <!-- Precios de nuestros servicios -->
-        <!-- <div class="row price-charts">
-            <div class="span-4 price-chart-container span-6">
-                <div class="price-chart centar-chart">
-                    <h4><i class="fa fa-trophy"></i></h4>
-                    <h5>El precio lo determinamos contigo !!</h5>
-                    <div class="price">
-                        <small>Todo a tu medida y necesidad</small><span>...</span>
-                    </div>
-                    <ul>
-                        <li><span><i class="fa fa-lightbulb-o"></i> Consultas</span><strong></strong></li>
-                        <li><span><i class="fa fa-laptop" aria-hidden="true"></i> Asesorias</span><strong></strong></li>
-                        <li><span><i class="fa fa-group"></i> Capacitaciones</span><strong></strong></li>
-                        <li><span><i class="fa fa-code"></i> Programación de tareas</span><strong></strong></li>
-                        <li><span><i class="fa fa-support"></i> Soporte por el tiempo que requieras</span><strong></strong></li>
-                    </ul>
-                    <div class="buy-now">
-                        <a href="contacto.php" class="button brand-1 full-width"><i class="fa fa-shopping-cart"></i>LLamanos o dejanos tus datos.</a>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    </div>
 </section>
+
 <?php
     require_once 'includes/footer.php';
  ?>
