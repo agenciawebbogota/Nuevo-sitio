@@ -128,7 +128,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/web-design.png" alt="">
+                        <img src="assets/images/multiplataforma.png" alt="">
                         <div class="title">
                             <h4>Sitios Multiplataforma</h4>
                             <h5>No todos son iguales</h5>
