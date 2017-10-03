@@ -19,7 +19,7 @@
             background-image: url("assets/images/diseno-empresas.jpg");
         }
         .section.secondary {
-          background-image: url("assets/images/emprendedores-background.jpg");
+          background-image: url("assets/images/diseño-empresas-background.jpg");
         }
     </style>
     <!-- Modernizr -->
@@ -114,12 +114,12 @@
             </div>
         </div>
     </div>
-    <div class="span-6 more-info-meta">
+    <div class="span-6 more-info-meta" style="padding-top:30px;">
         <div class="section-title">
             <h2>Agencia Web Bogotá</h2>
             <h3><i>Diseño Web Empresas</i></h3>
         </div>
-        <p align="justify">Contamos con los conocimientos, las estrategias, los recursos y la experiencia necesaria para darle un gran impulso a su empresa en el mundo virtual.<br/>
+        <p>Contamos con los conocimientos, las estrategias, los recursos y la experiencia necesaria para darle un gran impulso a su empresa en el mundo virtual.<br/>
           Más que desarrollar simples páginas de Internet, creamos portales web altamente efectivos, funcionales y con gran capacidad comunicativa.</p>
         <ul class="bullet-list min-bp2">
             <li>Implementamos Neuromarketing en todos nuestros diseños</li>
@@ -154,7 +154,7 @@
             </div>
             <div class="team-pic">
                     <div class="mask"></div>
-                    <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+                    <img src="assets/images/programing.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
                 </div>
         </div>
     </div>
@@ -164,7 +164,7 @@
         <div class="row block-columns">
           <div class="team-pic">
                   <div class="mask"></div>
-                  <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+                  <img src="assets/images/responsive.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
           </div>
             <div class="span-6 skills-meta">
                 <p class="mision" style="font-size:25px">SU SITIO WEB EN WORDPRESS<br />
