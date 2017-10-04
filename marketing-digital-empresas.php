@@ -16,7 +16,10 @@
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
-            background-image: url("assets/images/stock5.jpg");
+            background-image: url("assets/images/marketing-digital-empresas.jpg");
+        }
+        .section.secondary {
+          background-color: #1795c5; padding-top: 40px;
         }
     </style>
     <!-- Modernizr -->
@@ -111,7 +114,7 @@
                     </div>
                     <div class="team-pic">
                             <div class="mask"></div>
-                            <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+                            <img src="assets/images/marketing-neuromarketing.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
                         </div>
                 </div>
             </div>
@@ -166,31 +169,31 @@
             <h2 style="font-size:30px !important;">¿Cómo aplicamos el Neuromarketing al Marketing Digital?</h2>
             <h3><a>¿Qué es el Neuromarketing?</a></h3>
         </div>
-        <p align="justify">Para aplicar técnicas de neuroventas en sus campañas publicitarias no es necesario invertir grandes sumas de dinero en equipos
+        <p>Para aplicar técnicas de neuroventas en sus campañas publicitarias no es necesario invertir grandes sumas de dinero en equipos
         especializados. Los estudios realizados durante años en el campo de la neurociencia nos permiten hoy en día conocer e implementar esos conceptos
       en cualquier tipo de negocio.</p>
-      <p align="justify">No que todas las personas reaccionen de igual manera ante los estímulos de la publicidad, pero si existen unas tendencias demasiado
+      <p>No que todas las personas reaccionen de igual manera ante los estímulos de la publicidad, pero si existen unas tendencias demasiado
       marcadas en el comportamiento del ser humano y la forma como el cerebro percibe la información.</p>
     </div>
 </div>
 </div>
 </section>
-<section class="section secondary more-info" id="s-more-info" style="padding-top:0px;">
+<section class="section secondary more-info" id="s-more-info" style="padding-top:0px; padding-bottom:10px;">
 <div class="container">
 <div class="row">
     <div class="span-6 more-info-meta">
-        <p align="justify">Ahora, en el Marketing Digital existen diferentes espectos como anuncios, contenidos, imágenes, títulos, colores,
+        <p>Ahora, en el Marketing Digital existen diferentes espectos como anuncios, contenidos, imágenes, títulos, colores,
          entre otros, que son optimizables por medio de las técnicas de neuromarketing. <br/>Un ejemplo de ello es el <b>COPYWRITING</b>, que trata del uso
         de contenidos que despiertan emociones en el lector.<br/>Otro ejemplo práctico es la <a>publicidad diferenciada para hombres y mujeres</a>; y otro caso
        es el uso de la psicología del color en los anuncios, banners y demás material publicitario.</p>
-       <p align="justify">Así que <a>el neuromarketing es la evolución del marketing convencional</a> y lo estamos aplicando cada vez con más fuerza y con mejores resultados
+       <p>Así que <a>el neuromarketing es la evolución del marketing convencional</a> y lo estamos aplicando cada vez con más fuerza y con mejores resultados
         en todas nuestras campañas de Marketing Digital.<br/><br/></p>
 
     </div>
     <div class="span-6 info-video">
         <div class="auto-resizable-iframe">
             <div>
-              <img src="assets/images/responsive_websites.png" alt="Página web cargada en diferentes dispositivos" title="Diseño Web Optimizado">
+              <img src="assets/images/neuro-marketing.png" alt="Página web cargada en diferentes dispositivos" title="Diseño Web Optimizado">
             </div>
         </div>
     </div>

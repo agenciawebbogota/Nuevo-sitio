@@ -14,6 +14,14 @@
     <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
+    <style type="text/css">
+        .hero {
+            background-image: url("assets/images/posicionamiento.jpg");
+        }
+        .section.secondary {
+          background-color: #1795c5; padding-top: 40px;
+        }
+    </style>
     <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>
 </head>
@@ -86,26 +94,29 @@
     </div>
 </section>
         <!-- Main Content -->
+        <section class="section secondary more-info" id="s-more-info" style="padding-top:40px; padding-bottom:10px;">
+        <div class="container">
+        <div class="row">
+            <div class="span-6 more-info-meta">
+              <p>Alcanzar los primeros lugares en los principales motores de búsqueda <b>no tarea es fácil</b>. Una posición privilegiada en los gigantes de internet (Google, Bing, Yahoo)
+              no se logra de la noche a la mañana. Más aún si tenemos en cuenta los cientos de páginas web que ofrecen un servicio o producto con características
+              similares al nuestro.</p>
+              <p><a>En el mercado podemos encontrar muchos anuncios de agencias que nos prometen los primeros lugares en los buscadores en poco tiempo,
+                pero nada mas alejado de la realidad.</a></p>
+                <p>La verdad es que los trabajos de seo son <b>arduos y complejos</b>, que requieren conocimiento, constancia y paciencia. Dado que como todo en internet,
+                   las políticas de búsqueda son sometidas a cambios constantes, los nuevos algoritmos y los avances en tecnología hacen que se deban estar actualizando
+                    contínuamente nuestros sitios web para evitar quedar relegados en el competitivo mercado digital.</p>
 
-        <section class="section secondary skills inactive">
-                <div class="container">
-                <div class="row block-columns">
-                    <div class="span-6 skills-meta">
-                        <p>Alcanzar los primeros lugares en los principales motores de búsqueda <b>no tarea es fácil</b>. Una posición privilegiada en los gigantes de internet (Google, Bing, Yahoo)
-                        no se logra de la noche a la mañana. Más aún si tenemos en cuenta los cientos de páginas web que ofrecen un servicio o producto con características
-                        similares al nuestro.</p>
-                        <p><a>En el mercado podemos encontrar muchos anuncios de agencias que nos prometen los primeros lugares en los buscadores en poco tiempo,
-                          pero nada mas alejado de la realidad.</a></p>
-                          <p>La verdad es que los trabajos de seo son <b>arduos y complejos</b>, que requieren conocimiento, constancia y paciencia. Dado que como todo en internet,
-                             las políticas de búsqueda son sometidas a cambios constantes, los nuevos algoritmos y los avances en tecnología hacen que se deban estar actualizando
-                              contínuamente nuestros sitios web para evitar quedar relegados en el competitivo mercado digital.</p>
+            </div>
+            <div class="span-6 info-video">
+                <div class="auto-resizable-iframe">
+                    <div>
+                      <img src="assets/images/seo-posicionamiento.png" alt="Página web cargada en diferentes dispositivos" title="Diseño Web Optimizado">
                     </div>
-                    <div class="team-pic">
-                            <div class="mask"></div>
-                            <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
-                        </div>
                 </div>
             </div>
+        </div>
+        </div>
         </section>
 <section class="section secondary more-info" id="s-more-info">
 <div class="container">

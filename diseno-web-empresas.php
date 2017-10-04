@@ -19,7 +19,7 @@
             background-image: url("assets/images/diseno-empresas.jpg");
         }
         .section.secondary {
-          background-image: url("assets/images/diseño-empresas-background.jpg");
+          background-color: #1795c5;
         }
     </style>
     <!-- Modernizr -->
@@ -185,7 +185,7 @@
         </div>
     </div>
 </section>
-<section class="section primary latest-works" id="portfolio">
+<section class="section primary latest-works" id="portfolio" style="padding-top:30px;">
 <div class="container">
 <header class="sep active">
     <div class="section-title">
@@ -196,55 +196,43 @@
 <div class="portfolio-items">
     <div class="portfolio-item">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="https://viaggigroup.co/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Viaggi Group</a></h4>
+        <h4><a href="https://viaggigroup.co/" target="_blank">Viaggi Group</a></h4>
         <p>programas educativos en el exterior</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/viaggi-group-pagina-web.jpg" alt="Viaggi Group" title="Viaggi Group" />
     </div>
     <div class="portfolio-item">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="http://servinproh.com/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Servinproh</a></h4>
+        <h4><a href="http://servinproh.com/" target="_blank">Servinproh</a></h4>
         <p>Administración de propiedad horizontal</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/servinproh-pagina-web.jpg" alt="Servinproh" title="Servinproh" />
     </div>
     <div class="portfolio-item">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="http://quirozencuadernacion.com/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Quiroz Encuadernación</a></h4>
+        <h4><a href="http://quirozencuadernacion.com/" target="_blank">Quiroz Encuadernación</a></h4>
         <p>Empaste de libros contables</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/quiroz-ecuadernacion-pagina.jpg" alt="" />
     </div>
     <div class="portfolio-item max-bp2">
         <div class="controls">
-            <a href="single-project.html" class="icon-round-border">
+            <a href="http://www.medefiende.com/principal/" target="_blank" class="icon-round-border">
                 <i class="fa fa-link"></i>
             </a>
-            <a href="http://placehold.it/800x543" class="icon-round-border icon-view">
-                <i class="fa fa-search"></i>
-            </a>
         </div>
-        <h4><a href="single-project.html">Medefiende</a></h4>
+        <h4><a href="http://www.medefiende.com/principal/" target="_blank">Medefiende</a></h4>
         <p>Abogados especializados en defensa médica</p>
-        <img src="http://placehold.it/800x543" alt="" />
+        <img src="assets/images/medefiende-pagina-web.jpg" alt="" />
     </div>
 </div>
 </div>

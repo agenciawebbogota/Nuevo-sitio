@@ -12,10 +12,10 @@
         <meta name="description" content="Sitios Web Optimizados con Neuromarketing desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles | Contáctenos 316 878 56 01">
         <meta name="keywords" content="agencia web bogota, diseño web bogota, diseño de paginas web Bogota, páginas web corporativas,  diseño de paginas web, diseño paginas web economicas, diseño web optimizado, neuromarketing">
         <meta name="author" content="Agencia Web Bogotá">
-        <meta name="email" content="agenciawebbogota@gmail.com">    
+        <meta name="email" content="agenciawebbogota@gmail.com">
         <meta name="Rating" content="General">
         <meta name="msvalidate.01" content="607F58A810BE9AAB1051493A749C22E4" />
-        <meta name="Distribution" content="Local">        
+        <meta name="Distribution" content="Local">
         <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name " content="Agencia Web Bogotá" />
@@ -38,7 +38,7 @@
         <!-- Stylesheet -->
         <link rel="stylesheet" href="assets/styles/css/index.css">
         <link rel=”stylesheet” href="assets/icons/font-awesome/css/font-awesome.min.css">
-        <?php 
+        <?php
             require_once 'includes/analitics.php';
          ?>
          <!-- Facebook Pixel Code -->
@@ -63,7 +63,7 @@
         currency: 'USD'
         });
     </script>
-        
+
 
 <body class="index index-single parallax-title">
         <!-- SITE CONTENT -->
@@ -91,7 +91,7 @@
                                         <li>
                                             <a href="diseno-web-emprendedores.php">Diseño Web</a>
                                         </li>
-                                        <li> 
+                                        <li>
                                             <a href="#">Marketing Digital</a>
                                         </li>
                                     </ul>
@@ -102,25 +102,25 @@
                                         <li>
                                             <a href="#">Diseño Web</a>
                                         </li>
-                                        <li> 
+                                        <li>
                                             <a href="#">Marketing Digital</a>
                                         </li>
                                         <li>
                                             <a href="#">Aplicativos Web</a>
                                         </li>
-                                        <li> 
+                                        <li>
                                             <a href="google-apps.php">Google App</a>
                                         </li>
                                         <!-- Servicio futuro -->
                                         <!-- <li>
                                             <a href="#">Hosting</a>
                                         </li> -->
-                                        <li> 
+                                        <li>
                                             <a href="#">Posicionamiento</a>
                                         </li>
                                     </ul>
                                 </li>
-                                
+
                                 <li><a href="#">Cursos</a></li>
                                 <li><a href="blog.html">Blog</a></li>
                                 <li><a href="contact.html">Contacto</a></li>
@@ -148,7 +148,7 @@
                         </div>
                         <div class="meta">
                             <p class="blurb"><h1>Agencia Web y Marketing en Bogotá</h1><br /> Somos un nuevo concepto en Desarrollo de Proyectos Digitales<br />Aplicamos procesos y estrategias de Neuromarketing al Diseño Web, <br />Desarrollo de Apps y Marketing Digital.</p>
-                            <a href="https://agenciawebbogota.com/blog/neuromarketing-que-es-como-funciona/" target="_blank" class="button round brand-1">¿Que es el Neuromarketing?</a>                
+                            <a href="https://agenciawebbogota.com/blog/neuromarketing-que-es-como-funciona/" target="_blank" class="button round brand-1">¿Que es el Neuromarketing?</a>
                         </div>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                         </div>
                         <p align="justify">En <span itemprop="name"><a>Agencia Web Bogotá</a></span> creamos sitios web con estructura, usabilidad y funcionalidad optimizadas, más una apariencia sencilla y moderna.<span style="color:#f7f7f7">Diseño web bogota</span><br />
                         Para lograrlo trabajamos con <b>Temas y Plugins Premium de WordPress</b> sumado a conceptos de neuroventas que hacen que nuestros websites tengan resultados reales
-                        para nuestros clientes.<span style="color:#f7f7f7">agencia marketing bogota</span></p>             
+                        para nuestros clientes.<span style="color:#f7f7f7">agencia marketing bogota</span></p>
                         <ul class="bullet-list min-bp2">
                             <li>Tu marca será mas visible y tendrá mayor recordación</li>
                             <li>No debes invertir grandes sumas de dinero en publicidad</li>
@@ -186,7 +186,7 @@
                             <li>Con nosotros <a>puedes aparecer de primero en Google</a></li>
                         </ul>
                         <p class="button-set">
-                            <a href="#s-contacto" 
+                            <a href="#s-contacto"
                                 class="button round brand-1">Contáctanos</a>
                             <span class="text-div">-</span>
                             <a href="#s-nosotros">Conócenos</a>
@@ -210,7 +210,7 @@
                             <header>
                                 <i class="fa fa-magic fa-2x" style="color:#1795c5"></i>
                                 <div class="title">
-                                    <h4>Capacidad Creativa</h4>                            
+                                    <h4>Capacidad Creativa</h4>
                                 </div>
                             </header>
                             <p>Diseños personalizados, llamativos e innovadores de alto impacto publicitario</p>
@@ -221,7 +221,7 @@
                             <header>
                                 <i class="fa fa-wordpress fa-2x" style="color:#1795c5"></i>
                                 <div class="title">
-                                    <h4>Sitios Multiplataforma</h4>                            
+                                    <h4>Sitios Multiplataforma</h4>
                                 </div>
                             </header>
                             <p>Tu WebSite Administrable en WordPress, Joomla, HTML5, CSS3 y JavaScript</p>
@@ -232,18 +232,18 @@
                             <header>
                                 <i class="fa fa-money fa-2x" style="color:#1795c5"></i>
                                 <div class="title">
-                                    <h4>Precios Económicos</h4>                            
+                                    <h4>Precios Económicos</h4>
                                 </div>
                             </header>
                             <p>Diseño Web al alcance de tu presupuesto y con facilidades de pago</p>
                         </div>
-                    </div>            
+                    </div>
                     <div class="widget service">
                         <div class="widget-content">
                             <header>
                                 <i class="fa fa-globe fa-2x" style="color:#1795c5"></i>
                                 <div class="title">
-                                    <h4>Optimización SEO</h4>                            
+                                    <h4>Optimización SEO</h4>
                                 </div>
                             </header>
                             <p>Configuración de tu sitio web para posicionamiento en motores de búsqueda</p>
@@ -254,7 +254,7 @@
                             <header>
                                 <i class="fa fa-tablet fa-2x" style="color:#1795c5"></i>
                                 <div class="title">
-                                    <h4>Web Responsive</h4>                            
+                                    <h4>Web Responsive</h4>
                                 </div>
                             </header>
                             <p>Todos nuestros diseños se ajustan a cualquier tipo de dispositivo móvil</p>
@@ -265,7 +265,7 @@
                             <header>
                                 <i class="fa fa-bar-chart fa-2x" style="color:#1795c5"></i>
                                 <div class="title">
-                                    <h4>Analítica Web</h4>                            
+                                    <h4>Analítica Web</h4>
                                 </div>
                             </header>
                             <p>Estadísticas detalladas que reflejan el impacto y efectividad de tu sitio web</p>
@@ -289,7 +289,7 @@
                     <p><a>Optimizados con Neuromarketing</a>, Hosting, Dominio y Posicionamiento en buscadores</p>
                 </div>
                 <div class="meta">
-                    <a href="https://agenciawebbogota.com/anuncios/websites" class="button brand-1 round">¿Te Interesa esta oferta?</a>            
+                    <a href="https://agenciawebbogota.com/anuncios/websites" class="button brand-1 round">¿Te Interesa esta oferta?</a>
                 </div>
             </div>
         </section>
@@ -332,34 +332,34 @@
                         <div class="feature-block">
                             <i class="fa fa-mobile fa-5x" style="color:#fff"></i>
                             <h4>Desarrollo de Apps</h4>
-                            <h5>Aplicaciones móviles para iOS y Android</h5>                    
+                            <h5>Aplicaciones móviles para iOS y Android</h5>
                         </div>
                     </div>
                     <div class="span-3 feature-block-wrapper">
                         <div class="feature-block">
                             <i class="fa fa-code fa-5x" style="color:#fff"></i>
                             <h4>Programación Web</h4>
-                            <h5>Aplicativos PHP, JS, CSS, jQuery, Angular y mas</h5>                    
+                            <h5>Aplicativos PHP, JS, CSS, jQuery, Angular y mas</h5>
                         </div>
                     </div>
                     <div class="span-3 feature-block-wrapper">
                         <div class="feature-block">
                             <i class="fa fa-shopping-cart fa-5x" style="color:#fff"></i>
                             <h4>E-Commerce</h4>
-                            <h5>Tiendas en woocomerce y prestashop</h5>                    
+                            <h5>Tiendas en woocomerce y prestashop</h5>
                         </div>
                     </div>
                     <div class="span-3 feature-block-wrapper">
                         <div class="feature-block">
                             <i class="fa fa-comments fa-5x" style="color:#fff"></i>
                             <h4>Community Manager</h4>
-                            <h5>Gestión y Marketing en Redes Sociales</h5>                    
+                            <h5>Gestión y Marketing en Redes Sociales</h5>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        
+
         <section class="section secondary skills inactive">
                 <div class="container">
                 <div class="row block-columns">
@@ -368,102 +368,22 @@
                             <h3 style="line-height:110%">¿Por qué contratar con nosotros?</h3>
                             <h3 style="color: white;">Somos tu mejor opción</h3>
                         </div>
-                        <p class="mision" style="font-size:25px">Nuestra misión es ayudarte a cumplir<br /> tus <b>objetivos empresariales</b></p>             
+                        <p class="mision" style="font-size:25px">Nuestra misión es ayudarte a cumplir<br /> tus <b>objetivos empresariales</b></p>
                         <ul class="bullet-list min-bp2">
                             <li>Productos Digitales de Calidad</li>
                             <li>Estrategia, creatividad y tecnología</li>
                             <li>Experiencia y Profesionalismo</li>
                             <li>Precios económicos y facilidades de pago</li>
                             <li>Resultados reales que te garantizan mayor ROI</li>
-                            <li>Asesorías, consultorías y soporte técnico permanente</li> 
-                            <li>Planes espaciales para Pymes y Emprendedores</li> 
-                        </ul>                
+                            <li>Asesorías, consultorías y soporte técnico permanente</li>
+                            <li>Planes espaciales para Pymes y Emprendedores</li>
+                        </ul>
                     </div>
                     <div class="team-pic">
                             <div class="mask"></div>
                             <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
                         </div>
                 </div>
-            </div>
-        </section>
-        <section class="section primary pricing inactive" id="s-planes">
-            <div class="container">
-                <header class="sep active">
-                    <div class="section-title">
-                        <h2>Nuestras <i>Ofertas</i></h2>
-                        <h3>Diseño Web a tu medida</h3>
-                    </div>
-                    <p><a href="#s-contacto">Pregúntanos</a> por los paquetes de servicios adicionales con descuentos y facilidades de pago</p>
-                </header>
-                <div class="row price-charts">
-                    <div class="span-4 price-chart-container">                    
-                        <div class="price-chart">                    
-                            <div class="ribbon ribbon-large">
-                                <div class="banner">
-                                    <div class="text">Mejor Oferta</div>
-                                </div>
-                            </div>
-                            <h4>Sitio Básico</h4>
-                            <h5>Ideal para emprendedores</h5>
-                            <div class="price">
-                                <span>$79</span>.<small>000+IVA/mes</small>
-                            </div>
-                            <ul>
-                                <li><span><i class="fa fa-desktop"></i>Diseño Personalizado</span></li>
-                                <li><span><i class="fa fa-search"></i>Posicionamiento SEO</span></li>                        
-                                <li><span><i class="fa fa-mobile"></i>Versión para Móviles</span></li>                        
-                                <li><span><i class="fa fa-support"></i>Hosting y Dominio Incluido</span></li>
-                            </ul>
-                            <div class="buy-now">
-                                <a href="#s-contacto" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="span-4 price-chart-container">                    
-                        <div class="price-chart">            
-                            <h4>Sitio Corporativo</h4>
-                            <h5>La mejor opción</h5>
-                            <div class="price">
-                                <small>Desde </small><span>$650</span>.<small>000 +IVA</small>
-                            </div>
-                            <ul>
-                                <li><span><i class="fa fa-html5"></i>WordPress o HTML5</span></li>
-                                <li><span><i class="fa fa-envelope"></i>Correos Corporativos</span></li>
-                                <li><span><i class="fa fa-database"></i>Bases de datos</span></li>
-                                <li><span><i class="fa fa-code"></i>Contenido Administrable</span></li>               
-                            </ul>
-                            <div class="buy-now">
-                                <a href="#s-contacto" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="span-4 price-chart-container">
-                        <div class="price-chart">
-                            <h4>Tienda Online</h4>
-                            <h5>E-Commerce</h5>
-                            <div class="price">
-                                <small>Desde </small><span>$900</span>.<small>000 +IVA</small>
-                            </div>
-                            <ul>
-                                <li><span><i class="fa fa-wordpress"></i>Woocomerce o PrestaShop</span></li>                        
-                                <li><span><i class="fa fa-shopping-cart"></i>Carrito de Compra</span></li>
-                                <li><span><i class="fa fa-credit-card"></i>Pasarela de Pagos Online</span></li>
-                                <li><span><i class="fa fa-lock"></i>Seguridad SSL</span></li>
-                            </ul>
-                            <div class="buy-now">
-                                <a href="#s-contacto" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>         
-        <section class="section banner2 alt">
-            <div class="container">
-                <div class="content">
-                    <h4>Además <i>Agencia Web Bogotá</i> te cobrará la primer mensualidad cuando tu Sitio Web esté <b>100% Terminado y Online</b> no te exigimos <i>anticipos</i></h4>
-                    <p>Contáctanos para más información <a href="#s-contacto">sobre nuestros planes y servicios</a></p>
-                </div>        
             </div>
         </section>
         <section class="section primary team"  id="s-nosotros">
@@ -473,7 +393,7 @@
                         <h2>¿Quienes <i>Somos?</i></h2>
                         <h3>Nuestro equipo de trabajo</h3>
                     </div>
-                    <p>Agencia Web Bogotá es una empresa joven, en crecimiento, con amplias expectativas y con mucho camino por recorrer. Surge de la unión de experiencias, 
+                    <p>Agencia Web Bogotá es una empresa joven, en crecimiento, con amplias expectativas y con mucho camino por recorrer. Surge de la unión de experiencias,
                     conocimientos y recursos de un grupo de freelancers profesionales en el desarrollo web y marketing digital<span style="color:#f7f7f7">diseño web bogota</span></p>
                 </header>
                 <div class="row bp2 team-members">
@@ -495,7 +415,7 @@
                             </a>
                             <a href="#" class="icon-lrg tooltip" data-tip="LinkedIn">
                                 <i class="fa fa-linkedin"></i>
-                            </a>                    
+                            </a>
                         </div>
                     </div>
                     <div class="span-4 team-member">
@@ -515,19 +435,19 @@
                             </a>
                             <a href="#" class="icon-lrg tooltip" data-tip="LinkedIn">
                                 <i class="fa fa-linkedin"></i>
-                            </a>            
+                            </a>
                         </div>
                     </div>
                     <div class="span-4 team-member">
                         <div class="team-pic">
-                            <div class="mask">                        
+                            <div class="mask">
                             </div>
                             <img src="assets/images/foto_Pablo.jpg" alt="Desarrollador Web" title="Pablo Martinez" />
                         </div>
                         <h4>Pablo Martinez</h4>
                         <h5>Marketing Online</h5>
                         <p align="justify">Profesional en Neuromarketing y Desarrollo Web. Experto en diseño de sitios web en WordPress y en Marketing Digital, Social Media e Email Marketing</p>
-                        <div class="social-icons">                    
+                        <div class="social-icons">
                             <a href="https://www.facebook.com/profile.php?id=1293615229" target="_blank" class="icon-lrg tooltip" data-tip="Facebook">
                                 <i class="fa fa-facebook"></i>
                             </a>
@@ -543,7 +463,7 @@
             </div>
             <p style="color:#f7f7f7">Diseño web bogotá, agencia marketing bogotá, diseño páginas web bogotá</p>
         </section>
-        
+
         <section class="section secondary clients">
             <div class="container">
                 <div class="row">
@@ -553,18 +473,18 @@
                             <h5 style="color:white;">Continuan trabajando con nosotros</h5>
                         </div>
                     </div>
-                    <div class="span-8 client-logos">  
+                    <div class="span-8 client-logos">
                         <div class="owl-carousel clients-slider">
-                            <a href="http://medefiende.com/principal" target="_blank">                     
+                            <a href="http://medefiende.com/principal" target="_blank">
                                 <img src="assets/images/logo-medefiende.png" alt="Logo Medefiende" title="Medefiende Defensa Médica" />
-                            </a> 
-                            <a href="http://quirozencuadernacion.com/" target="_blank">                     
+                            </a>
+                            <a href="http://quirozencuadernacion.com/" target="_blank">
                                 <img src="assets/images/quiroz_encuadernacion.png" alt="Logo Quiroz Encuadernacion" title="Quiroz Encuadernacion" />
-                            </a> 
-                            <a href="http://servinproh.com/" target="_blank">                     
+                            </a>
+                            <a href="http://servinproh.com/" target="_blank">
                                 <img src="assets/images/servinproh.png" alt="Logo Servinproh" title="Servinproh SAS" />
-                            </a> 
-                            <a href="http://caribbeancollege.co/" target="_blank">                     
+                            </a>
+                            <a href="http://caribbeancollege.co/" target="_blank">
                                 <img src="assets/images/caribbean_college.png" alt="Logo Caribbean College" title="Caribbean College" />
                             </a>
                         </div>
@@ -575,26 +495,26 @@
         <section class="section secondary testimonials" style="background-image: url('assets/images/area_testimonios.png')">
             <div class="container">
                 <div class="testimonials-slider owl-carousel">
-                    <div class="testimonial">                
+                    <div class="testimonial">
                         <blockquote>
-                            <p style="font-size:18px !important"><i>Queremos felicitarlos por el excelente servicio prestado por AGENCIA WEB BOGOTÁ. Están atentos a todos los requerimientos y brindan soluciones de manera pronta y eficaz. 
+                            <p style="font-size:18px !important"><i>Queremos felicitarlos por el excelente servicio prestado por AGENCIA WEB BOGOTÁ. Están atentos a todos los requerimientos y brindan soluciones de manera pronta y eficaz.
                             En menos de un mes hemos obtenido resultados. Han  logrado interpretar a cabalidad nuestras solicitudes.</i></p>
                             <h5><cite>Felipe Vega - Medefiende</cite></h5>
                         </blockquote>
                     </div>
-                    <div class="testimonial">                
+                    <div class="testimonial">
                         <blockquote>
                             <p style="font-size:18px !important"><i>Gracias al trabajo de Agencia Web Bogotá vamos líderes en el mercado</i></p>
                             <h5><cite>William Quiroz - Quiroz Encuadernación</cite></h5>
                         </blockquote>
                     </div>
-                    <div class="testimonial">                
+                    <div class="testimonial">
                         <blockquote>
                             <p style="font-size:18px !important"><i>Me han prestado un excelente servicio, mi empresa tiene ahora una buena presencia en internet</i></p>
                             <h5><cite>Marta Villamil - Servinproh</cite></h5>
                         </blockquote>
                     </div>
-                    <div class="testimonial">                
+                    <div class="testimonial">
                         <blockquote>
                             <p style="font-size:18px !important"><i>Los diseños son muy profesionales, he estado encantado de contratar sus servicios</i></p>
                             <h5><cite>Francisco Ovalle - Caribbean College</cite></h5>
@@ -611,8 +531,8 @@
                 </div>
             </div>
         </section>
-        
-        
+
+
         <section class="section primary contact" id="s-contacto">
             <div class="container">
                 <p style="color:#f7f7f7">Diseño web bogotá, agencia marketing bogotá, diseño páginas web bogotá</p>
@@ -624,8 +544,8 @@
                         <p>Tenemos todo preparado para comenzar a trabajar en tu proyecto</p>
                     </header>
                 <form class="h5-valid" id="form-registro">
-        
-        
+
+
                     <div style="color:white;text-align: center;" id="resultado"></div>
                     <fieldset>
                         <div class="form-element">
@@ -651,11 +571,11 @@
                     <button type="submit" class="button large full-width brand-1">¡LISTO!</button>
                 </form>
             </div>
-        </section>        
+        </section>
 
         <!-- Footer -->
 
-        <?php 
+        <?php
             require_once 'includes/footer.php';
 
          ?>

@@ -16,8 +16,16 @@
     <link rel="icon" href="assets/images/favicon.png">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
-    <link rel="stylesheet" class="color-switcher" href="assets/styles/css/app.css">
-    
+    <style type="text/css">
+        .hero {
+            background-image: url("assets/images/diseno-empresas.jpg");
+        }
+        .section.secondary {
+          background-color: #1795c5;
+        }
+    </style>
+
+
     <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>
 </head>
@@ -48,7 +56,7 @@
                             <li>
                                 <a href="diseno-web-emprendedores.php">Diseño Web</a>
                             </li>
-                            <li> 
+                            <li>
                                 <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
@@ -65,13 +73,13 @@
                             <li>
                                 <a href="#">Aplicativos Web</a>
                             </li>
-                            <li> 
+                            <li>
                                 <a href="google-apps.php">Google App</a>
                             </li>
                             <li>
                                 <a href="#">Hosting</a>
                             </li>
-                            <li> 
+                            <li>
                                 <!-- <a href="posicionamiento-web.php">Posicionamiento</a> -->
                             </li>
                         </ul>
@@ -89,9 +97,9 @@
 <section class="hero sub-header">
     <div class="container inactive">
         <div class="sh-title-wrapper">
-            <h1>Contact Us</h1>
-            <p>Aenean lobortis ante nunc. Integer ac justo ex. Curabitur at enim ac nisi lacinia.</p>
-            <a class="button border round cta" href="#">Purchase Theme</a>
+            <h1>Contáctanos</h1>
+            <p>Tenemos todo preparado para comenzar a trabajar en tu proyecto</p>
+
         </div>
     </div>
 </section>
@@ -114,48 +122,45 @@
             <div class="span-4 widget">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="globe" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <i class="fa fa-map-marker fa-2x" style="color:#1795c5"></i>
                         <div class="title">
-                            <h4>Our Address</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Nuestras Oficinas</h4>
                         </div>
                     </header>
                     <p>
-                        440 Greene St<br />
-                        New York, NY 10000<br />
-                        Phone number (212) 111-0022<br />
+                        Calle 2 No. 91C-85<br />
+                      Bogotá, Distrito Especial, 110871<br />
+                        Colombia<br />
                     </p>
                 </div>
             </div>
             <div class="span-4 widget">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="phone" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                        <i class="fa fa-mobile fa-2x" style="color:#1795c5"></i>
                         <div class="title">
-                            <h4>Get in Touch</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Teléfonos de contacto</h4>
                         </div>
                     </header>
                     <ul>
-                        <li>Location: Manhattan, New York City</li>
-                        <li>Phone: (212) 123 4567</li>
-                        <li>Email: <a href="mailto:support@themeforest.net">support@themeforest.net</a></li>
+                        <li>Fijo: 789 20 93</li>
+                        <li>Celular: 316 878 56 01</li>
+                        <li>Celular: 320 867 39 01</li>
                     </ul>
                 </div>
             </div>
             <div class="span-4 widget">
                 <div class="widget-content">
                     <header>
-                        <i class="livicon" data-n="clock" data-op="1" data-c="#C1C1C1" data-s="48" data-hc="false"></i>
+                          <i class="fa fa-envelope fa-2x" style="color:#1795c5"></i>
                         <div class="title">
-                            <h4>Opening Hours</h4>
-                            <h5>Donec finibus fringilla purus</h5>
+                            <h4>Correos electrónicos</h4>                            
                         </div>
                     </header>
                     <ul>
-                        <li>Monday - Friday: 09:00 - 17:00</li>
-                        <li>Saturday-Sunday: 09:00 - 14:30</li>
-                        <li>Holidays: Closed</li>
+                        <li><a href="mailto:info@agenciawebbogota.com">info@agenciawebbogota.com</a></li>
+                        <li><a href="mailto:proyectos@agenciawebbogota.com">proyectos@agenciawebbogota.com</a></li>
+                        <li><a href="mailto:agenciawebbogota@gmail.com">agenciawebbogota@gmail.com</a></li>
                     </ul>
                 </div>
             </div>
