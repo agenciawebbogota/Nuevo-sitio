@@ -1,13 +1,35 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Diseño Web Emprendedores</title>
-    <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
-    <meta name="viewport" content="width=device-width, initial-scale=0.85">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Language" content="es">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="Robots" content="index, follow">
+  <title>Diseño Web Emprendedores | Agencia Web Bogotá</title>
+  <meta name="description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
+  <meta name="keywords" content="agencia web bogota, diseño web emprendedores, diseño web bogota, diseño de paginas web Bogota, páginas web corporativas,  diseño de paginas web, diseño paginas web economicas, diseño web optimizado, neuromarketing">
+  <meta name="author" content="Agencia Web Bogotá">
+  <meta name="email" content="agenciawebbogota@gmail.com">
+  <meta name="Rating" content="General">
+  <meta name="msvalidate.01" content="607F58A810BE9AAB1051493A749C22E4" />
+  <meta name="Distribution" content="Local">
+  <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name " content="Agencia Web Bogotá" />
+  <meta property="og:title" content="Diseño Web Emprendedores | Agencia Web Bogotá" />
+  <meta property="og:url" content="https://agenciawebbogota.com" />
+  <meta property="og:image" content="https://agenciawebbogota.com/anuncios/agencia_web_bogota.png" />
+  <meta property="og:description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@AgenciaBogota">
+  <meta name="twitter:creator" content="@AgenciaBogota">
+  <meta name="twitter:image" content="https://agenciawebbogota.com/anuncios/twitter-card.jpg">
+  <meta name="twitter:image:alt" content="Agencia Web Bogotá | Diseño Web Emprendedores">
+  <meta name="twitter:title" content="Diseño Web Emprendedores">
+  <meta name="twitter:description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
@@ -65,7 +87,7 @@
                                 <a href="marketing-digital-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Aplicativos Web</a>
+                                <a href="#">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -75,9 +97,9 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="index-single.html">Cursos</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html">Contacto</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="http://academiawebbogota.com/"'>Cursos</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="https://agenciawebbogota.com/blog/"'>Blog</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav>
         </div>
@@ -300,7 +322,7 @@
                       <li><span><i class="fa fa-support"></i> Hosting y Dominio Incluído</span></li>
                   </ul>
                   <div class="buy-now">
-                      <a href="#" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
+                      <a href="contacto.php" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
                   </div>
               </div>
           </div>
@@ -318,7 +340,7 @@
                         <li><span><i class="fa fa-code"></i> Contenido Administrable</span></li>
                     </ul>
                     <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
+                        <a href="contacto.php" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
                     </div>
                 </div>
             </div>
@@ -336,7 +358,7 @@
                         <li><span><i class="fa fa-lock"></i> Seguridad SSL</span></li>
                     </ul>
                     <div class="buy-now">
-                        <a href="#" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
+                        <a href="contacto.php" class="button brand-1 full-width">¡Contrátalo Ahora!</a>
                     </div>
                 </div>
             </div>
@@ -349,7 +371,7 @@
     <div class="container">
         <div class="content">
             <h4>Además <i>Agencia Web Bogotá</i> te cobrará la primer mensualidad cuando tu Sitio Web esté <b>100% Terminado y Online</b> no te exigimos <i>anticipos</i></h4>
-            <p>Contáctanos para más información <a href="#s-contacto">sobre nuestros planes y servicios</a></p>
+            <p>Contáctanos para más información <a href="contacto.php">sobre nuestros planes y servicios</a></p>
         </div>
     </div>
 </section>

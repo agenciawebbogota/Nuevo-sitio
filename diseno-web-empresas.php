@@ -65,7 +65,7 @@
                                 <a href="marketing-digital-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Aplicativos Web</a>
+                                <a href="#">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -75,9 +75,9 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="index-single.html">Cursos</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html">Contacto</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="http://academiawebbogota.com/"'>Cursos</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="https://agenciawebbogota.com/blog/"'>Blog</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav>
         </div>
@@ -129,7 +129,7 @@
             <li>Le entregamos su Sitio Web Posicionado en Google</li>
         </ul>
         <p class="button-set">
-            <a href="#s-contacto"
+            <a href="contacto.php"
                 class="button round brand-1">Solicite su cotización</a>
         </p>
     </div>
@@ -243,7 +243,7 @@
     <h4>Pregúntenos por los <b>beneficios adicionales</b> que le ofrecemos al contratar su <i>Sitio web</i> con nosotros</h4>
 </div>
 <div class="meta">
-    <a href="#" class="button brand-1 round">Solicitar Cotización</a>
+    <a href="contacto.php" class="button brand-1 round">Solicitar Cotización</a>
 </div>
 </div>
 </section>

@@ -65,7 +65,7 @@
                                 <a href="marketing-digital-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Aplicativos Web</a>
+                                <a href="#">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -75,9 +75,9 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="index-single.html">Cursos</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html">Contacto</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="http://academiawebbogota.com/"'>Cursos</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="https://agenciawebbogota.com/blog/"'>Blog</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav>
         </div>
@@ -208,7 +208,7 @@
 
 </div>
 <div class="meta">
-    <a href="#" class="button brand-1 round">Contáctenos ¡Ahora!</a>
+    <a href="contacto.php" class="button brand-1 round">Contáctenos ¡Ahora!</a>
 </div>
 </div>
 </section>

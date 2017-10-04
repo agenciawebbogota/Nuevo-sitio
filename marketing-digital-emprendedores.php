@@ -72,7 +72,7 @@
                                 <a href="marketing-digital-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="index-single.html">Aplicativos Web</a>
+                                <a href="#">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -82,9 +82,9 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="index-single.html">Cursos</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html">Contacto</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="http://academiawebbogota.com/"'>Cursos</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="https://agenciawebbogota.com/blog/"'>Blog</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav>
         </div>
@@ -227,7 +227,7 @@
     <div class="container">
         <div class="content">
             <h4>en <i>Agencia Web Bogotá</i> somos especialistas en<br/><b>Marketing Digital para Emprendedores</b></h4>
-            <p>Contáctanos para más información <a href="#s-contacto">sobre nuestros planes y servicios</a></p>
+            <p>Contáctanos para más información <a href="contacto.php">sobre nuestros planes y servicios</a></p>
         </div>
     </div>
 </section>

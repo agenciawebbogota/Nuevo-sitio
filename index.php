@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <!--<meta http-equiv="Content-Language" content="es">-->
+        <meta http-equiv="Content-Language" content="es">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
@@ -83,27 +83,27 @@
                         <!-- Main-Nav -->
                         <nav class="main-nav">
                             <ul>
-                                <li class="active"><a href="services.html">Inicio</a></li>
+                                <li class="active"><a href="index.php">Inicio</a></li>
                                 <!-- Dropdown Nav -->
                                 <li>
-                                    <a href="#">Emprendedores</a>
+                                    <a>Emprendedores</a>
                                     <ul>
                                         <li>
                                             <a href="diseno-web-emprendedores.php">Diseño Web</a>
                                         </li>
                                         <li>
-                                            <a href="#">Marketing Digital</a>
+                                            <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="#">Empresas</a>
+                                    <a>Empresas</a>
                                     <ul>
                                         <li>
-                                            <a href="#">Diseño Web</a>
+                                            <a href="diseno-web-empresas.php">Diseño Web</a>
                                         </li>
                                         <li>
-                                            <a href="#">Marketing Digital</a>
+                                            <a href="marketing-digital-empresas.php">Marketing Digital</a>
                                         </li>
                                         <li>
                                             <a href="#">Aplicativos Web</a>
@@ -116,14 +116,14 @@
                                             <a href="#">Hosting</a>
                                         </li> -->
                                         <li>
-                                            <a href="#">Posicionamiento</a>
+                                            <a href="posicionamiento-web.php">Posicionamiento</a>
                                         </li>
                                     </ul>
                                 </li>
 
-                                <li><a href="#">Cursos</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contacto</a></li>
+                                <li style="cursor:pointer;"><a onclick='location.href ="http://academiawebbogota.com/"'>Cursos</a></li>
+                                <li style="cursor:pointer;"><a onclick='location.href ="https://agenciawebbogota.com/blog/"'>Blog</a></li>
+                                <li><a href="contacto.php">Contacto</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -175,7 +175,7 @@
                         <div class="section-title">
                             <p><span>Lo principal es un buen diseño</span></p>
                         </div>
-                        <p align="justify">En <span itemprop="name"><a>Agencia Web Bogotá</a></span> creamos sitios web con estructura, usabilidad y funcionalidad optimizadas, más una apariencia sencilla y moderna.<span style="color:#f7f7f7">Diseño web bogota</span><br />
+                        <p>En <span itemprop="name"><a>Agencia Web Bogotá</a></span> creamos sitios web con estructura, usabilidad y funcionalidad optimizadas, más una apariencia sencilla y moderna.<span style="color:#f7f7f7">Diseño web bogota</span><br />
                         Para lograrlo trabajamos con <b>Temas y Plugins Premium de WordPress</b> sumado a conceptos de neuroventas que hacen que nuestros websites tengan resultados reales
                         para nuestros clientes.<span style="color:#f7f7f7">agencia marketing bogota</span></p>
                         <ul class="bullet-list min-bp2">
@@ -186,7 +186,7 @@
                             <li>Con nosotros <a>puedes aparecer de primero en Google</a></li>
                         </ul>
                         <p class="button-set">
-                            <a href="#s-contacto"
+                            <a href="contacto.php"
                                 class="button round brand-1">Contáctanos</a>
                             <span class="text-div">-</span>
                             <a href="#s-nosotros">Conócenos</a>
@@ -202,7 +202,10 @@
                     <div class="section-title">
                         <h2><i>WebSites</i> <strong>que Marcan la Diferencia</strong></h2>
                     </div>
-                    <p class="sub-text">No son solo las técnicas de <a href="https://agenciawebbogota.com/blog/neuromarketing-que-es-como-funciona/" target="_blank">Neuromarketing</a> lo que dan un valor agregado a nuestros diseños, sino otros aspectos que nos permiten construir mas que simples páginas de internet</p>
+                    <p class="sub-text">No son solo las técnicas de <a href="https://agenciawebbogota.com/blog/neuromarketing-que-es-como-funciona/" target="_blank">
+                      Neuromarketing</a> lo que dan un valor agregado a nuestros diseños, sino otros aspectos que nos permiten en <a>Agencia Web Bogotá</a> construir
+                       mas que simples páginas de Internet</p>
+                       <p style="color:#f7f7f7">Diseño web bogotá, agencia marketing bogotá, diseño páginas web bogotá</p>
                 </header>
                 <div class="owl-carousel services-slider">
                     <div class="widget service">
@@ -324,7 +327,7 @@
                         <h2>¿Que mas <i>podemos hacer por ti?</i></h2>
                         <h3>Tenemos lo que necesitas para impulsar tu marca</h3>
                     </div>
-                    <p>Te ofrecemos servicios web integrales con resultados reales que llevarán tu negocio a un nuevo nivel en Internet. Trabajamos con las mejores herramientas
+                    <p>En <a>Agencia Web Bogotá</a> te ofrecemos servicios web integrales con resultados reales que llevarán tu negocio a un nuevo nivel en Internet. Trabajamos con las mejores herramientas
                     premium, plataformas seguras, servidores eficientes, con dedicación y sentido de pertenencia hacia tu empresa </p>
                 </header>
                 <div class="row feature-blocks inactive">
@@ -365,8 +368,8 @@
                 <div class="row block-columns">
                     <div class="span-6 skills-meta">
                         <div class="section-title">
-                            <h3 style="line-height:110%">¿Por qué contratar con nosotros?</h3>
-                            <h3 style="color: white;">Somos tu mejor opción</h3>
+                            <h3 style="line-height:110%; font-weight:300">¿Por que contratar con Agencia Web Bogota?</h3>
+                            <h3 style="color: white; font-weight:300;">Somos tu mejor opción</h3>
                         </div>
                         <p class="mision" style="font-size:25px">Nuestra misión es ayudarte a cumplir<br /> tus <b>objetivos empresariales</b></p>
                         <ul class="bullet-list min-bp2">
@@ -393,7 +396,7 @@
                         <h2>¿Quienes <i>Somos?</i></h2>
                         <h3>Nuestro equipo de trabajo</h3>
                     </div>
-                    <p>Agencia Web Bogotá es una empresa joven, en crecimiento, con amplias expectativas y con mucho camino por recorrer. Surge de la unión de experiencias,
+                    <p><a>Agencia Web Bogotá</a> es una empresa joven, en crecimiento, con amplias expectativas y con mucho camino por recorrer. Surge de la unión de experiencias,
                     conocimientos y recursos de un grupo de freelancers profesionales en el desarrollo web y marketing digital<span style="color:#f7f7f7">diseño web bogota</span></p>
                 </header>
                 <div class="row bp2 team-members">
@@ -469,14 +472,17 @@
                 <div class="row">
                     <div class="span-4 title">
                         <div class="section-title title-group">
-                            <h3>Nuestros Clientes</h3>
-                            <h5 style="color:white;">Continuan trabajando con nosotros</h5>
+                            <h3 style="color:white;font-weight:300;">Nuestros Clientes</h3>
+                            <h5 style="color:white;font-weight:300;">Continuan trabajando con nosotros</h5>
                         </div>
                     </div>
                     <div class="span-8 client-logos">
                         <div class="owl-carousel clients-slider">
                             <a href="http://medefiende.com/principal" target="_blank">
                                 <img src="assets/images/logo-medefiende.png" alt="Logo Medefiende" title="Medefiende Defensa Médica" />
+                            </a>
+                            <a href="http://viaggigroup.co/" target="_blank">
+                                <img src="assets/images/logo-viaggi-group.png" alt="Logo Viaggi Group" title="Viaggi Group" />
                             </a>
                             <a href="http://quirozencuadernacion.com/" target="_blank">
                                 <img src="assets/images/quiroz_encuadernacion.png" alt="Logo Quiroz Encuadernacion" title="Quiroz Encuadernacion" />
@@ -497,7 +503,7 @@
                 <div class="testimonials-slider owl-carousel">
                     <div class="testimonial">
                         <blockquote>
-                            <p style="font-size:18px !important"><i>Queremos felicitarlos por el excelente servicio prestado por AGENCIA WEB BOGOTÁ. Están atentos a todos los requerimientos y brindan soluciones de manera pronta y eficaz.
+                            <p style="font-size:18px !important"><i>Queremos felicitarlos por el excelente servicio prestado por AGENCIA WEB BOGOTA. Están atentos a todos los requerimientos y brindan soluciones de manera pronta y eficaz.
                             En menos de un mes hemos obtenido resultados. Han  logrado interpretar a cabalidad nuestras solicitudes.</i></p>
                             <h5><cite>Felipe Vega - Medefiende</cite></h5>
                         </blockquote>
@@ -531,49 +537,6 @@
                 </div>
             </div>
         </section>
-
-
-        <section class="section primary contact" id="s-contacto">
-            <div class="container">
-                <p style="color:#f7f7f7">Diseño web bogotá, agencia marketing bogotá, diseño páginas web bogotá</p>
-                            <header class="sep active">
-                        <div class="section-title">
-                            <h2>Estamos <i>Listos</i></h2>
-                            <h3>Contactanos Ahora Mismo</h3>
-                        </div>
-                        <p>Tenemos todo preparado para comenzar a trabajar en tu proyecto</p>
-                    </header>
-                <form class="h5-valid" id="form-registro">
-
-
-                    <div style="color:white;text-align: center;" id="resultado"></div>
-                    <fieldset>
-                        <div class="form-element">
-                            <input type="text" class="box" required name="nombre">
-                            <label>Tu Nombre</label>
-                        </div>
-                        <div class="form-element">
-                            <input type="text" class="box" name="apellido">
-                            <label>Tu Apellido</label>
-                        </div>
-                        <div class="form-element">
-                            <input type="tel" class="box" name="telefono">
-                            <label>Teléfono de Contacto</label>
-                        </div>
-                        <div class="form-element">
-                            <input type="email" class="box" required name="correo">
-                            <label>Correo Electrónico</label>
-                        </div>
-                    </fieldset>
-                    <div class="form-element">
-                        <textarea class="box" placeholder="Déjanos tu mensaje" required name="mensaje"></textarea>
-                    </div>
-                    <button type="submit" class="button large full-width brand-1">¡LISTO!</button>
-                </form>
-            </div>
-        </section>
-
-        <!-- Footer -->
 
         <?php
             require_once 'includes/footer.php';

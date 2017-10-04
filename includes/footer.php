@@ -14,15 +14,15 @@
                  <a class="email" href="mailto:info@agenciawebbogota.com"><span itemprop="email">info@agenciawebbogota.com</span></a>
                  <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="adr">
                   <div itemprop="streetAddress" class="street-address">Calle 2 # 91C-85</div>
-                  <span itemprop="addressLocality"><span class="locality">Bogotá</span>, 
-                  <span class="region">Distrito Especial</span>, 
+                  <span itemprop="addressLocality"><span class="locality">Bogotá</span>,
+                  <span class="region">Distrito Especial</span>,
                   <span itemprop="postalCode" class="postal-code">110871</span>
                   <span itemprop="addressCountry" class="country-name">Colombia</span>
                  </div>
                  <div class="tel">Telefonos:<span itemprop="telephone"><a> 3168785601</a> <a> 3208673901</a></span></div>
                 </div>
                 <br />
-                <div class="social-icons">                    
+                <div class="social-icons">
                     <a href="https://www.facebook.com/agenciawebbogota" target="_blank" class="icon tooltip" data-tip="Facebook">
                         <i class="fa fa-facebook"></i>
                     </a>
@@ -35,7 +35,7 @@
                     <a href="#" class="icon tooltip" data-tip="Google+">
                         <i class="fa fa-google"></i>
                     </a>
-                    
+
                 </div>
             </div>
             <div class="span-3 footer-col">
@@ -52,7 +52,7 @@
                         </button>
                     </div>
                 </form>
-                
+
             </div>
             <div class="span-3 footer-col">
                 <h3><i class="fa fa-twitter"></i> Twitter Feed</h3>
@@ -86,17 +86,17 @@
                             <p>¿Como alcanzar a más personas con tu página de Facebook?</p>
                         </div>
                     </div>
-                </div>                        
+                </div>
             </div>
             <div class="span-3 footer-col">
                 <h3>Visita Nuestro Blog</h3>
                 <h4>Escribimos para tu empresa</h4>
                 <div class="owl-carousel footer-testimonials">
                     <div class="testimonial">
-                        
+
                         <div class="cf">
                             <span class="profile">
-                                <a class="modal-image thumb"> 
+                                <a class="modal-image thumb">
                                     <img src="assets/images/errores-marketing.jpg" alt="errores al contratar marketing digital" />
                                 </a>
                             </span>
@@ -107,10 +107,10 @@
                         </div>
                     </div>
                     <div class="testimonial">
-                        
+
                         <div class="cf">
                             <span class="profile">
-                                <a class="modal-image thumb"> 
+                                <a class="modal-image thumb">
                                     <img src="assets/images/local.jpg" alt="Posicionamiento de negocio local" />
                                 </a>
                             </span>
@@ -121,10 +121,10 @@
                         </div>
                     </div>
                     <div class="testimonial">
-                        
+
                         <div class="cf">
                             <span class="profile">
-                                <a class="modal-image thumb"> 
+                                <a class="modal-image thumb">
                                     <img src="assets/images/neuro.jpg" alt="Neuromarketing" tiitle="¿Qué es Neuromarketing?" />
                                 </a>
                             </span>
@@ -135,10 +135,10 @@
                         </div>
                     </div>
                     <div class="testimonial">
-                        
+
                         <div class="cf">
                             <span class="profile">
-                                <a class="modal-image thumb"> 
+                                <a class="modal-image thumb">
                                     <img src="assets/images/sobrecarga.jpg" alt="Sobrecarga de información" tiitle="¿Cómo superar la sobrecarga de información?" />
                                 </a>
                             </span>
@@ -160,7 +160,7 @@
                     <a href="politicas-de-privacidad.html" target="_blank">Politicas de Privacidad</a>
                 </div>
                 <!-- Footer Navigation -->
-                <nav class="footer-nav">                
+                <nav class="footer-nav">
                     <ul>
                         <li>
                             <a href="#s-nosotros">
@@ -183,7 +183,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#s-contacto">
+                            <a href="contacto.php">
                                 Contacto
                             </a>
                         </li>
@@ -250,7 +250,7 @@
 
 <!--Plugins -->
 <script src="assets/js/owl-carousel.min.js"></script>
-<script src="assets/js/magnific-popup.min.js"></script>    
+<script src="assets/js/magnific-popup.min.js"></script>
 <script src="assets/js/app.js"></script>
 <script type="text/javascript" src="assets/js/form-registro.js"></script>
 <script src="assets/js/homepage.js"></script>

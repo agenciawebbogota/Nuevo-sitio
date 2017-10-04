@@ -18,10 +18,7 @@
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
-            background-image: url("assets/images/diseno-empresas.jpg");
-        }
-        .section.secondary {
-          background-color: #1795c5;
+            background-image: url("assets/images/contacto.jpg");
         }
     </style>
 
@@ -77,16 +74,13 @@
                                 <a href="google-apps.php">Google App</a>
                             </li>
                             <li>
-                                <a href="#">Hosting</a>
-                            </li>
-                            <li>
                                 <!-- <a href="posicionamiento-web.php">Posicionamiento</a> -->
                             </li>
                         </ul>
                     </li>
-                    <li><a href="#">Cursos</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li  class="active"><a href="contact.html">Contacto</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="http://academiawebbogota.com/"'>Cursos</a></li>
+                    <li style="cursor:pointer;"><a onclick='location.href ="https://agenciawebbogota.com/blog/"'>Blog</a></li>
+                    <li  class="active"><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav>
         </div>
@@ -108,9 +102,8 @@
         <nav class="breadcrumb">
     <div class="container">
         <ul>
-            <li class="home"><a href="index.html"><i class="fa fa-home"></i></a></li>
-            <li><a href="index.html">Nexus</a></li>
-                        <li class="current"><a href="contact.html">Contact Us</a></li>
+            <li class="home"><a href="index.php"><i class="fa fa-home"></i></a></li>
+            <li><a href="index.php">Inicio</a></li>                        
         </ul>
     </div>
 </nav>
@@ -154,7 +147,7 @@
                     <header>
                           <i class="fa fa-envelope fa-2x" style="color:#1795c5"></i>
                         <div class="title">
-                            <h4>Correos electrónicos</h4>                            
+                            <h4>Correos electrónicos</h4>
                         </div>
                     </header>
                     <ul>
@@ -166,29 +159,32 @@
             </div>
         </div>
         <hr class="stripes" />
-                <form class="h5-valid">
+        <form class="h5-valid" id="form-registro">
+
+
+            <div style="color:white;text-align: center;" id="resultado"></div>
             <fieldset>
                 <div class="form-element">
-                    <input type="text" class="box" required>
-                    <label>Nombres</label>
+                    <input type="text" class="box" required name="nombre">
+                    <label>Tu Nombre</label>
                 </div>
                 <div class="form-element">
-                    <input type="text" class="box">
-                    <label>Apellidos</label>
+                    <input type="text" class="box" name="apellido">
+                    <label>Tu Apellido</label>
                 </div>
                 <div class="form-element">
-                    <input type="tel" class="box">
-                    <label>Teléfono</label>
+                    <input type="tel" class="box" name="telefono">
+                    <label>Teléfono de Contacto</label>
                 </div>
                 <div class="form-element">
-                    <input type="email" class="box" required>
-                    <label>Correo</label>
+                    <input type="email" class="box" required name="correo">
+                    <label>Correo Electrónico</label>
                 </div>
             </fieldset>
             <div class="form-element">
-                <textarea class="box" placeholder="Mensaje" required></textarea>
+                <textarea class="box" placeholder="Déjanos tu mensaje" required name="mensaje"></textarea>
             </div>
-            <button type="submit" class="button large full-width brand-1">Enviar Mensaje</button>
+            <button type="submit" class="button large full-width brand-1">¡LISTO!</button>
         </form>
     </div>
 </section>
