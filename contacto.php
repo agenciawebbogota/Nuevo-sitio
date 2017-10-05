@@ -160,7 +160,7 @@
         </div>
         <hr class="stripes" />
         <form class="h5-valid" id="form-contacto">
-            <div style="color:red;text-align:center;" id="resultado"><p></p></div>
+            <div style="color:#42A5F5;text-align:center;" id="resultado"><p></p></div>
             <fieldset>
                 <div class="form-element">
                     <input type="text" class="box" required name="nombre" id="nombre">

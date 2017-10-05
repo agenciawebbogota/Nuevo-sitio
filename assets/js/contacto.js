@@ -1,31 +1,15 @@
 $(document).ready(function() {
-
-
-	
-
-
-
-
-
 	$('#form-contacto').submit(function(event){
-
-
 		event.preventDefault();
-
-
 		var nombre = $('#nombre').val();
-		var apellidos = $('#apellidos').val();
+		var apellido = $('#apellido').val();
 		var telefono = $('#telefono').val();
 		var correo = $('#correo').val();
 		var mensaje = $('#mensaje').val();
 		var resultado = $('#resultado p');
-
-		// alert(nombre)
-
-
 		if (nombre==='') {
 			
-		}else if (apellidos=="") {
+		}else if (apellido=="") {
 
 		}else if (telefono=="") {
 
@@ -36,7 +20,7 @@ $(document).ready(function() {
 			console.log("vamos acá al final.");
 			var datos = {
 				nombre:nombre,
-				apellido:apellidos,
+				apellido:apellido,
 				telefono:telefono,
 				correo:correo,
 				mensaje:mensaje
@@ -48,11 +32,14 @@ $(document).ready(function() {
 				dataType: 'json',
 				data: datos,
 			})
-			.done(function() {
-				console.log("success");
+			.done(function(resp) {
+				console.log(resp);
+				if (resp) {
+					$('#resultado').text('Tus datos se han enviado, pronto estaremos atendiendo tu solicitud.');
+				}
 			})
-			.fail(function() {
-				console.log("error");
+			.fail(function(data) {
+				console.log(data);
 			})
 			.always(function() {
 				console.log("complete");

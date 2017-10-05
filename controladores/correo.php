@@ -68,10 +68,13 @@
 
 		///Validar encío de correo electrónico
 		if(!$envio) {
-		    return false;
+
+			$resp = json_encode(array('resp' => false));
+		    return $resp;
 		    echo 'Error: ' . $mail->ErrorInfo;
 		} else {
-		    return true;
+		    $resp = json_encode(array('resp' => true));
+		    return $resp;
 		}
 	}
  ?>
