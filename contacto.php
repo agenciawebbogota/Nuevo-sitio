@@ -159,25 +159,23 @@
             </div>
         </div>
         <hr class="stripes" />
-        <form class="h5-valid" id="form-registro">
-
-
-            <div style="color:white;text-align: center;" id="resultado"></div>
+        <form class="h5-valid" id="form-contacto">
+            <div style="color:red;text-align:center;" id="resultado"><p></p></div>
             <fieldset>
                 <div class="form-element">
-                    <input type="text" class="box" required name="nombre">
+                    <input type="text" class="box" required name="nombre" id="nombre">
                     <label>Tu Nombre</label>
                 </div>
                 <div class="form-element">
-                    <input type="text" class="box" name="apellido">
+                    <input type="text" class="box" name="apellido" id="apellido">
                     <label>Tu Apellido</label>
                 </div>
                 <div class="form-element">
-                    <input type="tel" class="box" name="telefono">
+                    <input type="tel" class="box" name="telefono" id="telefono">
                     <label>Teléfono de Contacto</label>
                 </div>
                 <div class="form-element">
-                    <input type="email" class="box" required name="correo">
+                    <input type="email" class="box" required name="correo" id="correo">
                     <label>Correo Electrónico</label>
                 </div>
             </fieldset>
@@ -192,3 +190,4 @@
 <?php
     require_once 'includes/footer.php';
  ?>
+ <script type="text/javascript" src="assets/js/contacto.js"></script>

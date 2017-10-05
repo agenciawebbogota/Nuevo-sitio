@@ -93,7 +93,7 @@
                     </li>
                     <li><a href="#">Cursos</a></li>
                     <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.php">Contacto</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav>
         </div>
