@@ -180,7 +180,7 @@
                 </div>
             </fieldset>
             <div class="form-element">
-                <textarea class="box" placeholder="Déjanos tu mensaje" required name="mensaje"></textarea>
+                <textarea class="box" placeholder="Déjanos tu mensaje" required name="mensaje" id="mensaje"></textarea>
             </div>
             <button type="submit" class="button large full-width brand-1">¡LISTO!</button>
         </form>
