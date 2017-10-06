@@ -190,4 +190,5 @@
 <?php
     require_once 'includes/footer.php';
  ?>
+
  <script type="text/javascript" src="assets/js/contacto.js"></script>
