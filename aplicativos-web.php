@@ -199,7 +199,7 @@
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-desktop fa-2x" style="color:#fff"></i>
+            <i class="fa fa-handshake-o" aria-hidden="true"></i>
             <h4>Soporte</h4>
             <h5>Estamos para ayudarte ¡¡</h5>
             <p>Desarrollamos tu aplicativo te brindamos el mas amplio soporte para su uso.</p>
@@ -210,8 +210,7 @@
             <i class="fa fa-line-chart fa-2x" style="color:#fff"></i>
             <h4>Código fuente</h4>
             <h5>Nuestra especialidad</h5>
-            <p>Aplicamos conceptos de neuromarketing en todas nuestras estrategias de marketing digital. Esto nos permite garantizarte resultados
-            reales en poco tiempo y sin invertir grandes sumas de dinero</p>
+            <p>Si gustas te podemos proporcionar todo el código fuente escrito por nuestros desarrolladores de tu proyecto.</p>
         </div>
     </div>
 </div>
