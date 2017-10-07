@@ -8,28 +8,28 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="Robots" content="index, follow">
-  <title>Diseño Web Emprendedores | Agencia Web Bogotá</title>
-  <meta name="description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
-  <meta name="keywords" content="agencia web bogota, diseño web emprendedores, diseño web bogota, diseño de paginas web Bogota, páginas web corporativas,  diseño de paginas web, diseño paginas web economicas, diseño web optimizado, neuromarketing">
+  <title>Diseño Web para Emprendedores en Bogotá | Tu web por solo $79.000</title>
+  <meta name="description" content="Diseño Web para Emprendedores en Bogotá por solo $79.000 + IVA/mes. Con Hosting, Dominio, Posicionamiento SEO y Versión Móviles. Llámanos 316 878 56 01">
+  <meta name="keywords" content="diseño web para emprendedores, agencia web bogota, emprendedores bogota, diseño de paginas web Bogota,">
   <meta name="author" content="Agencia Web Bogotá">
   <meta name="email" content="agenciawebbogota@gmail.com">
   <meta name="Rating" content="General">
   <meta name="msvalidate.01" content="607F58A810BE9AAB1051493A749C22E4" />
   <meta name="Distribution" content="Local">
-  <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/" />
+  <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/diseno-web-para-emprendedores.php" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name " content="Agencia Web Bogotá" />
-  <meta property="og:title" content="Diseño Web Emprendedores | Agencia Web Bogotá" />
-  <meta property="og:url" content="https://agenciawebbogota.com" />
-  <meta property="og:image" content="https://agenciawebbogota.com/anuncios/agencia_web_bogota.png" />
-  <meta property="og:description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles" />
+  <meta property="og:title" content="Diseño Web para Emprendedores en Bogotá | Tu web por solo $79.000" />
+  <meta property="og:url" content="https://agenciawebbogota.com/diseno-web-para-emprendedores.php" />
+  <meta property="og:image" content="https://www.agenciawebbogota.com/social/diseno-web-emprendedores.jpg" />
+  <meta property="og:description" content="Diseño Web para Emprendedores en Bogotá por solo $79.000 + IVA/mes. Con Hosting, Dominio, Posicionamiento SEO y Versión Móviles" />
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@AgenciaBogota">
   <meta name="twitter:creator" content="@AgenciaBogota">
-  <meta name="twitter:image" content="https://agenciawebbogota.com/anuncios/twitter-card.jpg">
-  <meta name="twitter:image:alt" content="Agencia Web Bogotá | Diseño Web Emprendedores">
-  <meta name="twitter:title" content="Diseño Web Emprendedores">
-  <meta name="twitter:description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
+  <meta name="twitter:image" content="https://www.agenciawebbogota.com/social/diseno-web-emprendedores-twitter-card.jpg">
+  <meta name="twitter:image:alt" content="Agencia Web Bogotá | Diseño Web para Emprendedores">
+  <meta name="twitter:title" content="Diseño Web para Emprendedores">
+  <meta name="twitter:description" content="Diseño Web para Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
@@ -70,10 +70,10 @@
                         <a>Emprendedores</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-emprendedores.php">Diseño Web</a>
+                                <a href="diseno-web-para-emprendedores.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
@@ -81,13 +81,13 @@
                         <a>Empresas</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-empresas.php">Diseño Web</a>
+                                <a href="diseno-web-para-empresas.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="#">Aplicativos Web</a>
+                                <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -135,12 +135,13 @@
             </div>
             <p class="sub-text">En Agencia Web Bogotá conocemos y entendemos las necesidades de los emprendedores. Por eso hemos ideado
             un paquete de diseño que va más allá de la simple construcción de una página web.</p>
+            <h2 style="color:#f7f7f7;font-size:5px;">Diseño web para emprendedores bogota</h2>
         </header>
         <div class="row inactive">
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/web-design.png" alt="">
+                        <img src="assets/images/web-design.png" alt="monitor de diferentes colores - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Diseño Profesional</h4>
                             <h5>Optimizado con Neuromarketing</h5>
@@ -153,7 +154,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/multiplataforma.png" alt="">
+                        <img src="assets/images/multiplataforma.png" alt="simbolos de lenguajes de programacion - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Sitios Multiplataforma</h4>
                             <h5>No todos son iguales</h5>
@@ -166,7 +167,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/imagenes-diseño-web.png" alt="">
+                        <img src="assets/images/imagenes-diseño-web.png" alt="esquema de construccion de sitio web - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Imágenes Unicas</h4>
                             <h5>Solo las verás en tu página</h5>
@@ -181,7 +182,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/seo.png" alt="">
+                        <img src="assets/images/seo.png" alt="Lupa con la palabra seo de fondo - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Optimización SEO</h4>
                             <h5>Posicionamiento en buscadores</h5>
@@ -194,7 +195,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/hosting.png" alt="">
+                        <img src="assets/images/hosting.png" alt="imagen de un servidor - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Hosting y Dominio</h4>
                             <h5>Alojamiento web</h5>
@@ -207,7 +208,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/moviles.png" alt="">
+                        <img src="assets/images/moviles.png" alt="Varios iconos saliendo de la pantalla de un movil - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Versión Móviles</h4>
                             <h5>Diseño Web Responsive</h5>
@@ -238,7 +239,7 @@
         </div>
         <h4><a href="https://viaggigroup.co/" target="_blank">Viaggi Group</a></h4>
         <p>programas educativos en el exterior</p>
-        <img src="assets/images/viaggi-group-pagina-web.jpg" alt="Viaggi Group" title="Viaggi Group" />
+        <img src="assets/images/viaggi-group-pagina-web.jpg" alt="Muestra de página web de Viaggi Group - diseño web para emprendedores bogota"/>
     </div>
     <div class="portfolio-item">
         <div class="controls">
@@ -248,7 +249,7 @@
         </div>
         <h4><a href="http://servinproh.com/" target="_blank">Servinproh</a></h4>
         <p>Administración de propiedad horizontal</p>
-        <img src="assets/images/servinproh-pagina-web.jpg" alt="Servinproh" title="Servinproh" />
+        <img src="assets/images/servinproh-pagina-web.jpg" alt="Muestra de página web de Servinproh - diseño web para emprendedores bogota"/>
     </div>
     <div class="portfolio-item">
         <div class="controls">
@@ -258,7 +259,7 @@
         </div>
         <h4><a href="http://quirozencuadernacion.com/" target="_blank">Quiroz Encuadernación</a></h4>
         <p>Empaste de libros contables</p>
-        <img src="assets/images/quiroz-ecuadernacion-pagina.jpg" alt="" />
+        <img src="assets/images/quiroz-ecuadernacion-pagina.jpg" alt="Muestra de página web de Quiroz encuadernación - diseño web para emprendedores bogota" />
     </div>
     <div class="portfolio-item max-bp2">
         <div class="controls">
@@ -268,8 +269,9 @@
         </div>
         <h4><a href="http://www.medefiende.com/principal/" target="_blank">Medefiende</a></h4>
         <p>Abogados especializados en defensa médica</p>
-        <img src="assets/images/medefiende-pagina-web.jpg" alt="" />
+        <img src="assets/images/medefiende-pagina-web.jpg" alt="Muestra de página web de Medefiende - diseño web para emprendedores bogota" />
     </div>
+    <p style="color:#f7f7f7;font-size:5px;">Diseño web para emprendedores bogota</p>
 </div>
 </div>
 </section>
@@ -287,13 +289,11 @@
             especializado en pymes.</p>
             <p class="mision" style="font-size:20px;text-align:center">¡Deja tu proyecto en las mejores manos!</p>
             </div>
-            <!-- <div class="team-pic">
-                    <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
-                </div> -->
         </div>
     </div>
 </section>
 <section class="section primary pricing inactive" id="s-pricing">
+  <p style="color:#f7f7f7;font-size:5px;">Diseño web para emprendedores bogota</p>
     <div class="container">
         <header class="sep active">
             <div class="section-title">
@@ -363,6 +363,7 @@
                 </div>
             </div>
         </div>
+        <p style="color:#f7f7f7;font-size:5px;">Diseño web para emprendedores bogota</p>
     </div>
 </section>
 

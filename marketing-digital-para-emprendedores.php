@@ -1,13 +1,35 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Marketing Digital Emprendedores</title>
-    <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
-    <meta name="viewport" content="width=device-width, initial-scale=0.85">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Language" content="es">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="Robots" content="index, follow">
+  <title>Marketing Digital para Emprendedores en Bogotá | Agencia Web Bogotá</title>
+  <meta name="description" content="Obtén la máxima exposición para tus productos o servicios a través de los beneficios de nuestras estrategias de Marketing Digital para Emprendedores">
+  <meta name="keywords" content="marketing digital para emprendedores, agencia web bogota, emprendedores bogota, marketing digital Bogota,">
+  <meta name="author" content="Agencia Web Bogotá">
+  <meta name="email" content="agenciawebbogota@gmail.com">
+  <meta name="Rating" content="General">
+  <meta name="msvalidate.01" content="607F58A810BE9AAB1051493A749C22E4" />
+  <meta name="Distribution" content="Local">
+  <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/marketing-digital-para-emprendedores.php" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name " content="Agencia Web Bogotá" />
+  <meta property="og:title" content="Marketing Digital para Emprendedores en Bogotá | Agencia Web Bogotá" />
+  <meta property="og:url" content="https://agenciawebbogota.com/marketing-digital-para-emprendedores.php" />
+  <meta property="og:image" content="https://www.agenciawebbogota.com/social/marketing-digital-para-emprendores.jpg" />
+  <meta property="og:description" content="Obtén la máxima exposición para tus productos o servicios a través de los beneficios del  Marketing Digital para Emprendedores" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@AgenciaBogota">
+  <meta name="twitter:creator" content="@AgenciaBogota">
+  <meta name="twitter:image" content="https://www.agenciawebbogota.com/social/marketing-digital-para-emprendedores-twitter-card.jpg">
+  <meta name="twitter:image:alt" content="Computador portail mostrando estadísticas de marketing | Marketing Digital para Emprendedores">
+  <meta name="twitter:title" content="Marketing Digital para Emprendedores en Bogotá | Agencia Web Bogotá">
+  <meta name="twitter:description" content="Obtén la máxima exposición para tus productos o servicios a través de los beneficios del  Marketing Digital para Emprendedores">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
@@ -55,10 +77,10 @@
                         <a>Emprendedores</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-emprendedores.php">Diseño Web</a>
+                                <a href="diseno-web-para-emprendedores.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
@@ -66,13 +88,13 @@
                         <a>Empresas</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-empresas.php">Diseño Web</a>
+                                <a href="diseno-web-para-empresas.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="#">Aplicativos Web</a>
+                                <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -119,16 +141,17 @@
             <p>Tú puedes tener el mejor producto del mundo, <a>pero si no lo publicitas en Internet, nadie será capaz de encontrarlo</a>. Es así de sencillo.
               El Marketing Digital sirve dos propósitos. Primero, le dice al mundo que <b>TIENES</b> un producto y de qué se trata, y luego le dice al mundo cómo
               <b>ENCONTRARTE</b> a ti, a tu página web y a tu producto o servicio.</p>
+              <h2 style="color:#f7f7f7;font-size:5px">Marketing digital para emprendedores</h2>
               <div class="section-title">
                   <h2>¿Por qué <i>Agencia Web Bogotá?</i></h2>
               </div>
         </header>
         <div class="wcu-content">
             <div class="wcu-graphic">
-                <img src="assets/images/elementos-de-marketing-digital.png" alt="" />
+                <img src="assets/images/elementos-de-marketing-digital.png" alt="tableta con estadísticas encima de unos documentos - Marketing digital para emprendedores" />
             </div>
             <div class="wcu-graphic-mobile">
-                <img src="assets/images/elementos-seo.png" alt="" />
+                <img src="assets/images/elementos-seo.png" alt="Lupa sobre monitor con la palabra seo - Marketing digital para emprendedores" />
             </div>
             <div class="wcu-features">
                 <div class="widget wcu-feature wcu-left">
@@ -167,6 +190,7 @@
                         <p>Contamos con todas las herramientas para aplicar en tu negocio estrategias de marketing altamente efectivas</p>
                     </div>
                 </div>
+                <p style="color:#f7f7f7;font-size:5px">Marketing digital para emprendedores</p>
             </div>
         </div>
     </div>
@@ -220,6 +244,7 @@
         </div>
     </div>
 </div>
+<p style="color:#f7f7f7;font-size:5px">Marketing digital para emprendedores</p>
 </div>
 </section>
 

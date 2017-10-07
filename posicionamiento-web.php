@@ -1,13 +1,35 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>SEO Posicionamiento Web</title>
-    <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
-    <meta name="viewport" content="width=device-width, initial-scale=0.85">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Language" content="es">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="Robots" content="index, follow">
+  <title>Posicionamiento Web | Su página web en la primera página de Google</title>
+  <meta name="description" content="Conocemos y dominamos los métodos más eficaces de Posicionamiento Web para ubicar su sitio en la primera página de búsquedas de Google">
+  <meta name="keywords" content="posicionamiento web, posicionamiento seo, posicionamiento, agencia seo">
+  <meta name="author" content="Agencia Web Bogotá">
+  <meta name="email" content="agenciawebbogota@gmail.com">
+  <meta name="Rating" content="General">
+  <meta name="msvalidate.01" content="607F58A810BE9AAB1051493A749C22E4" />
+  <meta name="Distribution" content="Local">
+  <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/posicionamiento-web.php" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name " content="Agencia Web Bogotá" />
+  <meta property="og:title" content="Posicionamiento Web | Su página web en la primera página de Google" />
+  <meta property="og:url" content="https://agenciawebbogota.com/posicionamiento-web.php" />
+  <meta property="og:image" content="https://www.agenciawebbogota.com/social/posicionamiento-web.jpg" />
+  <meta property="og:description" content="Conocemos y dominamos los métodos más eficaces de Posicionamiento Web para ubicar su sitio en la primera página de búsquedas de Google" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@AgenciaBogota">
+  <meta name="twitter:creator" content="@AgenciaBogota">
+  <meta name="twitter:image" content="https://www.agenciawebbogota.com/social/posicionamiento-web-twitter-card.jpg">
+  <meta name="twitter:image:alt" content="Portatil mostrando página de Google con un cafe al lado | Posicionamiento Web">
+  <meta name="twitter:title" content="Posicionamiento Web | Su página web en la primera página de Google">
+  <meta name="twitter:description" content="Conocemos y dominamos los métodos más eficaces de Posicionamiento Web para ubicar su sitio en la primera página de búsquedas de Google">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
@@ -48,10 +70,10 @@
                         <a>Emprendedores</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-emprendedores.php">Diseño Web</a>
+                                <a href="diseno-web-para-emprendedores.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
@@ -59,13 +81,13 @@
                         <a>Empresas</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-empresas.php">Diseño Web</a>
+                                <a href="diseno-web-para-empresas.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="#">Aplicativos Web</a>
+                                <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -116,12 +138,13 @@
                 <p>La verdad es que los trabajos de seo son <b>arduos y complejos</b>, que requieren conocimiento, constancia y paciencia. Dado que como todo en internet,
                    las políticas de búsqueda son sometidas a cambios constantes, los nuevos algoritmos y los avances en tecnología hacen que se deban estar actualizando
                     contínuamente nuestros sitios web para evitar quedar relegados en el competitivo mercado digital.</p>
+                    <p style="color:#f7f7f7;font-size:5px;">posicionamiento web</p>
 
             </div>
             <div class="span-6 info-video">
                 <div class="auto-resizable-iframe">
                     <div>
-                      <img src="assets/images/seo-posicionamiento.png" alt="Página web cargada en diferentes dispositivos" title="Diseño Web Optimizado">
+                      <img src="assets/images/seo-posicionamiento.png" alt="esquema de lupa con iconos alrededor - posicionamiento web">
                     </div>
                 </div>
             </div>
@@ -144,13 +167,14 @@
     <div class="section-title">
         <h2>Es en este punto <i>donde <br/>usted necesita la ayuda</i> de <br/><strong>Profesionales en la Materia</strong></h2>
     </div>
-    <p class="sub-text">Conocemos y dominamos <a>los métodos más eficacez</a> para posicionar<br/> su sitio web y negocio local</p>
+    <p class="sub-text">Conocemos y dominamos <a>los métodos más eficaces</a> para posicionar<br/> su sitio web y negocio local</p>
+    <p style="color:#f7f7f7;font-size:5px;">posicionamiento web</p>
 </header>
 <div class="owl-carousel services-slider">
     <div class="widget service">
         <div class="widget-content">
             <header>
-                <img src="assets/images/diagnostico-pagina-web.png" alt="">
+                <img src="assets/images/diagnostico-pagina-web.png" alt="icono de hombre con estadisticas - posicionamiento web">
                 <div class="title">
                     <h4>Diagnóstico SEO</h4>
                     <h5>Análisis de página existente</h5>
@@ -163,7 +187,7 @@
     <div class="widget service">
         <div class="widget-content">
             <header>
-                <img src="assets/images/errores-en-codigo-web.png" alt="">
+                <img src="assets/images/errores-en-codigo-web.png" alt="icono de monitor con codigo - posicionamiento web">
                 <div class="title">
                     <h4>Diagnóstico OnPage</h4>
                     <h5>Detección de problemas</h5>
@@ -176,7 +200,7 @@
     <div class="widget service">
         <div class="widget-content">
             <header>
-                <img src="assets/images/busqueda.png" alt="">
+                <img src="assets/images/busqueda.png" alt="Icono de lupa sobre monitor - posicionamiento web">
                 <div class="title">
                     <h4>Investigación</h4>
                     <h5>Conocer su competencia</h5>
@@ -187,6 +211,7 @@
         </div>
     </div>
 </div>
+<p style="color:#f7f7f7;font-size:5px;">posicionamiento web</p>
 </div>
 </section>
 <section class="stats row block-columns">
@@ -219,9 +244,11 @@
         <h3>Tambien posicionamos su negocio local <br/>en Google Mi Negocio</h3>
     </div>
     <p>Aún si usted no dispone de un sitio web, puede <a>aparecer en la primera posición</a> en las búsquedas de Google</p>
+    <p style="color:#f7f7f7;font-size:5px;">posicionamiento web</p>
     <div class="meta">
         <a href="contacto.php" class="button brand-1 round">¡Pregúntenos como!</a>
     </div>
+    <h2 style="color:#f7f7f7;font-size:5px;">posicionamiento web</h2>
 </header>
 
 </div>

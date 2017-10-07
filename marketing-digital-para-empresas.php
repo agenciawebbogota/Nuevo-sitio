@@ -1,13 +1,35 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Marketing Digital Emprendedores</title>
-    <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
-    <meta name="viewport" content="width=device-width, initial-scale=0.85">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Language" content="es">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="Robots" content="index, follow">
+  <title>Marketing Digital para Empresas en Bogotá | Neuromarketing</title>
+  <meta name="description" content="Marketing Digital para Empresas en Bogotá optimizadas y enriquecidas con Neuromarketing. Incremente su ROI con la evolución del marketing convencional">
+  <meta name="keywords" content="marketing digital para empresas, agencia web bogota, marketing digital, agencia de neuromarketing">
+  <meta name="author" content="Agencia Web Bogotá">
+  <meta name="email" content="agenciawebbogota@gmail.com">
+  <meta name="Rating" content="General">
+  <meta name="msvalidate.01" content="607F58A810BE9AAB1051493A749C22E4" />
+  <meta name="Distribution" content="Local">
+  <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/marketing-digital-para-empresas.php" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name " content="Agencia Web Bogotá" />
+  <meta property="og:title" content="Marketing Digital para Empresas en Bogotá | Neuromarketing" />
+  <meta property="og:url" content="https://agenciawebbogota.com/marketing-digital-para-empresas.php" />
+  <meta property="og:image" content="https://www.agenciawebbogota.com/social/marketing-digital-para-empresas.jpg" />
+  <meta property="og:description" content="Marketing Digital para Empresas en Bogotá optimizadas y enriquecidas con Neuromarketing, la evolución del marketing convencional" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@AgenciaBogota">
+  <meta name="twitter:creator" content="@AgenciaBogota">
+  <meta name="twitter:image" content="https://www.agenciawebbogota.com/social/marketing-digital-para-empresas-twitter-card.jpg">
+  <meta name="twitter:image:alt" content="Manos trabajando en material digital sobre un escritorio | Marketing Digital para Empresas en Bogotá">
+  <meta name="twitter:title" content="Marketing Digital para Empresas en Bogotá | Neuromarketing">
+  <meta name="twitter:description" content="Marketing Digital para Empresas en Bogotá optimizadas y enriquecidas con Neuromarketing, la evolución del marketing convencional">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
@@ -48,10 +70,10 @@
                         <a>Emprendedores</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-emprendedores.php">Diseño Web</a>
+                                <a href="diseno-web-para-emprendedores.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
@@ -59,13 +81,13 @@
                         <a>Empresas</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-empresas.php">Diseño Web</a>
+                                <a href="diseno-web-para-empresas.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="#">Aplicativos Web</a>
+                                <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -115,12 +137,13 @@
                     <div class="team-pic">
                             <div class="mask"></div>
                             <img src="assets/images/marketing-neuromarketing.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
-                        </div>
+                    </div>
                 </div>
             </div>
         </section>
 <section class="section primary what-we-offer inactive" id="s-what-we-offer">
 <div class="container">
+  <h2 style="color:#f7f7f7;font-size:5px">Marketing Digital para empresas en Bogotá</h2>
 <div class="row feature-blocks inactive">
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
@@ -193,10 +216,11 @@
     <div class="span-6 info-video">
         <div class="auto-resizable-iframe">
             <div>
-              <img src="assets/images/neuro-marketing.png" alt="Página web cargada en diferentes dispositivos" title="Diseño Web Optimizado">
+              <img src="assets/images/neuro-marketing.png" alt="Elementos saliendo del cerebor humano - Marketing digital para empresas en Bogota">
             </div>
         </div>
     </div>
+    <p style="color:#f7f7f7;font-size:5px">Marketing Digital para empresas en Bogotá</p>
 </div>
 </div>
 </section>

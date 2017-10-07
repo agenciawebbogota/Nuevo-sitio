@@ -89,10 +89,10 @@
                                     <a>Emprendedores</a>
                                     <ul>
                                         <li>
-                                            <a href="diseno-web-emprendedores.php">Diseño Web</a>
+                                            <a href="diseno-web-para-emprendedores.php">Diseño Web</a>
                                         </li>
                                         <li>
-                                            <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
+                                            <a href="marketing-digital-para-emprendedores.php">Marketing Digital</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -100,13 +100,13 @@
                                     <a>Empresas</a>
                                     <ul>
                                         <li>
-                                            <a href="diseno-web-empresas.php">Diseño Web</a>
+                                            <a href="diseno-web-para-empresas.php">Diseño Web</a>
                                         </li>
                                         <li>
-                                            <a href="marketing-digital-empresas.php">Marketing Digital</a>
+                                            <a href="marketing-digital-para-empresas.php">Marketing Digital</a>
                                         </li>
                                         <li>
-                                            <a href="#">Aplicativos Web</a>
+                                            <a href="aplicativos-web.php">Aplicativos Web</a>
                                         </li>
                                         <li>
                                             <a href="google-apps.php">Google App</a>

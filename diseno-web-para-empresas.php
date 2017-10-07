@@ -1,13 +1,35 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Diseño Web Empresas</title>
-    <meta name="description" content="Nexus is a modern & responsive HTML5 template.">
-    <meta name="viewport" content="width=device-width, initial-scale=0.85">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Language" content="es">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="Robots" content="index, follow">
+  <title>Diseño Web para Empresas en Bogotá | Páginas web desde $800.000</title>
+  <meta name="description" content="Diseño Web para Empresas en Bogotá Desde $800.000 IVA Incluido. Páginas web con hosting, dominio, posicionamiento SEO y versión para móviles">
+  <meta name="keywords" content="diseño web para empresas, empresas bogotá, agencia web bogota, diseño web bogota, diseño de paginas web Bogota,">
+  <meta name="author" content="Agencia Web Bogotá">
+  <meta name="email" content="agenciawebbogota@gmail.com">
+  <meta name="Rating" content="General">
+  <meta name="msvalidate.01" content="607F58A810BE9AAB1051493A749C22E4" />
+  <meta name="Distribution" content="Local">
+  <link rel="alternate" hreflang="es" href="https://agenciawebbogota.com/diseno-web-para-empresas.php" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name " content="Agencia Web Bogotá" />
+  <meta property="og:title" content="Diseño Web para Empresas en Bogotá | Páginas web desde $800.000" />
+  <meta property="og:url" content="https://agenciawebbogota.com/diseno-web-para-empresas.php" />
+  <meta property="og:image" content="https://www.agenciawebbogota.com/social/diseno-web-para-empresas.jpg" />
+  <meta property="og:description" content="Diseño Web para Empresas en Bogotá Desde $800.000 IVA Incluido. Con hosting, dominio, posicionamiento SEO y versión móviles" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@AgenciaBogota">
+  <meta name="twitter:creator" content="@AgenciaBogota">
+  <meta name="twitter:image" content="https://www.agenciawebbogota.com/social/diseno-web-para-empresas-twitter-card.jpg">
+  <meta name="twitter:image:alt" content="Espacio de trabajo, portatil sobre escritorio | Diseño Web para Empresas en Bogotá">
+  <meta name="twitter:title" content="Diseño Web para Empresas en Bogotá | Páginas web desde $800.000">
+  <meta name="twitter:description" content="Diseño Web para Empresas en Bogotá Desde $800.000 IVA Incluido. Con hosting, dominio, posicionamiento SEO y versión móviles">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
     <link rel="icon" href="archivos/images/favicon.png">
@@ -48,10 +70,10 @@
                         <a>Emprendedores</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-emprendedores.php">Diseño Web</a>
+                                <a href="diseno-web-para-emprendedores.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
@@ -59,13 +81,13 @@
                         <a>Empresas</a>
                         <ul>
                             <li>
-                                <a href="diseno-web-empresas.php">Diseño Web</a>
+                                <a href="diseno-web-para-empresas.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="#">Aplicativos Web</a>
+                                <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
@@ -108,11 +130,14 @@
 <div class="container">
 <div class="row">
     <div class="span-6 info-video">
+      <h2 style="color:#f7f7f7;font-size:5px;">Diseño web para empresas en Bogotá</h2>
+      <p style="color:#f7f7f7;font-size:5px;">Diseño web para empresas en Bogotá</p>
         <div class="auto-resizable-iframe">
             <div>
-              <img src="assets/images/responsive_websites.png" alt="Página web cargada en diferentes dispositivos" title="Diseño Web Optimizado">
+              <img src="assets/images/responsive_websites.png" alt="Página web cargada en diferentes dispositivos - Diseño web para empresas en Bogotá">
             </div>
         </div>
+        <p style="color:#f7f7f7;font-size:5px;">Diseño web para empresas en Bogotá</p>
     </div>
     <div class="span-6 more-info-meta" style="padding-top:30px;">
         <div class="section-title">
@@ -188,6 +213,7 @@
 <section class="section primary latest-works" id="portfolio" style="padding-top:30px;">
 <div class="container">
 <header class="sep active">
+  <p style="color:#f7f7f7;font-size:5px;">Diseño web para empresas en Bogotá</p>
     <div class="section-title">
         <h3>Algunos de nuestros más recientes trabajos</h3>
     </div>
@@ -202,7 +228,7 @@
         </div>
         <h4><a href="https://viaggigroup.co/" target="_blank">Viaggi Group</a></h4>
         <p>programas educativos en el exterior</p>
-        <img src="assets/images/viaggi-group-pagina-web.jpg" alt="Viaggi Group" title="Viaggi Group" />
+        <img src="assets/images/viaggi-group-pagina-web.jpg" alt="Muestra de página web de Viaggi Group - diseño web para emprendedores bogota"/>
     </div>
     <div class="portfolio-item">
         <div class="controls">
@@ -212,7 +238,7 @@
         </div>
         <h4><a href="http://servinproh.com/" target="_blank">Servinproh</a></h4>
         <p>Administración de propiedad horizontal</p>
-        <img src="assets/images/servinproh-pagina-web.jpg" alt="Servinproh" title="Servinproh" />
+        <img src="assets/images/servinproh-pagina-web.jpg" alt="Muestra de página web de Servinproh - diseño web para emprendedores bogota"/>
     </div>
     <div class="portfolio-item">
         <div class="controls">
@@ -222,7 +248,7 @@
         </div>
         <h4><a href="http://quirozencuadernacion.com/" target="_blank">Quiroz Encuadernación</a></h4>
         <p>Empaste de libros contables</p>
-        <img src="assets/images/quiroz-ecuadernacion-pagina.jpg" alt="" />
+        <img src="assets/images/quiroz-ecuadernacion-pagina.jpg" alt="Muestra de página web de Quiroz encuadernación - diseño web para emprendedores bogota" />
     </div>
     <div class="portfolio-item max-bp2">
         <div class="controls">
@@ -232,8 +258,10 @@
         </div>
         <h4><a href="http://www.medefiende.com/principal/" target="_blank">Medefiende</a></h4>
         <p>Abogados especializados en defensa médica</p>
-        <img src="assets/images/medefiende-pagina-web.jpg" alt="" />
+        <img src="assets/images/medefiende-pagina-web.jpg" alt="Muestra de página web de Medefiende - diseño web para emprendedores bogota" />
     </div>
+    <p style="color:#f7f7f7;font-size:5px;">Diseño web para empresas en Bogotá</p>
+    <p style="color:#f7f7f7;font-size:5px;">Diseño web para empresas en Bogotá</p>
 </div>
 </div>
 </section>
