@@ -27,7 +27,7 @@
             display: none;
         }
        .section.secondary {
-          background-image: url("assets/images/google-apps.png");
+          background-image: url("assets/images/polygon-bg-blue.png");
         }
         .section.quote{
             background-color: #4386fc;
@@ -246,7 +246,7 @@ http://fontawesome.io/icons/
             <p class="mision" style="font-size:20px">¡Deja tu proyecto en las mejores manos!</p>
             </div>
             <div class="team-pic">
-                <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+                <img src="assets/images/fondo-google-apps.jpg" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
             </div>
         </div>
     </div>
