@@ -8,7 +8,7 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="Robots" content="index, follow">
-  <title>Diseño Web Emprendedores | Agencia Web Bogotá</title>
+  <title>Aplicativos Web | Agencia Web Bogotá</title>
   <meta name="description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
   <meta name="keywords" content="agencia web bogota, diseño web emprendedores, diseño web bogota, diseño de paginas web Bogota, páginas web corporativas,  diseño de paginas web, diseño paginas web economicas, diseño web optimizado, neuromarketing">
   <meta name="author" content="Agencia Web Bogotá">
@@ -87,7 +87,7 @@
                                 <a href="marketing-digital-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
-                                <a href="#">Aplicativos Web</a>
+                                <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
                                 <a href="google-apps.php">Google App</a>
