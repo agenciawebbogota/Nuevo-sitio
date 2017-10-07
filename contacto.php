@@ -21,15 +21,9 @@
             background-image: url("assets/images/contacto.jpg");
         }
     </style>
-
-
-    <!-- Modernizr -->
-    <script src="assets/js/modernizr.min.js"></script>
 </head>
 <body class="further contact">
-
-    <!-- SITE CONTENT -->
-
+    <!-- CONTENIDO DEL SITIO -->
     <div id="site-content">
         <!-- Header -->
 <header class="app-header" id="app-header">
