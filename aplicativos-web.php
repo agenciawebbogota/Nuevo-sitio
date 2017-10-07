@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="assets/images/favicon.png">
     <!-- Icons & favicons -->
     <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
-    <link rel="icon" href="archivos/images/favicon.png">
     <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
@@ -30,7 +30,7 @@
         .wcu-graphic-mobile{padding-bottom: 50px;}
     </style>
     <!-- Modernizr -->
-    <script src="assets/js/modernizr.min.js"></script>
+    <!-- <script src="assets/js/modernizr.min.js"></script> -->
 </head>
 <body class="further services">
     <!-- SITE CONTENT -->
@@ -176,30 +176,28 @@
         <h2>¿Que mas te<i> Ofrecemos?</i></h2>
         <h3>Esto no termina aquí...</h3>
     </div>
-    <p>Nuestros planes de <a>Marketing Digital para emprendedores</a> van más allá de estrategias integrales sin rumbo. Agencia Web Bogotá diseñará
-    un plan de mercadeo basado en tus objetivos y recursos. Además te asesoraremos <a>sin costo y sin compromiso alguno</a> acerca de las estrategias
-  de publicidad digital que mejores resultados pueden dar en tu negocio.</p>
+    <p>Los precios son adaptables a la empresa y necesidad puntal, esto es genial porque el valor de tu aplicativo lo concretamos directamente contigo y lo mejor tendrás una asesoria constante durante el primer mes de su aplicación.</p>
 </header>
 <div class="row feature-blocks inactive">
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
             <i class="fa fa-comments fa-2x" style="color:#fff"></i>
-            <h4>Diseño único</h4>
-            <h5>Redes Sociales</h5>
-            <p>Nos gusta construir un diseño con colaboración y aprobación del cliente.</p>
+            <h4>Diseño</h4>
+            <h5>Esclusividad</h5>
+            <p>Nos gusta construir y diseñar con colaboración y aprobación del cliente.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-at  fa-2x" style="color:#fff"></i>
+            <i class="fa fa-at fa-2x" style="color:red"></i>
             <h4>Servicios externos</h4>
             <h5>Información ya disponible</h5>
-            <p>Podemos abastecer tu aplicativo web de otros servicios con el uso de APIS.</p>
+            <p>Podemos abastecer tu aplicativo web de otros servicios con el uso de APIs.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-handshake-o" aria-hidden="true"></i>
+            <i class="fa fa-server fa-2x" style="color:#fff"></i>
             <h4>Soporte</h4>
             <h5>Estamos para ayudarte ¡¡</h5>
             <p>Desarrollamos tu aplicativo te brindamos el mas amplio soporte para su uso.</p>
@@ -210,7 +208,7 @@
             <i class="fa fa-line-chart fa-2x" style="color:#fff"></i>
             <h4>Código fuente</h4>
             <h5>Nuestra especialidad</h5>
-            <p>Si gustas te podemos proporcionar todo el código fuente escrito por nuestros desarrolladores de tu proyecto.</p>
+            <p>Podemos proporcionarte todo el código fuente escrito por nuestros desarrolladores.</p>
         </div>
     </div>
 </div>
