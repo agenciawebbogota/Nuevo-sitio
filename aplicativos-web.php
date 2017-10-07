@@ -133,36 +133,36 @@
                     <div class="widget-content">
                         <div class="title">
                             <h4>Diseños adaptables</h4>
-                            <h5>Las manera más efectiva de vender</h5>
+                            <h5>En tu smartphone, tu tablet o tu ordenador</h5>
                         </div>
-                        <p>El contenido es realmente el rey en Internet, por ello contamos con un equipo experto en neuro-redacción</p>
+                        <p>Nos encargamos de hacer un diseño que se adapte a cada dispositivo, esto te permitirá poder ingresar a tu aplicativo en el momento que lo desees.</p>
                     </div>
                 </div>
                 <div class="widget wcu-feature wcu-left">
                     <div class="widget-content">
                         <div class="title">
                             <h4>Información siempre disponible</h4>
-                            <h5>Posicionamiento en buscadores</h5>
+                            <h5>Algo espléndido..</h5>
                         </div>
-                        <p>Usamos métodos comprobados para la optimización de todos tus contenidos en motores de busqueda</p>
+                        <p>Al ser un aplicación servida en un navegador, te da la posibilidad de tener siempre lainformación actualizada desde donde la consultes.</p>
                     </div>
                 </div>
                 <div class="widget wcu-feature wcu-right">
                     <div class="widget-content">
                         <div class="title">
                             <h4>Trabajo colaborativo</h4>
-                            <h5>Google y Redes Sociales</h5>
+                            <h5>Muchos usuarios a las vez..</h5>
                         </div>
-                        <p>Si tu presupuesto para publicidad es limitado, te ayudaremos a aprovechar cada centavo que inviertas</p>
+                        <p>Lo mejor es que puedes trabajar a la par con todo tu equipo, permitiento avanzar de manera prograsiva en los procesos que  se realicen desde el aplicativo web.</p>
                     </div>
                 </div>
                 <div class="widget wcu-feature wcu-right">
                     <div class="widget-content">
                         <div class="title">
                             <h4>Efectividad en los procesos</h4>
-                            <h5>Marketing Digital 3.0</h5>
+                            <h5>Real Time</h5>
                         </div>
-                        <p>Contamos con todas las herramientas para aplicar en tu negocio estrategias de marketing altamente efectivas</p>
+                        <p>Al ser una aplicación web, tendras a tu disposición cada cambio que se realice, con esto se evitan conflictos en la perdida de información</p>
                     </div>
                 </div>
             </div>
@@ -173,7 +173,7 @@
 <div class="container">
 <header class="sep active">
     <div class="section-title">
-        <h2>¿Que mas te<i>Ofrecemos?</i></h2>
+        <h2>¿Que mas te<i> Ofrecemos?</i></h2>
         <h3>Esto no termina aquí...</h3>
     </div>
     <p>Nuestros planes de <a>Marketing Digital para emprendedores</a> van más allá de estrategias integrales sin rumbo. Agencia Web Bogotá diseñará
@@ -184,34 +184,31 @@
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
             <i class="fa fa-comments fa-2x" style="color:#fff"></i>
-            <h4>Community Manager</h4>
+            <h4>Diseño único</h4>
             <h5>Redes Sociales</h5>
-            <p>Despreocupate de posicionar tu marca y difundir tus contenidos en redes sociales. Nosotros nos encargaremos de tus anuncios y publicaciones.
-              Todo de manera profesional, acertada y efectiva</p>
+            <p>Nos gusta construir un diseño con colaboración y aprobación del cliente.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
             <i class="fa fa-at  fa-2x" style="color:#fff"></i>
-            <h4>Email Marketing</h4>
-            <h5>Envío de correos masivos</h5>
-            <p>Aunque este es un canal relativamente antiguo comparado con las nuevas estrategias de Marketing Digital, podemos asegurarte que sacaremos
-            el mejor provecho de tus listas de correo electrónico</p>
+            <h4>Servicios externos</h4>
+            <h5>Información ya disponible</h5>
+            <p>Podemos abastecer tu aplicativo web de otros servicios con el uso de APIS.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
             <i class="fa fa-desktop fa-2x" style="color:#fff"></i>
-            <h4>Landing Pages</h4>
-            <h5>Páginas de aterrizaje</h5>
-            <p>Diseñamos y programamos páginas de captura y aterrizaje para tus campañas en Internet, destacando tus ofertas, servicios o artículos.
-            Enlazadas a tu correo electrónico, base de datos o listas de mailchimp</p>
+            <h4>Soporte</h4>
+            <h5>Estamos para ayudarte ¡¡</h5>
+            <p>Desarrollamos tu aplicativo te brindamos el mas amplio soporte para su uso.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
             <i class="fa fa-line-chart fa-2x" style="color:#fff"></i>
-            <h4>Neuromarketing</h4>
+            <h4>Código fuente</h4>
             <h5>Nuestra especialidad</h5>
             <p>Aplicamos conceptos de neuromarketing en todas nuestras estrategias de marketing digital. Esto nos permite garantizarte resultados
             reales en poco tiempo y sin invertir grandes sumas de dinero</p>
