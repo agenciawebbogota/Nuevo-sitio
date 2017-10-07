@@ -9,9 +9,9 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <!-- Icons & favicons -->
-    <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
+    <!-- <link rel="apple-touch-icon" href="assets/images/apple-icon-touch.png"> -->
     <link rel="icon" href="assets/images/favicon.png">
-    <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/style/css/font-awesome.min.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
@@ -27,7 +27,7 @@
             display: none;
         }
        .section.secondary {
-          background-image: url("assets/images/polygon-bg-blue.png");
+          background-image: url("assets/images/fondo-google-apps.jpg");
         }
         .section.quote{
             background-color: #4386fc;
@@ -120,7 +120,7 @@ http://fontawesome.io/icons/
  -->
         <!-- Sub-Header -->
         <!-- <br> -->
-<section class="hero sub-header" style="height: 200px;">
+<section class="hero sub-header" style="height: 650px;">
     <video class="fondo" src="http://academiawebbogota.com/wp-content/uploads/2017/08/fondo.mp4" autoplay="true">
     </video>
     <div class="container inactive">
@@ -246,7 +246,7 @@ http://fontawesome.io/icons/
             <p class="mision" style="font-size:20px">¡Deja tu proyecto en las mejores manos!</p>
             </div>
             <div class="team-pic">
-                <img src="assets/images/fondo-google-apps.jpg" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+                <img src="assets/images/google-apps.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
             </div>
         </div>
     </div>
