@@ -1,9 +1,6 @@
 
 <!DOCTYPE html>
-<!--[if IE 8]>     <html class="no-js ie ie8 lte9 lte8"> <![endif]-->
-<!--[if IE 9]>     <html class="no-js ie ie9 lte9"> <![endif]-->
-<!--[if gt IE 9]>  <html class="no-js"> <![endif]-->
-<!--[if !IE]><!--> <html class="no-js"> <!--<![endif]-->
+<html class="no-js" lang="es">
 
 <head>
     <meta charset="utf-8">

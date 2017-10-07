@@ -242,14 +242,11 @@ http://fontawesome.io/icons/
         <div class="row block-columns">
             <div class="span-5 skills-meta">
                 <div class="section-title">
-                    <h3 style="line-height:110%">Nosotros también somos emprendedores</h3>
+                    <h3 style="line-height:110%">Somos especialistas</h3>
                 </div>
-                <p class="mision" style="font-size:25px">Conocemos y entendemos tus necesidades</p>
-                <p class="mision2">Sabemos que en ocasiones es algo difícil crear empresa y contar con el apoyo necesario para iniciar el camino<br/>
-                  hacia tu sueño empresarial. Por eso nosotros
-                nos convertiremos en tus principales aliados en busca de lograr consolidar tu proyecto en Internet.
-                Tenemos amplia experiencia en Diseño Web Emprendedores, respaldada por conocimientos en creación de empresas y marketing digital
-            especializado en pymes.</p>
+                <p class="mision" style="font-size:25px">Entendemos perfectamente el concepto de estas herramientas.</p>
+                <p class="mision2">Estamos altamente calificado en el uso de estas herramientas. por eso estamos completamente seguros que siempre encontramos la mejor solución para cada cliente.<br/><br>
+                  Te garantizamos desde ya un exelente trabajo y que cumpla con cada requerimiento solicitado y lo mejor es que los construimos de la mano con cada cliente para así garantizar satisfacción cuando este se termine.</p>
             <p class="mision" style="font-size:20px">¡Deja tu proyecto en las mejores manos!</p>
             </div>
             <div class="team-pic">
