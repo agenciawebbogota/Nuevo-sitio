@@ -133,7 +133,7 @@
                     <div class="widget-content">
                         <div class="title">
                             <h4>Diseños adaptables</h4>
-                            <h5>En tu smartphone, tu tablet o tu ordenador</h5>
+                            <h5>Para todos los dispositivos</h5>
                         </div>
                         <p>Nos encargamos de hacer un diseño que se adapte a cada dispositivo, esto te permitirá poder ingresar a tu aplicativo en el momento que lo desees.</p>
                     </div>
@@ -141,7 +141,7 @@
                 <div class="widget wcu-feature wcu-left">
                     <div class="widget-content">
                         <div class="title">
-                            <h4>Información siempre disponible</h4>
+                            <h4>Información disponible</h4>
                             <h5>Algo espléndido..</h5>
                         </div>
                         <p>Al ser un aplicación servida en un navegador, te da la posibilidad de tener siempre lainformación actualizada desde donde la consultes.</p>
