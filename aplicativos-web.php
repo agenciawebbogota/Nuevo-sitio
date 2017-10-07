@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=0.85">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-    <link rel="icon" href="assets/images/favicon.png">
     <!-- Icons & favicons -->
-    <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
-    <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
+    <link rel="icon" href="assets/images/favicon.png">
+    <!-- <link rel="apple-touch-icon" href="assets/images/apple-icon-touch.png"> -->
+    <link rel="stylesheet" type="text/css" href="assets/icons/font-awesome/css/font-awesome.css">
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
@@ -181,34 +181,34 @@
 <div class="row feature-blocks inactive">
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-comments fa-2x" style="color:#fff"></i>
+            <i class="fa fa-laptop fa-2x" style="color:#fff"></i>
             <h4>Diseño</h4>
-            <h5>Esclusividad</h5>
+            <h5>Estilo y elegancia ¡¡</h5>
             <p>Nos gusta construir y diseñar con colaboración y aprobación del cliente.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-at fa-2x" style="color:red"></i>
-            <h4>Servicios externos</h4>
+            <i class="fa fa-server fa-2x"></i>
+            <h4>Consultas</h4>
             <h5>Información ya disponible</h5>
             <p>Podemos abastecer tu aplicativo web de otros servicios con el uso de APIs.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-server fa-2x" style="color:#fff"></i>
+            <i class="fa fa-phone fa-2x"></i>
             <h4>Soporte</h4>
             <h5>Estamos para ayudarte ¡¡</h5>
-            <p>Desarrollamos tu aplicativo te brindamos el mas amplio soporte para su uso.</p>
+            <p>Desarrollamos tu aplicativo brindando el mas amplio soporte para su uso.</p>
         </div>
     </div>
     <div class="span-3 feature-block-wrapper">
         <div class="feature-block">
-            <i class="fa fa-line-chart fa-2x" style="color:#fff"></i>
+            <i class="fa fa-code fa-2x" style="color:#fff"></i>
             <h4>Código fuente</h4>
             <h5>Nuestra especialidad</h5>
-            <p>Podemos proporcionarte todo el código fuente escrito por nuestros desarrolladores.</p>
+            <p>Te proporcionamos todo el código fuente escrito por nuestros desarrolladores.</p>
         </div>
     </div>
 </div>
