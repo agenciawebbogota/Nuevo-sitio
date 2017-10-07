@@ -27,7 +27,7 @@
             display: none;
         }
        .section.secondary {
-          background-image: url("assets/images/polygon-bg-blue.png");
+          background-image: url("assets/images/google-apps.png");
         }
         .section.quote{
             background-color: #4386fc;
@@ -64,7 +64,7 @@
                                 <a href="diseno-web-emprendedores.php">Diseño Web</a>
                             </li>
                             <li> 
-                                <a href="marketing-digital-emprendedores.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-emprendedores.php">Marketing Digital</a>
                             </li>
                         </ul>
                     </li>
@@ -75,13 +75,13 @@
                                 <a href="diseno-web-empresas.php">Diseño Web</a>
                             </li>
                             <li>
-                                <a href="marketing-digital-empresas.php">Marketing Digital</a>
+                                <a href="marketing-digital-para-empresas.php">Marketing Digital</a>
                             </li>
                             <li>
                                 <a href="#">Aplicativos Web</a>
                             </li>
                             <li> 
-                                <a href="google-apps.php">Google App</a>
+                                <a href="google-apps.php">Google Apps</a>
                             </li>
                             <li>
                                 <a href="#">Hosting</a>
@@ -120,17 +120,13 @@ http://fontawesome.io/icons/
  -->
         <!-- Sub-Header -->
         <!-- <br> -->
-<section class="hero sub-header">
-
-
+<section class="hero sub-header" style="height: 200px;">
     <video class="fondo" src="http://academiawebbogota.com/wp-content/uploads/2017/08/fondo.mp4" autoplay="true">
-        
-
     </video>
     <div class="container inactive">
         <div class="sh-title-wrapper">
             <h1>Google Apps (G Suite) para empresas</h1>
-            <p>Quieres que tu equipo de trabajo conozca el maravilloso mundo de las Google Apps.</p>
+            <p style="font-size: 30px;font-weight:300">Quieres que tu equipo de trabajo conozca el maravilloso mundo de las Google Apps.</p>
             <p>Puedes elevar la efectividad de tus trabajadores utilizando este servicio que además es gratuito, norotros te los enseñamos!</p>
         </div>
     </div>
@@ -245,7 +241,7 @@ http://fontawesome.io/icons/
                     <h3 style="line-height:110%">Somos especialistas</h3>
                 </div>
                 <p class="mision" style="font-size:25px">Entendemos perfectamente el concepto de estas herramientas.</p>
-                <p class="mision2">Estamos altamente calificado en el uso de estas herramientas. por eso estamos completamente seguros que siempre encontramos la mejor solución para cada cliente.<br/><br>
+                <p class="mision2">Estamos altamente calificados en el uso de estas herramientas. por eso estamos completamente seguros que siempre encontramos la mejor solución para cada cliente.<br/><br>
                   Te garantizamos desde ya un exelente trabajo y que cumpla con cada requerimiento solicitado y lo mejor es que los construimos de la mano con cada cliente para así garantizar satisfacción cuando este se termine.</p>
             <p class="mision" style="font-size:20px">¡Deja tu proyecto en las mejores manos!</p>
             </div>
