@@ -180,7 +180,7 @@ currency: 'USD'
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/imagenes-diseño-web.png" alt="esquema de construccion de sitio web - diseño web para emprendedores bogota">
+                        <img src="assets/images/imagenes-diseno-web.png" alt="esquema de construccion de sitio web - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Imágenes Unicas</h4>
                             <h5>Solo las verás en tu página</h5>
@@ -385,7 +385,7 @@ currency: 'USD'
     <div class="container">
         <div class="content">
             <h4 style="font-weight:300;">Además <i>Agencia Web Bogotá</i> te cobrará la primer mensualidad cuando tu Sitio Web esté <b>100% Terminado y Online</b><br/> no te exigimos <i>anticipos</i></h4>
-            <p style="font-weight:300;">Contáctanos para más información <a href="contacto.php">sobre nuestros planes y servicios</a></p>
+            <p style="font-weight:300;"><a href="contacto.php">Contáctanos para más información</a> sobre nuestros planes y servicios</p>
         </div>
     </div>
 </section>

@@ -266,7 +266,7 @@
     <div class="container">
         <div class="content">
             <h4 style="font-weight:300">en <i>Agencia Web Bogotá</i> somos especialistas en<br/><b>Marketing Digital para Emprendedores</b></h4>
-            <p style="font-weight:300">Contáctanos para más información <a href="contacto.php">sobre nuestros planes y servicios</a></p>
+            <p style="font-weight:300"><a href="contacto.php">Contáctanos para más información</a> sobre nuestros planes y servicios</p>
         </div>
     </div>
 </section>
