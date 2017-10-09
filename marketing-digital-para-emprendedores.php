@@ -30,12 +30,10 @@
   <meta name="twitter:image:alt" content="Computador portail mostrando estadísticas de marketing | Marketing Digital para Emprendedores">
   <meta name="twitter:title" content="Marketing Digital para Emprendedores en Bogotá | Agencia Web Bogotá">
   <meta name="twitter:description" content="Obtén la máxima exposición para tus productos o servicios a través de los beneficios del  Marketing Digital para Emprendedores">
-    <!-- Icons & favicons -->
-    <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
-    <link rel="icon" href="archivos/images/favicon.png">
-    <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/styles/css/app.css">
+  <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
+  <link rel="icon" href="archivos/images/favicon.png">
+  <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
             background-image: url("assets/images/marketing-digital-emprendedores.jpg");
@@ -51,28 +49,45 @@
         }
         .wcu-graphic-mobile{padding-bottom: 50px;}
     </style>
-    <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>
-</head>
+    <?php
+        require_once 'includes/analitics.php';
+     ?>
+     <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '320488008387280'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=320488008387280&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+    </head>
+    <script>
+    fbq('track', 'ViewContent', {
+    value: 3.50,
+    currency: 'USD'
+    });
+    </script>
 <body class="further services">
-    <!-- SITE CONTENT -->
     <div id="site-content">
-        <!-- Header -->
 <header class="app-header" id="app-header">
     <div class="container">
         <div class="header-wrapper">
-            <!-- Logo -->
             <div class="logo" id="logo">
-                <!-- image logo -->
                 <a href="index.php" class="image-logo">
                     <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
                 </a>
             </div>
-            <!-- Main-Nav -->
             <nav class="main-nav">
                 <ul>
                     <li><a href="index.php">Inicio</a></li>
-                    <!-- Dropdown Nav -->
                     <li class="active">
                         <a>Emprendedores</a>
                         <ul>
@@ -97,7 +112,7 @@
                                 <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
-                                <a href="google-apps.php">Google App</a>
+                                <a href="google-apps.php">Google Apps</a>
                             </li>
                             <li>
                                 <a href="posicionamiento-web.php">Posicionamiento</a>
@@ -112,7 +127,6 @@
         </div>
     </div>
 </header>
-        <!-- Sub-Header -->
 
         <section class="hero sub-header">
     <div class="container inactive">
@@ -130,7 +144,7 @@
 </ul>
 </div>
 </nav>
-        <!-- Main Content -->
+
 
         <section class="section primary why-choose-us section-map inactive" id="s-why-choose-us">
     <div class="container">
@@ -143,7 +157,7 @@
               <b>ENCONTRARTE</b> a ti, a tu página web y a tu producto o servicio.</p>
               <h2 style="color:#f7f7f7;font-size:5px">Marketing digital para emprendedores</h2>
               <div class="section-title">
-                  <h2>¿Por qué <i>Agencia Web Bogotá?</i></h2>
+                  <h2 style="font-weight:300">¿Por qué <i>Agencia Web Bogotá?</i></h2>
               </div>
         </header>
         <div class="wcu-content">
@@ -199,7 +213,7 @@
 <div class="container">
 <header class="sep active">
     <div class="section-title">
-        <h2>¿Que mas te<i>Ofrecemos?</i></h2>
+        <h2 style="font-weight:300">¿Que mas te <i>ofrecemos?</i></h2>
         <h3>Esto no termina aquí...</h3>
     </div>
     <p>Nuestros planes de <a>Marketing Digital para emprendedores</a> van más allá de estrategias integrales sin rumbo. Agencia Web Bogotá diseñará
@@ -251,8 +265,8 @@
 <section class="section banner2 alt">
     <div class="container">
         <div class="content">
-            <h4>en <i>Agencia Web Bogotá</i> somos especialistas en<br/><b>Marketing Digital para Emprendedores</b></h4>
-            <p>Contáctanos para más información <a href="contacto.php">sobre nuestros planes y servicios</a></p>
+            <h4 style="font-weight:300">en <i>Agencia Web Bogotá</i> somos especialistas en<br/><b>Marketing Digital para Emprendedores</b></h4>
+            <p style="font-weight:300">Contáctanos para más información <a href="contacto.php">sobre nuestros planes y servicios</a></p>
         </div>
     </div>
 </section>
