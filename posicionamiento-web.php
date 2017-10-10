@@ -30,12 +30,10 @@
   <meta name="twitter:image:alt" content="Portatil mostrando página de Google con un cafe al lado | Posicionamiento Web">
   <meta name="twitter:title" content="Posicionamiento Web | Su página web en la primera página de Google">
   <meta name="twitter:description" content="Conocemos y dominamos los métodos más eficaces de Posicionamiento Web para ubicar su sitio en la primera página de búsquedas de Google">
-    <!-- Icons & favicons -->
-    <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
-    <link rel="icon" href="archivos/images/favicon.png">
-    <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/styles/css/app.css">
+  <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
+  <link rel="icon" href="archivos/images/favicon.png">
+  <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
             background-image: url("assets/images/posicionamiento.jpg");
@@ -44,28 +42,45 @@
           background-color: #1795c5; padding-top: 40px;
         }
     </style>
-    <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>
-</head>
+    <?php
+        require_once 'includes/analitics.php';
+     ?>
+     <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '320488008387280'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=320488008387280&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+    </head>
+    <script>
+    fbq('track', 'ViewContent', {
+    value: 3.50,
+    currency: 'USD'
+    });
+    </script>
 <body class="further services">
-    <!-- SITE CONTENT -->
     <div id="site-content">
-        <!-- Header -->
 <header class="app-header" id="app-header">
     <div class="container">
         <div class="header-wrapper">
-            <!-- Logo -->
             <div class="logo" id="logo">
-                <!-- image logo -->
                 <a href="index.php" class="image-logo">
                     <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
                 </a>
             </div>
-            <!-- Main-Nav -->
             <nav class="main-nav">
                 <ul>
                     <li><a href="index.php">Inicio</a></li>
-                    <!-- Dropdown Nav -->
                     <li>
                         <a>Emprendedores</a>
                         <ul>
@@ -90,7 +105,7 @@
                                 <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
-                                <a href="google-apps.php">Google App</a>
+                                <a href="google-apps.php">Google Apps</a>
                             </li>
                             <li>
                                 <a href="posicionamiento-web.php">Posicionamiento Web</a>
@@ -105,7 +120,6 @@
         </div>
     </div>
 </header>
-        <!-- Sub-Header -->
 
         <section class="hero sub-header">
     <div class="container inactive">
@@ -115,7 +129,6 @@
         </div>
     </div>
 </section>
-<!-- Breadcrumb -->
 
 <nav class="breadcrumb">
 <div class="container">
@@ -125,7 +138,6 @@
 </ul>
 </div>
 </nav>
-        <!-- Main Content -->
         <section class="section secondary more-info" id="s-more-info" style="padding-top:40px; padding-bottom:10px;">
         <div class="container">
         <div class="row">
@@ -165,7 +177,7 @@
 <div class="container">
 <header class="sep active">
     <div class="section-title">
-        <h2>Es en este punto <i>donde <br/>usted necesita la ayuda</i> de <br/><strong>Profesionales en la Materia</strong></h2>
+        <h2 style="font-weight:300">Es en este punto <i>donde <br/>usted necesita la ayuda</i> de <br/><strong>Profesionales en la Materia</strong></h2>
     </div>
     <p class="sub-text">Conocemos y dominamos <a>los métodos más eficaces</a> para posicionar<br/> su sitio web y negocio local</p>
     <p style="color:#f7f7f7;font-size:5px;">posicionamiento web</p>
@@ -240,7 +252,7 @@
 <div class="container">
 <header class="sep active">
     <div class="section-title">
-        <h2>Esto <i>no es todo</i>...</h2>
+        <h2 style="font-weight:300">Esto <i>no es todo</i>...</h2>
         <h3>Tambien posicionamos su negocio local <br/>en Google Mi Negocio</h3>
     </div>
     <p>Aún si usted no dispone de un sitio web, puede <a>aparecer en la primera posición</a> en las búsquedas de Google</p>

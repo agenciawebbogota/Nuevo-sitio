@@ -32,10 +32,8 @@
         <meta name="twitter:description" content="Sitios Web Optimizados con Neuromarketing desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento  y versión móviles">
         <link rel="canonical" href="https://agenciawebbogota.com" />
         <link rel="publisher" href="https://plus.google.com/u/0/113079972107918983296"/>
-        <!-- Icons & favicons -->
         <link rel="apple-touch-icon" href="assets/images/apple-icon-touch.png">
         <link rel="icon" href="assets/images/favicon.png">
-        <!-- Stylesheet -->
         <link rel="stylesheet" href="assets/styles/css/index.css">
         <link rel=”stylesheet” href="assets/icons/font-awesome/css/font-awesome.min.css">
         <?php
@@ -66,25 +64,19 @@
 
 
 <body class="index index-single parallax-title">
-        <!-- SITE CONTENT -->
     <div itemscope itemtype="http://schema.org/LocalBusiness" id="site-content">
         <div id="site-content">
-            <!-- Header -->
             <header class="app-header" id="app-header">
                 <div class="container">
                     <div class="header-wrapper">
-                        <!-- Logo -->
                         <div class="logo" id="logo">
-                            <!-- image logo -->
                             <a href="index.php" class="image-logo">
                                 <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
                             </a>
                         </div>
-                        <!-- Main-Nav -->
                         <nav class="main-nav">
                             <ul>
                                 <li class="active"><a href="index.php">Inicio</a></li>
-                                <!-- Dropdown Nav -->
                                 <li>
                                     <a>Emprendedores</a>
                                     <ul>
@@ -111,10 +103,6 @@
                                         <li>
                                             <a href="google-apps.php">Google App</a>
                                         </li>
-                                        <!-- Servicio futuro -->
-                                        <!-- <li>
-                                            <a href="#">Hosting</a>
-                                        </li> -->
                                         <li>
                                             <a href="posicionamiento-web.php">Posicionamiento</a>
                                         </li>
@@ -129,7 +117,6 @@
                     </div>
                 </div>
             </header>
-        <!-- Hero -->
             <section class="hero inactive">
                 <div class="hero-down">
                     <a href="#s-welcome" class="mouse">
@@ -153,12 +140,11 @@
                     </div>
                 </div>
             </section>
-        <!-- Main Content -->
             <section class="section primary why-choose-us section-map inactive" id="s-disenoweb">
                 <div class="container">
                     <header class="sep active">
                         <div class="section-title">
-                            <h2>¿Que nos <i>hace diferentes?</i></h2>
+                            <h2 style="font-weight:300;">¿Que nos <i>hace diferentes?</i></h2>
                             <h3>Diseño Web Optimizado usando neuromarketing</h3>
                         </div>
                         <p>Desarrollamos Sitios Web que tienen mayor impacto entre los visitantes, causan una mejor impresión, aumentan la recurrencia en las visitas y mejoran la recordación de las marcas.</p>
@@ -167,13 +153,13 @@
                     <div class="span-6 info-video">
                         <div class="auto-resizable-iframe">
                             <div>
-                                <img src="assets/images/responsive_websites.png" alt="Página web cargada en diferentes dispositivos" title="Diseño Web Optimizado">
+                                <img src="assets/images/responsive_websites.png" alt="Página web cargada en diferentes dispositivos - Agencia Web Bogotá">
                             </div>
                         </div>
                     </div>
                     <div class="span-6 more-info-meta">
                         <div class="section-title">
-                            <p><span>Lo principal es un buen diseño</span></p>
+                            <p><span style="font-weight:300">Lo principal es un buen diseño</span></p>
                         </div>
                         <p>En <span itemprop="name"><a>Agencia Web Bogotá</a></span> creamos sitios web con estructura, usabilidad y funcionalidad optimizadas, más una apariencia sencilla y moderna.<span style="color:#f7f7f7">Diseño web bogota</span><br />
                         Para lograrlo trabajamos con <b>Temas y Plugins Premium de WordPress</b> sumado a conceptos de neuroventas que hacen que nuestros websites tengan resultados reales
@@ -200,7 +186,7 @@
             <div class="container">
                 <header class="sep active">
                     <div class="section-title">
-                        <h2><i>WebSites</i> <strong>que Marcan la Diferencia</strong></h2>
+                        <h2 style="font-weight:300"><i>WebSites</i> que Marcan la Diferencia</h2>
                     </div>
                     <p class="sub-text">No son solo las técnicas de <a href="https://agenciawebbogota.com/blog/neuromarketing-que-es-como-funciona/" target="_blank">
                       Neuromarketing</a> lo que dan un valor agregado a nuestros diseños, sino otros aspectos que nos permiten en <a>Agencia Web Bogotá</a> construir
@@ -288,7 +274,7 @@
         <section class="section banner alt">
             <div class="container">
                 <div class="content">
-                    <h4>Diseñamos tu <i>Sitio Web</i> <b>desde $79.000 + IVA</b>/mes</h4>
+                    <h4 style="font-weight:300">Diseñamos tu <i>Sitio Web</i> <b>desde $79.000 + IVA</b>/mes</h4>
                     <p><a>Optimizados con Neuromarketing</a>, Hosting, Dominio y Posicionamiento en buscadores</p>
                 </div>
                 <div class="meta">
@@ -324,7 +310,7 @@
             <div class="container">
                 <header class="sep active">
                     <div class="section-title">
-                        <h2>¿Que mas <i>podemos hacer por ti?</i></h2>
+                        <h2 style="font-weight:300;">¿Que mas <i>podemos hacer por ti?</i></h2>
                         <h3>Tenemos lo que necesitas para impulsar tu marca</h3>
                     </div>
                     <p>En <a>Agencia Web Bogotá</a> te ofrecemos servicios web integrales con resultados reales que llevarán tu negocio a un nuevo nivel en Internet. Trabajamos con las mejores herramientas
@@ -333,9 +319,9 @@
                 <div class="row feature-blocks inactive">
                     <div class="span-3 feature-block-wrapper">
                         <div class="feature-block">
-                            <i class="fa fa-mobile fa-5x" style="color:#fff"></i>
-                            <h4>Desarrollo de Apps</h4>
-                            <h5>Aplicaciones móviles para iOS y Android</h5>
+                            <i class="fa fa-search fa-5x" style="color:#fff"></i>
+                            <h4>Posicionamiento</h4>
+                            <h5>Te ponemos en la primera página de Google</h5>
                         </div>
                     </div>
                     <div class="span-3 feature-block-wrapper">
@@ -384,7 +370,7 @@
                     </div>
                     <div class="team-pic">
                             <div class="mask"></div>
-                            <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa" title="Servicios Digitales para empresa" />
+                            <img src="assets/images/servicios_digitales_empresa.png" alt="Infografia servicios para empresa - Agencia Web Bogotá"/>
                         </div>
                 </div>
             </div>
@@ -393,7 +379,7 @@
             <div class="container">
                 <header class="sep active">
                     <div class="section-title">
-                        <h2>¿Quienes <i>Somos?</i></h2>
+                        <h2 style="font-weight:300;">¿Quienes <i>Somos?</i></h2>
                         <h3>Nuestro equipo de trabajo</h3>
                     </div>
                     <p><a>Agencia Web Bogotá</a> es una empresa joven, en crecimiento, con amplias expectativas y con mucho camino por recorrer. Surge de la unión de experiencias,
@@ -404,7 +390,6 @@
                         <div class="team-pic">
                             <div class="mask"></div>
                             <img src="assets/images/foto_Luis_Fernando.jpg" alt="Desarrollador Web Agencia Web Bogotá" title="Luis Fernando Raga Renteria" />
-                            <!-- 800x543 -->
                         </div>
                         <h4>Luis Fernando Raga</h4>
                         <h5>Programador Web</h5>
@@ -479,19 +464,19 @@
                     <div class="span-8 client-logos">
                         <div class="owl-carousel clients-slider">
                             <a href="http://medefiende.com/principal" target="_blank">
-                                <img src="assets/images/logo-medefiende.png" alt="Logo Medefiende" title="Medefiende Defensa Médica" />
+                                <img src="assets/images/logo-medefiende.png" alt="Logo Medefiende-Agencia Web Bogotá"/>
                             </a>
                             <a href="http://viaggigroup.co/" target="_blank">
-                                <img src="assets/images/logo-viaggi-group.png" alt="Logo Viaggi Group" title="Viaggi Group" />
+                                <img src="assets/images/logo-viaggi-group.png" alt="Logo Viaggi Group-Agencia Web Bogotá"/>
                             </a>
                             <a href="http://quirozencuadernacion.com/" target="_blank">
-                                <img src="assets/images/quiroz_encuadernacion.png" alt="Logo Quiroz Encuadernacion" title="Quiroz Encuadernacion" />
+                                <img src="assets/images/quiroz_encuadernacion.png" alt="Logo Quiroz Encuadernacion-Agencia Web Bogotá"/>
                             </a>
                             <a href="http://servinproh.com/" target="_blank">
-                                <img src="assets/images/servinproh.png" alt="Logo Servinproh" title="Servinproh SAS" />
+                                <img src="assets/images/servinproh.png" alt="Logo Servinproh-Agencia Web Bogotá"/>
                             </a>
                             <a href="http://caribbeancollege.co/" target="_blank">
-                                <img src="assets/images/caribbean_college.png" alt="Logo Caribbean College" title="Caribbean College" />
+                                <img src="assets/images/caribbean_college.png" alt="Logo Caribbean College-Agencia Web Bogotá"/>
                             </a>
                         </div>
                     </div>

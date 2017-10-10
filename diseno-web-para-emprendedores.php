@@ -8,15 +8,9 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="Robots" content="index, follow">
-<<<<<<< HEAD:diseno-web-para-emprendedores.php
   <title>Diseño Web para Emprendedores en Bogotá | Tu web por solo $79.000</title>
-  <meta name="description" content="Diseño Web para Emprendedores en Bogotá por solo $79.000 + IVA/mes. Con Hosting, Dominio, Posicionamiento SEO y Versión Móviles. Llámanos 316 878 56 01">
+  <meta name="description" content="Diseño Web para Emprendedores en Bogotá por solo $79.000 + IVA/mes. Con Hosting, Dominio, Posicionamiento y Versión Móviles. Llámanos 316 878 56 01">
   <meta name="keywords" content="diseño web para emprendedores, agencia web bogota, emprendedores bogota, diseño de paginas web Bogota,">
-=======
-  <title>Aplicativos Web | Agencia Web Bogotá</title>
-  <meta name="description" content="Diseño Web Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
-  <meta name="keywords" content="agencia web bogota, diseño web emprendedores, diseño web bogota, diseño de paginas web Bogota, páginas web corporativas,  diseño de paginas web, diseño paginas web economicas, diseño web optimizado, neuromarketing">
->>>>>>> 0a9da348b837ac9d00a1b38efc9b1255111c51f1:diseno-web-emprendedores.php
   <meta name="author" content="Agencia Web Bogotá">
   <meta name="email" content="agenciawebbogota@gmail.com">
   <meta name="Rating" content="General">
@@ -28,20 +22,18 @@
   <meta property="og:title" content="Diseño Web para Emprendedores en Bogotá | Tu web por solo $79.000" />
   <meta property="og:url" content="https://agenciawebbogota.com/diseno-web-para-emprendedores.php" />
   <meta property="og:image" content="https://www.agenciawebbogota.com/social/diseno-web-emprendedores.jpg" />
-  <meta property="og:description" content="Diseño Web para Emprendedores en Bogotá por solo $79.000 + IVA/mes. Con Hosting, Dominio, Posicionamiento SEO y Versión Móviles" />
+  <meta property="og:description" content="Diseño Web para Emprendedores en Bogotá por solo $79.000 + IVA/mes. Con Hosting, Dominio, Posicionamiento y Versión Móviles" />
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@AgenciaBogota">
   <meta name="twitter:creator" content="@AgenciaBogota">
   <meta name="twitter:image" content="https://www.agenciawebbogota.com/social/diseno-web-emprendedores-twitter-card.jpg">
   <meta name="twitter:image:alt" content="Agencia Web Bogotá | Diseño Web para Emprendedores">
   <meta name="twitter:title" content="Diseño Web para Emprendedores">
-  <meta name="twitter:description" content="Diseño Web para Emprendedores desde $79.000 + IVA por mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
-    <!-- Icons & favicons -->
-    <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
-    <link rel="icon" href="archivos/images/favicon.png">
-    <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/styles/css/app.css">
+  <meta name="twitter:description" content="Diseño Web para Emprendedores por solo $79.000 + IVA/mes. Con Hosting, Dominio, Posicionamiento y versión móviles">
+  <link rel="apple-touch-icon" href="archivos/images/apple-icon-touch.png">
+  <link rel="icon" href="archivos/images/favicon.png">
+  <link rel="stylesheet" type="text/css" href="archivos/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/styles/css/app.css">
     <style type="text/css">
         .hero {
             background-image: url("assets/images/diseno-emprendedores.jpg");
@@ -50,28 +42,45 @@
           background-image: url("assets/images/emprendedores-background.jpg");
         }
     </style>
-    <!-- Modernizr -->
     <script src="assets/js/modernizr.min.js"></script>
+    <?php
+        require_once 'includes/analitics.php';
+     ?>
+     <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '320488008387280'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=320488008387280&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
 </head>
+<script>
+fbq('track', 'ViewContent', {
+value: 3.50,
+currency: 'USD'
+});
+</script>
 <body class="further services">
-    <!-- SITE CONTENT -->
     <div id="site-content">
-        <!-- Header -->
 <header class="app-header" id="app-header">
     <div class="container">
         <div class="header-wrapper">
-            <!-- Logo -->
             <div class="logo" id="logo">
-                <!-- image logo -->
                 <a href="index.php" class="image-logo">
                     <img src="assets/images/logo-agencia-web-bogota.svg" alt="Logo Agencia Web Bogota" title="Agencia Web Bogota" />
                 </a>
             </div>
-            <!-- Main-Nav -->
             <nav class="main-nav">
                 <ul>
                     <li><a href="index.php">Inicio</a></li>
-                    <!-- Dropdown Nav -->
                     <li class="active">
                         <a>Emprendedores</a>
                         <ul>
@@ -96,7 +105,7 @@
                                 <a href="aplicativos-web.php">Aplicativos Web</a>
                             </li>
                             <li>
-                                <a href="google-apps.php">Google App</a>
+                                <a href="google-apps.php">Google Apps</a>
                             </li>
                             <li>
                                 <a href="posicionamiento-web.php">Posicionamiento</a>
@@ -111,7 +120,6 @@
         </div>
     </div>
 </header>
-        <!-- Sub-Header -->
 
         <section class="hero sub-header">
     <div class="container inactive">
@@ -121,7 +129,6 @@
         </div>
     </div>
 </section>
-        <!-- Breadcrumb -->
 
         <nav class="breadcrumb">
     <div class="container">
@@ -131,13 +138,13 @@
         </ul>
     </div>
 </nav>
-        <!-- Main Content -->
+
 
         <section class="section services primary section-map" id="services">
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h2><i>La mejor opción</i> para tu <strong>Emprendimiento</strong></h2>
+                <h2 style="font-weight:300;"><i>La mejor opción</i> para tu <strong>Emprendimiento</strong></h2>
             </div>
             <p class="sub-text">En Agencia Web Bogotá conocemos y entendemos las necesidades de los emprendedores. Por eso hemos ideado
             un paquete de diseño que va más allá de la simple construcción de una página web.</p>
@@ -173,7 +180,7 @@
             <div class="span-4 widget service">
                 <div class="widget-content">
                     <header>
-                        <img src="assets/images/imagenes-diseño-web.png" alt="esquema de construccion de sitio web - diseño web para emprendedores bogota">
+                        <img src="assets/images/imagenes-diseno-web.png" alt="esquema de construccion de sitio web - diseño web para emprendedores bogota">
                         <div class="title">
                             <h4>Imágenes Unicas</h4>
                             <h5>Solo las verás en tu página</h5>
@@ -303,7 +310,7 @@
     <div class="container">
         <header class="sep active">
             <div class="section-title">
-                <h2>Nuestros <i>Planes</i></h2>
+                <h2 style="font-weight:300;">Nuestros <i>Planes</i></h2>
                 <h3>Diseño Web a tu medida</h3>
             </div>
             <p>En Agencia Web Bogotá te ofrecemos precios especiales y facilidades de pago para el desarrollo de tu proyecto de emprendimiento empresarial</p>
@@ -377,8 +384,8 @@
 <section class="section banner2 alt">
     <div class="container">
         <div class="content">
-            <h4>Además <i>Agencia Web Bogotá</i> te cobrará la primer mensualidad cuando tu Sitio Web esté <b>100% Terminado y Online</b> no te exigimos <i>anticipos</i></h4>
-            <p>Contáctanos para más información <a href="contacto.php">sobre nuestros planes y servicios</a></p>
+            <h4 style="font-weight:300;">Además <i>Agencia Web Bogotá</i> te cobrará la primer mensualidad cuando tu Sitio Web esté <b>100% Terminado y Online</b><br/> no te exigimos <i>anticipos</i></h4>
+            <p style="font-weight:300;"><a href="contacto.php">Contáctanos para más información</a> sobre nuestros planes y servicios</p>
         </div>
     </div>
 </section>
