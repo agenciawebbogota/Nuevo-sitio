@@ -16,8 +16,6 @@ $(document).ready(function() {
 		}else if (correo=="") {
 
 		}else{
-
-			console.log("vamos acá al final.");
 			var datos = {
 				nombre:nombre,
 				apellido:apellido,
