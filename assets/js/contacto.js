@@ -33,29 +33,16 @@ $(document).ready(function() {
 				data: datos,
 			})
 			.done(function(resp) {
-				console.log(resp);
-				if (resp) {
+				if (resp.resp) {
 					$('#resultado').text('Tus datos se han enviado, pronto estaremos atendiendo tu solicitud.');
+					$('#nombre').val('');
+					$('#apellido').val('');
+					$('#telefono').val('');
+					$('#correo').val('');
+					$('#mensaje').val('');
 				}
-			})
-			.fail(function(data) {
-				console.log(data);
-			})
-			.always(function() {
-				console.log("complete");
-			});
-			
+			})	
 
-		}
-
-
-
-
-
-		
+		}	
 	});
-
-
-
-
 });

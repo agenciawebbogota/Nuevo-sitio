@@ -96,7 +96,7 @@
     <div class="container inactive">
         <div class="sh-title-wrapper">
             <h1>Desarrollamos tu aplicativo web</h1>
-            <p>Diseñamos y desarrollamos aplicativos web que adapten a la necesidad real de tu empresa o negocio.</p>
+            <p>Diseñamos y desarrollamos aplicativos web que se adapten a la necesidad real de tu empresa o negocio.</p>
         </div>
     </div>
 </section>
