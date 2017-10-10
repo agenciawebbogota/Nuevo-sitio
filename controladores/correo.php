@@ -52,6 +52,7 @@
 		////////////////Destinatarios ///////////////
 		// $mail->addAddress('whary11@gmail.com', 'Raga-Desarrollador Web');     // El nombre es opcional
 		$mail->addAddress('agenciawebbogota@gmail.com', 'Agencia Web');     // El nombre es opcional
+		$mail->addAddress('whary11@gmail.com', 'Desarrollador Web');     // El nombre es opcional
 		$mail->addReplyTo('lraga@agenciawebbogota.com', 'Respuestas Agencia Web Bogotá');   ////Dirección de respuesta es opcional
 		/////copias de correo electrónico/////
 		// $mail->addCC('cc@example.com');
